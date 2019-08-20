@@ -5,7 +5,8 @@ module.exports = function(eleventyConfig) {
     templateFormats: [
       "md",
       "njk",
-      "css"
+      "css",
+      "jpg"
     ],
     dir: {
       output: "docs"
