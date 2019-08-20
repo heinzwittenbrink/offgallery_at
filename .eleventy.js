@@ -1,5 +1,14 @@
-module.exports = {
-  dir: {
-    output: "docs"
-  }
+
+
+module.exports = function(eleventyConfig) {
+  return {
+    templateFormats: [
+      "md",
+      "njk",
+      "css"
+    ],
+    dir: {
+      output: "docs"
+    }
+  };
 };
