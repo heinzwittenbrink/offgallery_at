@@ -9,7 +9,7 @@ module.exports = function(eleventyConfig) {
       "jpg"
     ],
     dir: {
-      output: "docs"
+      output: "_site"
     }
   };
 };
