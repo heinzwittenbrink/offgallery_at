@@ -4,11 +4,11 @@ layout: base.njk
 ---
 <figure>
 
-![Flyer zur Ausstellung "Moving Mountains"](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/movin_mountains.jpg?resize=640%2C640&ssl=1)
+![Flyer zur Ausstellung "Moving Mountains"](/assets/pics/movin_mountains.jpg)
 
 
 
-<figcaption>Flyer zur Ausstellung “Moving Mountains”</figcaption>
+Flyer zur Ausstellung “Moving Mountains”
 
 </figure>
 
@@ -23,13 +23,7 @@ Was passiert wenn eine Stadt siedelt? Die weltweit größte Eisenmine zwingt ihr
 ## Zur Ausstellung
 
 
-<figure class="alignright">![Ulrike Mayrhuber: Aus "Moving Mountains" © Ulrike Mayrhuber](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/moving-mountains-2019-neu2.jpg?resize=300%2C300&ssl=1)
-
-<noscript>![Ulrike Mayrhuber: Aus "Moving Mountains" © Ulrike Mayrhuber](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/moving-mountains-2019-neu2.jpg?resize=300%2C300&ssl=1)</noscript>
-
 <figcaption>© Ulrike Mayrhuber</figcaption>
-
-</figure>
 
 
 
@@ -37,19 +31,20 @@ Die Bergbaustadt Kiruna ist Schwedens nördlichste und gleichzeitig jüngste Sta
 
 
 
-<figure class="alignright">![Ulrike Mayrhuber: Aus "Moving Mountains" © Ulrike Mayrhuber](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/moving-mountains-2019-neu3.jpg?resize=300%2C300&ssl=1)
-
-<noscript>![Ulrike Mayrhuber: Aus "Moving Mountains" © Ulrike Mayrhuber](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/moving-mountains-2019-neu3.jpg?resize=300%2C300&ssl=1)</noscript>
 
 <figcaption>© Ulrike Mayrhuber</figcaption>
 
-</figure>
+
 
 Moving Mountains befasst sich mit dem Phänomen der siedelnden Stadt. Im Juli 2016, als diese Bilder aufgenommen wurden, war Kirunas neues Zentrum eine einzige Brachfläche. Lediglich das neue Rathaus war in Bau. Das Interesse, wie Bevölkerung und ­Städteplaner mit so einem Umzug umgehen werden und die Vorstellung wie die Stadt am neuen Standort aussehen wird, waren Ausgangspunkt für die fotografische Gegenüberstellung der bestehenden Stadt mit ihrem neuen, zum Zeitpunkt der Aufnahmen noch leeren Standort. Was bleibt von der bestehenden Stadt erhalten? Was wird in Vergessenheit geraten? Wie wird entschieden, welche Bewohner wo ihre neue Wohnung, oder ihr neues Haus erhalten und was passiert nach dem Umzug? Wird das neue Kiruna dieselben Geschichten erzählen können, welche das heutige Kiruna erzählt? Wird die alte Stadt Kiruna abgebrochen werden?</div>
 
 Die monochromen Bilder in dieser Ausstellung zeigen die Architektur der bestehenden Stadt, welche durch farbige Szenen der Stadtbaustelle überlagert oder mit diesen gegenübergestellt werden, um so einen räumlichen Bezug zwischen den beiden Orten herzustellen. Das Eisenvorkommen in Kiruna ist aufgrund seiner Reinheit besonders wertvoll, täglich wird so viel Eisen gefördert wie für den Bau von acht Eiffeltürmen notwendig wäre. Aktuell wird in ca. 1.300 m Tiefe (unter der Spitze des Berges Kiirunavaara) abgebaut. Im Winter bleibt die Sonne in Kiruna für 19 Tage komplett unsichtbar, während sie dafür im Sommer für einige Tage nie untergeht. Mehr als 20 Gebäude sollen in Kiruna ihren Standort wechseln und ein großer Teil der Bevölkerung ihre Wohnungen und Häuser. Was macht eine Stadt aus und wie entsteht die Identifikation der Bewohner mit der neuen Stadt?
 
 Ulrike Mayrhuber
+
+![](/assets/pics/moving-mountains-2019-neu2.jpg)
+![](/assets/pics/moving-mountains-2019-neu3.jpg)
+![](/assets/pics/moving-mountains-2019-neu4.jpg)
 
 ## Über Ulrike Mayrhuber
 

@@ -6,15 +6,11 @@ layout: base.njk
 
 
 
-<figure class="wp-block-image">![Einladung zur Ausstellung "Wir bauen eine Stadt"](https://i2.wp.com/offgallery.at/wp-content/uploads/2019/03/kinga.jpg?w=640&ssl=1)
+![Einladung zur Ausstellung "Wir bauen eine Stadt"](/assets/pics/kinga.jpg)
 
-<noscript>![Einladung zur Ausstellung "Wir bauen eine Stadt"](https://i2.wp.com/offgallery.at/wp-content/uploads/2019/03/kinga.jpg?w=640&ssl=1)</noscript>
 
-<figcaption>Einladung zu “Wir bauen eine Stadt”</figcaption>
+Einladung zur Ausstellung "Wir bauen eine Stadt"
 
-</figure>
-
-<div data-carousel-extra="{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https:\/\/offgallery.at\/ausstellungen\/wir-bauen-eine-stadt\/&quot;}" class="wp-block-jetpack-markdown">
 
 "Wir bauen eine Stadt" ist ein audio-visuelles Text-Projekt von Kinga Tóth.
 
@@ -22,7 +18,7 @@ Vernissage/Performance: Mittwoch 20\. März 2019 / 19.00 Uhr
 
 Tag der offenen Tür mit Kinga Toth: 28\. März 2019, 16:00-19:00 Uhr
 
-Bis 28\. April 2019
+Bis 28. April 2019
 
 Di-Fr 14:00-18:00 Uhr
 
@@ -34,41 +30,13 @@ Kinga Tóth hat 3 Monate auf der Platform 12 des Forschungscampus der Bosch GmbH
 
 
 
-*   <figure>![](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/k_2.jpg?fit=640%2C485&ssl=1)
+*   ![](/assets/pics/k_2.jpg)
+*   ![](/assets/pics/k_3.jpg)
+*   ![](/assets/pics/k_4.jpg)
+*   ![](/assets/pics/k_5.jpg)
+*   ![](/assets/pics/k_6.jpg)
+*   ![](/assets/pics/k_7.jpg)
 
-    <noscript>![](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/k_2.jpg?fit=640%2C485&ssl=1)</noscript>
-
-    </figure>
-
-*   <figure>![](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/k_4.jpg?fit=640%2C853&ssl=1)
-
-    <noscript>![](https://i1.wp.com/offgallery.at/wp-content/uploads/2019/05/k_4.jpg?fit=640%2C853&ssl=1)</noscript>
-
-    </figure>
-
-*   <figure>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_3.jpg?fit=640%2C480&ssl=1)
-
-    <noscript>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_3.jpg?fit=640%2C480&ssl=1)</noscript>
-
-    </figure>
-
-*   <figure>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_5.jpg?fit=640%2C640&ssl=1)
-
-    <noscript>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_5.jpg?fit=640%2C640&ssl=1)</noscript>
-
-    </figure>
-
-*   <figure>![](https://i2.wp.com/offgallery.at/wp-content/uploads/2019/05/k_6.jpg?fit=640%2C853&ssl=1)
-
-    <noscript>![](https://i2.wp.com/offgallery.at/wp-content/uploads/2019/05/k_6.jpg?fit=640%2C853&ssl=1)</noscript>
-
-    </figure>
-
-*   <figure>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_7.jpg?fit=640%2C480&ssl=1)
-
-    <noscript>![](https://i0.wp.com/offgallery.at/wp-content/uploads/2019/05/k_7.jpg?fit=640%2C480&ssl=1)</noscript>
-
-    </figure>
 
 ## Zu Kinga Tóth
 
