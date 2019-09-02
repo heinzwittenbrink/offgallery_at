@@ -6,7 +6,7 @@ layout: base.njk
 ---
 
 
-Künstlergespräch Kinga Toth
+## Künstlergespräch Kinga Toth
 
 Wir wollen jetzt
 
