@@ -1,0 +1,40 @@
+---
+layout: base.njk
+
+---
+
+<section>
+<!-- Stichwörter -->
+
+</section>
+
+<section>
+
+<h2>Aktuell</h2>
+
+</section>
+
+<section>
+
+<h2>Ausstellungen</h2>
+
+</section>
+
+<ul>
+
+{%- for ausstellung in collections.ausstellung -%}
+<li>
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p></li>
+{%- endfor -%}
+
+
+</ul>
+
+<section>
+
+<h2>Über die Galerie</h2>
+
+  {{ content | safe }}
+
+</section>

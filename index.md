@@ -1,8 +1,9 @@
 ---
 
-layout: base.njk
+layout: startpage.njk
 title: off_gallery graz - Willkommen
 
 ---
 
- Die off_gallery ist ein Kulturprojekt in der Griesgasse in Graz. Wir entwickeln hier ihre Website.
+In der Griesgasse in Graz zeigen und wir Fotografie und Kunst, die Architektur und Räume erforscht.
+Uns interessiert Architektur im Antropozän, in einer Epoche, in der die menschliche Zivilisation die gesamte Erde bestimmt. 
