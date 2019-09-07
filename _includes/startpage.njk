@@ -12,6 +12,16 @@ layout: base.njk
 
 <h2>Aktuell</h2>
 
+{%- for news in collections.news -%}
+
+<h3>{{news.data.title}}</h3>
+<p>{{news.data.teaser}}</p>
+<p><a href="{{news.url}}">Weiterlesen...</a></p>
+
+
+{%- endfor -%}
+
+
 </section>
 
 <section>

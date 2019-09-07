@@ -1,0 +1,38 @@
+---
+permalink: feed.xml
+metadata:
+  title: off_gallery.at
+  url: https://offgallery.at/
+  author:
+    name: Anastasija Georgi, Erika Petrić, Heinz Wittenbrink
+    email: info@offgallery.at
+  feed:
+    subtitle: offgallery_graz - Nachrichten und Einladungen
+    filename: feed.xml
+    path: feed/feed.xml
+    url: https://offgallery.at/feed.xml
+    id: https://offgallery.at/
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.feed.subtitle }}</subtitle>
+  <link href="{{ metadata.feed.url }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ collections.news | rssLastUpdatedDate }}</updated>
+  <id>{{ metadata.feed.id }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for news in collections.news %}
+  {% set absolutePostUrl %}{{ news.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ news.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ news.date | rssDate }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <content type="html">{{ news.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {%- endfor %}
+</feed>

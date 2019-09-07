@@ -4,3 +4,11 @@ h1, h2, h3, h4, h5, h6 {font-family: 'PT Sans Caption', sans-serif; }
 img {width: 500px;}
 
 img.teaser_image { display:block; width: 200px;}
+
+img#site_logo {width: 8em;}
+
+header span {font-size: 3em;}
+
+header a {color: black; text-decoration: none;}
+
+footer {border-top: 1px solid black;}
