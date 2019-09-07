@@ -1,6 +1,21 @@
+const { DateTime } = require("luxon");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 
 module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addFilter("readableDate", dateObj => {
+     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+   });
+
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  });
+
+  eleventyConfig.addPlugin(pluginRss);
+
+
   return {
     templateFormats: [
       "md",
@@ -12,9 +27,7 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     }
   };
-};
 
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(pluginRss);
+
+
 };
