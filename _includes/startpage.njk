@@ -23,7 +23,7 @@ layout: base.njk
 <ul>
 
 {%- for ausstellung in collections.ausstellung -%}
-<li>
+<li> <img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
 <a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
 <p>{{ ausstellung.data.teaser }} </p></li>
 {%- endfor -%}
