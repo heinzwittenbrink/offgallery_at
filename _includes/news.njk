@@ -3,7 +3,8 @@ layout: base.njk
 
 ---
 
-<section>
+<article>
 <h1>{{title}}</h1>
-<p>  {{ content | safe }} </p>
-</section>
+{{ content | safe }}
+<p>{{author}}</p>
+</article>
