@@ -24,7 +24,7 @@ module.exports = function(eleventyConfig) {
       "jpg"
     ],
     dir: {
-      output: "_site"
+      output: "docs"
     }
   };
 

@@ -1,6 +1,7 @@
 ---
 title: Impressum
 layout: base.njk
+tags: allgemein
 
 ---
 
