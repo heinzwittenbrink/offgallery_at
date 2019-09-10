@@ -3,14 +3,49 @@ layout: base.njk
 
 ---
 
-<section>
-<!-- Stichwörter -->
+
+
+
+
+
+{%- for ausstellung in collections.ausstellung_aktuell -%}
+
+<section id="ongoing" style="background: url('/assets/pics/{{ausstellung.data.image}}.jpg') no-repeat center center scroll;
+background-size: cover;">
+<!-- <img class="cover_image" src=""/> -->
+<h3> <a href="{{ausstellung.url}}">{{ausstellung.data.artists}}: {{ausstellung.data.title}}</a></h3>
+<p id="cover">{{ ausstellung.data.teaser }} <a href="{{ausstellung.url}}">Weiterlesen...</a> </p>
+</section>
+
+{%- endfor -%}
+
+
+
+
+
+
+<section id="exhibitions">
+
+<h2>Rückblick</h2>
+
+
+
+<ul>
+
+{%- for ausstellung in collections.ausstellung -%}
+<li> <img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p></li>
+{%- endfor -%}
+
+
+</ul>
 
 </section>
 
-<section>
+<section id="events">
 
-<h2>News</h2>
+<h2>Veranstaltungen</h2>
 
 {%- for news in collections.news -%}
 
@@ -24,40 +59,7 @@ layout: base.njk
 
 </section>
 
-<section>
-
-<h2>Aktuelle Ausstellung</h2>
-{%- for ausstellung in collections.ausstellung_aktuell -%}
-<img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
-<h3> <a href="{{ausstellung.url}}">{{ausstellung.data.artists}}: {{ausstellung.data.title}}</a></h3>
-<p>{{ ausstellung.data.teaser }} </p>
-<p><a href="{{ausstellung.url}}">Weiterlesen...</a></p>
-{%- endfor -%}
-
-
-</section>
-
-
-
-
-<section>
-
-<h2>Rückblick</h2>
-
-</section>
-
-<ul>
-
-{%- for ausstellung in collections.ausstellung -%}
-<li> <img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
-<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
-<p>{{ ausstellung.data.teaser }} </p></li>
-{%- endfor -%}
-
-
-</ul>
-
-<section>
+<section id="about">
 
 <h2>Über die Galerie</h2>
 
