@@ -3,7 +3,21 @@ new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+- type: document
+  path: allgemein/ueber_uns.md
+  label: Mission
+  match: "**/*"
+- type: directory
+  path: news
+  label: News
+  create: all
+  match: "**/*"
+- type: directory
+  path: ausstellungen
+  label: Exhibitions
+  create: all
+  match: "**/*"
 upload_dir: assets/pics
 public_path: "/assets/pics"
 front_matter_path: ''
