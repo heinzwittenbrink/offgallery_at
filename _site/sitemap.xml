@@ -37,11 +37,6 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/</loc>
-    <lastmod>2019-09-08</lastmod>
-  </url>
-  
-  <url>
     <loc>/ausstellungen/the-promise-of-the-city/thepromiseofthecity-martingrabner-3/</loc>
     <lastmod>2019-09-08</lastmod>
   </url>
@@ -94,5 +89,10 @@
   <url>
     <loc>/allgemein/ueber_uns/</loc>
     <lastmod>2019-09-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-promise-of-the-city/</loc>
+    <lastmod>2019-09-20</lastmod>
   </url>
 </urlset>

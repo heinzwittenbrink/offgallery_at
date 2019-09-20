@@ -28,6 +28,13 @@ module.exports = function(eleventyConfig) {
     }
   };
 
+  /* Forestry instant previews */
+if( process.env.ELEVENTY_ENV == "staging" ) {
+  config.setBrowserSyncConfig({
+    host: "0.0.0.0"
+  });
+}
+
 
 
 };
