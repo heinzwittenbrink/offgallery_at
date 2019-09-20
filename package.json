@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/heinzwittenbrink/offgallery_at/issues"
   },
-  "homepage": "https://github.com/heinzwittenbrink/offgallery_at#readme"
+  "homepage": "https://github.com/heinzwittenbrink/offgallery_at#readme",
+  "dependencies": {
+    "gatsby-cli": "^2.7.49"
+  }
 }
