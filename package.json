@@ -1,0 +1,25 @@
+{
+  "name": "offgallery_at",
+  "version": "1.0.0",
+  "description": "website of offgallery.at",
+  "main": ".eleventy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinzwittenbrink/offgallery_at.git"
+  },
+  "keywords": [
+    "offgallery"
+  ],
+  "author": "Heinz Wittenbrink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinzwittenbrink/offgallery_at/issues"
+  },
+  "homepage": "https://github.com/heinzwittenbrink/offgallery_at#readme"
+}
