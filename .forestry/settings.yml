@@ -7,7 +7,6 @@ sections:
 - type: document
   path: allgemein/ueber_uns.md
   label: Mission
-  match: "**/*"
 - type: directory
   path: news
   label: News
