@@ -1,6 +1,5 @@
 ---
 title: Wir über uns
-layout: base.njk
 tags: allgemein
 
 ---

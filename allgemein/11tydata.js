@@ -1,5 +1,5 @@
 {
-  "layout": "base.njk",
+  "layout": "article.njk",
   "changefreq": "monthly",
   "priority": "0.9"
 }
