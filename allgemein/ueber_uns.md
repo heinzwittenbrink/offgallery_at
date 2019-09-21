@@ -1,7 +1,6 @@
 ---
 title: Wir über uns
 tags: allgemein
-
 ---
 
 off_gallery graz ist eine kollaborative Initiative in Graz-Gries mit dem Ziel, fotografische und künstlerische Projekte zur Erforschung und Erschließung architektonischer und natürlicher Räume zu fördern und öffentlich zu machen. Die InitiatorenInnen des Projekts – Erika Petric, Heinz Wittenbrink, Anastasija Georgi – verbindet das Interesse und die Expertise in Architektur, Photographie und Medienwissenschaft.
