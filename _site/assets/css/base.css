@@ -8,7 +8,7 @@ body {font-family: 'PT Sans', sans-serif;
   grid-column-gap: 0em;
     grid-row-gap: 0em;}
 
-header { grid-column-start: 1; grid-column-end: 13;
+header { grid-column-start: 2; grid-column-end: 13;
 grid-row-start: 1;
 grid-row-end: 2;
 height: 10vh;
@@ -55,8 +55,8 @@ section#ongoing { grid-column-start: 1; grid-column-end: 13;
 section#ongoing div#teaser p {display: none;}
 
     section#exhibitions { grid-column-start: 2; grid-column-end: 12;
-    grid-row-start: 3;
-    grid-row-end: 4;}
+    grid-row-start: 5;
+    grid-row-end: 6;}
 
 
 
@@ -64,8 +64,8 @@ section#ongoing div#teaser p {display: none;}
 
         { grid-column-start: 2; grid-column-end: 12;
 
-      grid-row-start: 5;
-      grid-row-end: 6;}
+      grid-row-start: 3;
+      grid-row-end: 4;}
 
 
       section#about {grid-column-start: 2; grid-column-end: 12;
@@ -116,7 +116,7 @@ img.gallery_image {width: 200px; margin: 2em;}
 
 img#site_logo {width: 4em;}
 
-header span {font-size: 3em;}
+header span {font-size: 3em; vertical-align: top;}
 
 header a {color: black; text-decoration: none;}
 

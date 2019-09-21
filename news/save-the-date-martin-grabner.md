@@ -1,6 +1,6 @@
 ---
 
-title: Save the date - Ausstellungseröffnung mit Martin Grabner am 17.9.
+title: Ausstellungseröffnung mit Martin Grabner am 17.9.
 tags: news
 date: 2019-09-07
 author: Heinz Wittenbrink

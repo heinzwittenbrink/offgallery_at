@@ -1,10 +1,10 @@
 ---
-title: The Promise of the City / Das Versprechen von Stadt
+title: The Promise of the City
 layout: ausstellung.njk
 tags: ausstellung_aktuell
 artists: Martin Grabner
 slug: the-promise-of-the-city
-teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind die in ihnen leben?
+teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind, die in ihnen leben?
 image: thepromiseofthecity-martingrabner-1
 gallery:
 - thepromiseofthecity-martingrabner-1
