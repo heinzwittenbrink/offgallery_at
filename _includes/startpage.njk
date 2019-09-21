@@ -12,9 +12,10 @@ layout: base.njk
 
 <section id="ongoing" style="background: url('/assets/pics/{{ausstellung.data.image}}.jpg') no-repeat center bottom scroll;
 background-size: cover;">
-<!-- <img class="cover_image" src=""/> -->
+<div id="teaser">
 <h3> <a href="{{ausstellung.url}}">{{ausstellung.data.artists}}: {{ausstellung.data.title}}</a></h3>
 <p id="cover">{{ ausstellung.data.teaser }} <a href="{{ausstellung.url}}">Weiterlesen...</a> </p>
+</div>
 </section>
 
 {%- endfor -%}
@@ -30,12 +31,12 @@ background-size: cover;">
 
 
 
-<ul>
+
 
 {%- for ausstellung in collections.ausstellung -%}
-<li> <img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
+<img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
 <a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
-<p>{{ ausstellung.data.teaser }} </p></li>
+<p>{{ ausstellung.data.teaser }} </p>
 {%- endfor -%}
 
 
