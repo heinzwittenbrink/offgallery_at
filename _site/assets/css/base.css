@@ -46,14 +46,13 @@ footer {grid-column-start: 1; grid-column-end: 7;
 h1, h2, h3, h4, h5, h6 {font-family: 'PT Sans Caption', sans-serif; }
 
 
-section#ongoing h3, p {text-align: center;
-color: white;}
+section#ongoing h3, p {text-align: center;}
 
 section#ongoing p {display: block; height: 2em; width: 75%; position: absolute; bottom: 0.5em; left:12.5%; font-size: 1.5em;}
 
 section#ongoing h3 {position: absolute; bottom: 2.5em; font-size:2em;}
 
-section#ongoing a:link, a:visited, a:hover, a:active {color: white;}
+section#ongoing a:link, a:visited, a:hover, a:active {color: black;}
 
 img {width: 500px;}
 
