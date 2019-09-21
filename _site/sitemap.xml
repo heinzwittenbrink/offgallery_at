@@ -82,17 +82,22 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/</loc>
-    <lastmod>2019-09-20</lastmod>
-  </url>
-  
-  <url>
     <loc>/allgemein/impressum/</loc>
     <lastmod>2019-09-21</lastmod>
   </url>
   
   <url>
     <loc>/allgemein/ueber_uns/</loc>
+    <lastmod>2019-09-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-promise-of-the-city/</loc>
+    <lastmod>2019-09-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/partner/landsteiermark/</loc>
     <lastmod>2019-09-21</lastmod>
   </url>
 </urlset>
