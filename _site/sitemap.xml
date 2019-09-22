@@ -27,11 +27,6 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/thepromiseofthecity-martingrabner-1/</loc>
-    <lastmod>2019-09-08</lastmod>
-  </url>
-  
-  <url>
     <loc>/ausstellungen/the-promise-of-the-city/thepromiseofthecity-martingrabner-2/</loc>
     <lastmod>2019-09-08</lastmod>
   </url>
@@ -97,7 +92,12 @@
   </url>
   
   <url>
+    <loc>/ausstellungen/the-promise-of-the-city/thepromiseofthecity-martingrabner-1/</loc>
+    <lastmod>2019-09-22</lastmod>
+  </url>
+  
+  <url>
     <loc>/ausstellungen/the-promise-of-the-city/</loc>
-    <lastmod>2019-09-21</lastmod>
+    <lastmod>2019-09-22</lastmod>
   </url>
 </urlset>

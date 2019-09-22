@@ -5,14 +5,14 @@ tags: ausstellung_aktuell
 artists: Martin Grabner
 slug: the-promise-of-the-city
 teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind, die in ihnen leben?
-image: thepromiseofthecity-martingrabner-1
+image: martin-grabner-white-noice-white-voice-1
 gallery:
-- thepromiseofthecity-martingrabner-1
-- thepromiseofthecity-martingrabner-2
-- thepromiseofthecity-martingrabner-3
-- thepromiseofthecity-martingrabner-4
-- thepromiseofthecity-martingrabner-5
-- thepromiseofthecity-martingrabner-6
+- martin-grabner-white-noice-white-voice-1
+- martin-grabner-view-from-a-hill-philopappos
+- martin-grabner-real-estate-nationalism-under-occupation-2
+- martin-grabner-real-estate-nationalism-under-occupation-3
+- martin-grabner-markets-mercat-dels-enchants
+- martin-grabner-living-with-the-wall
 - thepromiseofthecity-martingrabner-7
 - thepromiseofthecity-martingrabner-8
 - thepromiseofthecity-martingrabner-9
