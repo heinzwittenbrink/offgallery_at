@@ -59,6 +59,8 @@ section#exhibition_gallery { grid-column-start: 2; grid-column-end: 12;
 
 }
 
+p.credits  {border: 1px solid red; transform:rotate(90deg); hyphens: none;}
+
 /*end layout for exhibition pages*/
 
 section#ongoing { grid-column-start:1 ; grid-column-end: 13;

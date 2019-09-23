@@ -14,9 +14,21 @@ layout: base.njk
 
 <img src="/assets/pics/{{i}}.jpg"/>
 
+<!--
+<p class="credits">
+<small>Rechte: {{rights}}</small>
+</p>
+-->
+
+
+
 {%- endfor -%}
 
+
+
 </div>
+
+
 
 <h1>{{artist}}: {{title}}</h1>
 
@@ -25,7 +37,7 @@ layout: base.njk
 {{ content | safe }}
 </figcaption>
 
-<p>Rechte: {{rights}}</p>
+
 
 </figure>
 
