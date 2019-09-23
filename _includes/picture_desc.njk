@@ -1,0 +1,32 @@
+---
+layout: base.njk
+
+---
+
+<article>
+
+
+<figure>
+
+<div id="photos">
+
+{%- for i in gallery -%}
+
+<img src="/assets/pics/{{i}}.jpg"/>
+
+{%- endfor -%}
+
+</div>
+
+<h1>{{artist}}: {{title}}</h1>
+
+
+<figcaption>
+{{ content | safe }}
+</figcaption>
+
+<p>Rechte: {{rights}}</p>
+
+</figure>
+
+</article>

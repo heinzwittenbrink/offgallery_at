@@ -7,16 +7,13 @@ slug: the-promise-of-the-city
 teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind, die in ihnen leben?
 image: martin-grabner-white-noise-white-voice-1
 gallery:
-- martin-grabner-white-noise-white-voice-1
-- martin-grabner-white-noise-white-void-2
+- martin-grabner-white-noise-white-voice
 - martin-grabner-view-from-a-hill-philopappos
-- martin-grabner-real-estate-nationalism-under-occupation-1
-- martin-grabner-real-estate-nationalism-under-occupation-2
-- martin-grabner-real-estate-nationalism-under-occupation-3
+- martin-grabner-real-estate-nationalism-under-occupation
 - martin-grabner-markets-mercat-dels-enchants
 - martin-grabner-living-with-the-wall
 - martin-grabner-behind-the-white-city
-- martin-grabner-transfomation-ldn
+- martin-grabner-transformation-ldn
 
 ---
 Freiheit, wirtschaftlicher Aufstieg, kulturelle Vielfalt. Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind die in ihnen leben? Wenn Stadt nur mehr Macht und Profit, Investment und Spekulation bedeutet?
