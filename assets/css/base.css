@@ -108,6 +108,22 @@ section#ongoing div#teaser p {display: none;}
   grid-row-start: 2;
   grid-row-end: 3;}
 
+  #photos { display:  flex;
+  flex-flow: column;
+  flex-wrap: nowrap;
+  align-items: flex-end;
+  align-content: flex-start;
+  justify-content: flex-start;
+  /* border: 2px solid red; */
+  }
+
+  #photos img {
+    max-width:100%;
+    width: auto;
+ height: auto;
+ margin-bottom:3em;
+  }
+
 }
 
 @media (min-width: 700px) { article { grid-column-start: 2; grid-column-end: 12;
