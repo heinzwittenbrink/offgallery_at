@@ -38,7 +38,7 @@ section#exhibition_gallery { grid-column-start: 2; grid-column-end: 12;
 
 /*end layout for exhibition pages*/
 
-section#ongoing { grid-column-start: ; grid-column-end: 13;
+section#ongoing { grid-column-start:1 ; grid-column-end: 13;
   grid-row-start: 2;
   grid-row-end: 3;
   height: 90vh;
