@@ -1,5 +1,8 @@
 ---
 title: The Promise of the City
+subtitle: Fotografien von Martin Grabner
+time: 13.9.–15.10.2019
+openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 tags: ausstellung_aktuell
 artists: Martin Grabner

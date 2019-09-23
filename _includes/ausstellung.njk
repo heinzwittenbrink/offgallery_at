@@ -4,9 +4,16 @@ layout: base.njk
 
 ---
 
+<section id="exhibition_info">
+
+<h1>{{title}}</h1>
+<p><strong>{{subtitle}}</strong></p>
+<p><strong>{{time}}</strong></p>
+<p><strong>{{openingtime}}</strong></p>
+</section>
+
 <section id="exhibition_text">
 
-<h1> {{artists}}: {{title}}</h1>
 
   {{ content | safe }}
 
@@ -22,11 +29,5 @@ layout: base.njk
 
 {%- endfor -%}
 
-
-</section>
-
-<section>
-
-<!-- Texte -->
 
 </section>

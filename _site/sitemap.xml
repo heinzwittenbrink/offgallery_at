@@ -42,11 +42,6 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/</loc>
-    <lastmod>2019-09-22</lastmod>
-  </url>
-  
-  <url>
     <loc>/ausstellungen/the-promise-of-the-city/martin-grabner-real-estate-nationalism-under-occupation/</loc>
     <lastmod>2019-09-22</lastmod>
   </url>
@@ -83,6 +78,11 @@
   
   <url>
     <loc>/ausstellungen/wir_bauen_eine_stadt/</loc>
+    <lastmod>2019-09-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-promise-of-the-city/</loc>
     <lastmod>2019-09-23</lastmod>
   </url>
 </urlset>
