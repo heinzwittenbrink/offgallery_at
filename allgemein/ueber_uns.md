@@ -3,7 +3,11 @@ title: Wir über uns
 tags: allgemein
 ---
 
-off_gallery graz ist eine kollaborative Initiative in Graz-Gries. Räumlicher Mittelpunkt ist einer Galerie in der Griesgasse. Wir präsentierten und begleiten Projekte,  die Fotografie und andere gestalterische Medien benutzen, um architektonische und urbane Räume der Gegenwart zu erforschen. Die InitiatorenInnen des Projekts – Erika Petric, Heinz Wittenbrink, Anastasija Georgi – verbindet Interesse und Expertise in Architektur, Photographie und Medienwissenschaft.
+off_gallery graz ist eine kollaborative Initiative in Graz-Gries. Schwerpunkt unserer Arbeit sind Ausstellungen von Architekturfotografie und begleitende Veranstaltungen und Publikationen. Uns interessiert Fotografie als Medium kritischer künstlerischer Erforschung architektonischer und urbaner Räume.
+
+Wir möchten Recherchen und Interventionen in den lokalen Situationen in Graz anregen, indem wir sie mit nah verwandten und mit radikal andersartigen räumlichen Situationen konfrontieren und verknüpfen. Wir verstehen Fotografie als Zugang zu *kritischen Zonen* im *Anthropozän*, in dessen gesellschaftlicher Wirklichkeit menschliche, natürliche und technische Akteure untrennbar miteinander verbunden sind. Im Sinne eines transmedialen Ansatzes sind wir aber auch für andere künstlerische Format offen. 
+
+Die InitiatorenInnen des Projekts – Erika Petric, Heinz Wittenbrink, Anastasija Georgi – verbindet Interesse und Expertise in Architektur, Photographie und Medienwissenschaft.
 
 Wir wollen zeigen, wie unter den Bedingungen des “Anthropozän” geplantes und ungeplantes Bauen soziale Räume formt und zerstört, wo es scheitert und wo Unvorhergesehenes gelingt. Dazu präsentieren wir Architektur in Bildern, die die Benutzung, die Geschichte und den Verfall von Objekten zeigen, die ihre Besonderheiten und Probleme erschließen. Uns interessieren die “kritischen Zonen” (Bruno Latour), in denen natürliche, gesellschaftliche und technische Faktoren aufeinandertreffen. Die Untersuchungen, die wir stimulieren, entwickeln sich daher um die Begriffe der “Grenze” und des “Mapping” von verschiedenen internen und externen Territorien.
 
