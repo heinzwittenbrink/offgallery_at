@@ -1,6 +1,5 @@
 ---
 title: Mitglied werden
-layout: base.njk
 tags: allgemein
 
 ---
