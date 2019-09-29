@@ -13,8 +13,8 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
   });
 
-  eleventyConfig.addFilter('printDate', (dateString) => {
-    return 'test!' + JSON.stringify(dateString);
+  eleventyConfig.addFilter('printDate', (dateString, formatString) => {
+    return DateTime.fromISO(dateString).toFormat(formatString);
   });
 
   eleventyConfig.addPlugin(pluginRss);

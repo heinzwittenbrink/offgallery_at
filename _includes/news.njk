@@ -5,7 +5,7 @@ layout: base.njk
 
 <article>
 <h1>{{title}}</h1>
-<p>{{mydate | printDate}}</p>
+<p>{{date | printDate("dd.MM.yy")}}</p>
 {{ content | safe }}
 <p>{{author}}</p>
 </article>
