@@ -48,7 +48,7 @@ background-size: cover;">
 
 <h2>Save the date</h2>
 
-{%- for news in collections.news -%}
+{%- for news in collections.news | reverse -%}
 
 <h3>{{news.data.title}}</h3>
 <p>{{news.data.teaser}}</p>
