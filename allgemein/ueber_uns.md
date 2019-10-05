@@ -3,9 +3,9 @@ title: Wir über uns
 tags: allgemein
 ---
 
-off_gallery graz ist eine kollaborative Initiative in Graz-Gries. Schwerpunkt unserer Arbeit sind Ausstellungen von Architekturfotografie und begleitende Veranstaltungen und Publikationen. Uns interessiert Fotografie als Medium kritischer künstlerischer Erforschung architektonischer und urbaner Räume.
+off_gallery graz ist eine kollaborative Initiative in Graz-Gries. Unser Ziel ist die kritische Auseinandersetzung mit architektonischen und urbanen Räumen. zeigen Architekturphotographie und andere Schwerpunkt unserer Arbeit sind Ausstellungen von Architekturfotografie und begleitende Veranstaltungen und Publikationen. Uns interessiert Fotografie als Medium kritischer künstlerischer Erforschung architektonischer und urbaner Räume.
 
-Wir möchten Recherchen und Interventionen in den lokalen Situationen in Graz anregen, indem wir sie mit nah verwandten und mit radikal andersartigen räumlichen Situationen konfrontieren und verknüpfen. Wir verstehen Fotografie als Zugang zu *kritischen Zonen* im *Anthropozän*, in dessen gesellschaftlicher Wirklichkeit menschliche, natürliche und technische Akteure untrennbar miteinander verbunden sind. Im Sinne eines transmedialen Ansatzes sind wir aber auch für andere künstlerische Format offen. 
+Wir möchten Recherchen und Interventionen in den lokalen Situationen in Graz anregen, indem wir sie mit nah verwandten und mit radikal andersartigen räumlichen Situationen konfrontieren und verknüpfen. Wir verstehen Fotografie als Zugang zu *kritischen Zonen* im *Anthropozän*, in dessen gesellschaftlicher Wirklichkeit menschliche, natürliche und technische Akteure untrennbar miteinander verbunden sind. Im Sinne eines transmedialen Ansatzes sind wir aber auch für andere künstlerische Formate offen.
 
 Die InitiatorenInnen des Projekts – Erika Petric, Heinz Wittenbrink, Anastasija Georgi – verbindet Interesse und Expertise in Architektur, Photographie und Medienwissenschaft.
 

@@ -4,8 +4,14 @@ layout: base.njk
 ---
 
 <article>
+<section id="head">
+<strong>{{eventtype | safe}}</strong>
+{%- for i in topics -%}
+<p><strong>#{{i}}</strong></p>
+{%- endfor -%}
 <h1>{{title}}</h1>
 <p>{{date | printDate("dd.MM.yy")}}</p>
+<blockquote>{{quote | safe}}</blockquote>
+</section>
 {{ content | safe }}
-<p>{{author}}</p>
 </article>
