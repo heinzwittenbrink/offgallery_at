@@ -1,9 +1,23 @@
 ---
 title: Wir bauen eine Stadt
+subtitle: Ein Projekt von Kinga Tóth
+time: 20.3.-28.4.2019
 layout: ausstellung.njk
 tags: ausstellung
+artists: Kinga Tóth
+slug: wir-bauen-eine-stadt
 teaser: Kinga Tóth hat 3 Monate auf der Platform 12 des Forschungscampus der Bosch GmbH in Renningen bei Stuttgart verbracht. Die Beschäftigung mit der deutschen Sprache als Fremdsprache und mit der Maschinensprache der Zukunft und der Drohnen resultierte in einem 3D-Projekt, einer audiovisuell-sprachlichen Komposition von Konturen, Maschinengeräuschen, Mangel- und Codesprache.
 image: kinga
+gallery:
+- kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert
+- kinga-toth-wir-bauen-eine-stadt-das-ist-der-plan
+- kinga-toth-wir-bauen-eine-stadt-das-ist-die-fuegungsregel
+- kinga-toth-wir-bauen-eine-stadt-die-letzte-erde
+- kinga-toth-wir-bauen-eine-stadt-i-am-a-drone
+- kinga-toth-wir-bauen-eine-stadt-zuerst-gitter
+
+
+
 ---
 
 
