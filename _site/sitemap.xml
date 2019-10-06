@@ -7,11 +7,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-09-06</lastmod>
-  </url>
-  
-  <url>
     <loc>/news/save-the-date-martin-grabner/</loc>
     <lastmod>2019-09-07</lastmod>
   </url>
@@ -67,16 +62,6 @@
   </url>
   
   <url>
-    <loc>/allgemein/mitglied-werden/</loc>
-    <lastmod>2019-09-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>/allgemein/ueber_uns/</loc>
-    <lastmod>2019-10-01</lastmod>
-  </url>
-  
-  <url>
     <loc>/ausstellungen/moving_mountains/materialien/</loc>
     <lastmod>2019-10-06</lastmod>
   </url>
@@ -88,6 +73,21 @@
   
   <url>
     <loc>/ausstellungen/wir_bauen_eine_stadt/</loc>
+    <lastmod>2019-10-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>/allgemein/mitglied-werden/</loc>
+    <lastmod>2019-10-06</lastmod>
+  </url>
+  
+  <url>
+    <loc>/allgemein/ueber_uns/</loc>
     <lastmod>2019-10-06</lastmod>
   </url>
   
