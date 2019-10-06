@@ -26,47 +26,21 @@ gallery:
 ![Einladung zur Ausstellung "Wir bauen eine Stadt"](/assets/pics/kinga.jpg)
 
 
-Einladung zur Ausstellung "Wir bauen eine Stadt"
 
-
-"Wir bauen eine Stadt" ist ein audio-visuelles Text-Projekt von Kinga Tóth.
+"Wir bauen eine Stadt" war ein audio-visuelles Text-Projekt von Kinga Tóth.
 
 Vernissage/Performance: Mittwoch 20\. März 2019 / 19.00 Uhr
 
 Tag der offenen Tür mit Kinga Toth: 28\. März 2019, 16:00-19:00 Uhr
 
-Bis 28. April 2019
-
-Di-Fr 14:00-18:00 Uhr
-
 Eine Veranstaltung der [Kulturvermittlung Steiermark](https://www.kulturvermittlung.org/primcell.php?ses=8000y3825q&lang=dt&bas=kvs "Kulturvermittlung Steiermark") in Kooperation mit der off_gallery graz.
-
-
 
 Kinga Tóth hat 3 Monate auf der Platform 12 des Forschungscampus der Bosch GmbH in Renningen bei Stuttgart verbracht. Die Beschäftigung mit der deutschen Sprache als Fremdsprache und mit der Maschinensprache der Zukunft und der Drohnen resultierte in einem 3D-Projekt, einer audiovisuell-sprachlichen Komposition von Konturen, Maschinengeräuschen, Mangel- und Codesprache.
 
-
-
-*   ![](/assets/pics/k_2.jpg)
-*   ![](/assets/pics/k_3.jpg)
-*   ![](/assets/pics/k_4.jpg)
-*   ![](/assets/pics/k_5.jpg)
-*   ![](/assets/pics/k_6.jpg)
-*   ![](/assets/pics/k_7.jpg)
-
-
 ## Zu Kinga Tóth
-
-
 
 Kinga Tóth ist von September 2018 bis August 2019 Grazer Stadtschreiberin im Internationalen Haus der Autorinnen und Autoren Graz.
 
 Website: [TK](http://tothkinga.blogspot.com/ "TK")
 
 Wikipedia-Artikel: [Kinga Tóth](https://de.wikipedia.org/wiki/Kinga_T%C3%B3th "Kinga Tóth – Wikipedia")
-
-
-
-
-*   [<span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span>](https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/?share=twitter "Click to share on Twitter")
-*   [<span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span>](https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/?share=facebook "Click to share on Facebook")
