@@ -4,7 +4,7 @@ tags: allgemein
 
 ---
 
-Die Off_gallery Graz ist eine als gemeinnütziger Verein geführte Gallerie und Aktionsplattform.
+Die Off_gallery Graz ist eine als gemeinnütziger Verein geführte Galerie und Aktionsplattform.
 
 Adresse:
 
