@@ -23,6 +23,7 @@ header { grid-column-start: 2; grid-column-end: 13;
 grid-row-start: 1;
 grid-row-end: 2;
 height: 10vh;
+display:grid; align-items: center;
 
 }
 
