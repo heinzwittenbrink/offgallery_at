@@ -100,7 +100,10 @@ section#ongoing { grid-column-start:1 ; grid-column-end: 13;
 
   @media (max-width: 700px) {
 
-section#ongoing div#teaser p {display: none;}
+  section#ongoing div#teaser p {display: none;}
+
+  section#ongoing h3 {margin:0.2em;}
+
 
     section#exhibitions { grid-column-start: 2; grid-column-end: 12;
     grid-row-start: 5;
