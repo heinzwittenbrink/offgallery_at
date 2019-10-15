@@ -67,11 +67,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-10-06</lastmod>
-  </url>
-  
-  <url>
     <loc>/allgemein/ueber_uns/</loc>
     <lastmod>2019-10-06</lastmod>
   </url>
@@ -89,6 +84,11 @@
   <url>
     <loc>/allgemein/mitglied-werden/</loc>
     <lastmod>2019-10-07</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-10-15</lastmod>
   </url>
   
   <url>
