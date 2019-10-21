@@ -225,7 +225,7 @@ section#ongoing a:hover {color: white;}
 section#ongoing a:active {color: white;}
 
 
-img {width: 500px;}
+/*img {width: 500px;} */
 
 <!--
 img.cover_image { display:block; width: 100%; object-fit: cover; object-position:center top;} -->

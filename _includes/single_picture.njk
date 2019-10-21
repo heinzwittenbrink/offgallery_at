@@ -1,0 +1,53 @@
+---
+layout: base.njk
+
+---
+
+<article>
+
+
+<figure class="single_picture">
+
+
+
+
+
+<img srcset="/assets/pics/{{picture}}_180px.jpg 180w,
+             /assets/pics/{{picture}}_360px.jpg 360w,
+             /assets/pics/{{picture}}_720px.jpg 720w,
+              /assets/pics/{{picture}}_1080px.jpg 1080w,
+              /assets/pics/{{picture}}_1440px.jpg 1440w"
+
+              sizes="(max-width: 180px) 140px,
+                     (max-width: 360px) 320px,
+                     (max-width: 720px) 680px,
+                            (max-width: 1080px) 1040px,
+                            1400px"
+
+                src=""/assets/pics/{{picture}}_1440px.jpg 1440w" alt=""
+/>
+
+<!--
+<p class="credits">
+<small>Rechte: {{rights}}</small>
+</p>
+-->
+
+
+
+
+
+
+
+<h1>{{artist}}: {{title}}</h1>
+
+
+<figcaption>
+{{ content | safe }}
+</figcaption>
+
+
+
+</figure>
+
+</article>
