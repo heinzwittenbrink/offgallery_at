@@ -6,11 +6,7 @@ layout: base.njk
 <article>
 
 
-<figure class="single_picture">
-
-
-
-
+<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject">
 
 <img srcset="/assets/pics/{{picture}}_180px.jpg 180w,
              /assets/pics/{{picture}}_360px.jpg 360w,
@@ -18,20 +14,16 @@ layout: base.njk
               /assets/pics/{{picture}}_1080px.jpg 1080w,
               /assets/pics/{{picture}}_1440px.jpg 1440w"
 
-              sizes="(max-width: 180px) 140px,
-                     (max-width: 360px) 320px,
-                     (max-width: 720px) 680px,
-                            (max-width: 1080px) 1040px,
-                            1400px"
+              sizes="(max-width: 1728px) 70vw, 1440px"
 
-                src=""/assets/pics/{{picture}}_1440px.jpg 1440w" alt=""
+                src=""/assets/pics/{{picture}}_1440px.jpg 1440w" alt="{{title}}" itemprop="contentUrl"
 />
 
-<!--
-<p class="credits">
-<small>Rechte: {{rights}}</small>
-</p>
--->
+<figcaption>
+<span itemprop="author">{{artist}}</span>: <span itemprop="name">{{title}}</span>. Rechte: <span itemprop="rights">{{rights}}</span>
+</figcaption>
+
+</figure>
 
 
 
