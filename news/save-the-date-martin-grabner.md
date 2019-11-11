@@ -1,7 +1,7 @@
 ---
 
 title: Ausstellungseröffnung mit Martin Grabner am 17.9.
-tags: news
+tags: news_old
 date: "2019-09-07T19:00"
 author: Heinz Wittenbrink
 teaser: Am 17.9. eröffnen wir die erste Ausstellung des Herbstprogramms.
