@@ -36,4 +36,4 @@ Begrenzte Teilnehmerzahl!
 
 **ECoC-AXIS: Graz - Rijeka - Novi Sad** is a three-year interdisciplinary project in urban space that fosters cooperation and dialog between creative practitioners (students/professionals in the field of architecture and photography, and beyond) and local micro-communities, including vulnerable groups (migrants, refugees).
 
-[Read more about the exhibition](ausstellungen/fact-forum-graz-gent/)
+[Read more about the exhibition](https://offgallery.at/ausstellungen/fact-forum-graz-gent/)
