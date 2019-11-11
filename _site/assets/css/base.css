@@ -252,8 +252,15 @@ header span {font-size: 3em; vertical-align: top;}
 
 /* Single picture */
 
-figure.single_picture { grid-column-start: 1;  grid-column-end: 12; }
-figure.single_picture img { display: block; margin:0; padding:0; }
+figure.single_picture { grid-column-start: 1;
+  grid-column-end: 12;
+  margin:0;
+  padding:0;
+}
+
+figure.single_picture img { display: block; margin:0; padding:0;
+    
+}
 
 
 

@@ -6,7 +6,7 @@ layout: base.njk
 <article>
 
 
-<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject">
+<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject" border: 1px dotted red;  >
 
 <img srcset="/assets/pics/{{picture}}_180px.jpg 180w,
              /assets/pics/{{picture}}_360px.jpg 360w,
@@ -14,7 +14,8 @@ layout: base.njk
               /assets/pics/{{picture}}_1080px.jpg 1080w,
               /assets/pics/{{picture}}_1440px.jpg 1440w"
 
-              sizes="(max-width: 1728px) 70vw, 1440px"
+              sizes="(min-width: 180px) 82vw, 1440px"
+              
 
                 src=""/assets/pics/{{picture}}_1440px.jpg 1440w" alt="{{title}}" itemprop="contentUrl"
 />
