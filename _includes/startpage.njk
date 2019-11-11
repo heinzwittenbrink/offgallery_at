@@ -46,10 +46,10 @@ background-size: cover;">
 
 <section id="events">
 
-<h2>Save the date</h2>
+<h2>Save the date:</h2>
 
 {%- for news in collections.news | reverse -%}
-
+<p><strong>{{news.data.date | printDate("dd.MM.yy")}}</strong></p>
 <h3>{{news.data.title}}</h3>
 <p>{{news.data.teaser}}</p>
 <p><a href="{{news.url}}">Weiterlesen...</a></p>
