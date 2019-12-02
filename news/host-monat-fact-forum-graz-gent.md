@@ -3,7 +3,7 @@
 title: "HOST MONTH in der off_gallery graz: f.act-forum, graz < > gent"
 eventtype:
 topics:
-tags: news
+tags: news_old
 date: 2019-11-22T17:00
 author: Heinz Wittenbrink
 teaser: |-

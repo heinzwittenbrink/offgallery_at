@@ -25,7 +25,8 @@ module.exports = function(eleventyConfig) {
       "md",
       "njk",
       "css",
-      "jpg"
+      "jpg",
+      "svg"
     ],
     dir: {
       output: "_site"

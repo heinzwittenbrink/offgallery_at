@@ -3,8 +3,8 @@ title: "f.act-forum, graz < > gent"
 subtitle: a series of experimental workshops on photography in architecture and urban space
 time: 22.11.–4.12.2019
 openingtime: Mo–Fr 11–13 14–17 Uhr
-layout: ausstellung.njk
-tags: ausstellung_aktuell
+layout: ausstellung
+tags: ausstellung
 artists: HOST-MONTH
 slug: fact-forum-graz-gent
 teaser: "ECoC-AXIS: Graz - Rijeka - Novi Sad is a three-year interdisciplinary project in urban space that fosters cooperation and dialog between creative practitioners (students/professionals in the field of architecture and photography, and beyond) and local micro-communities, including vulnerable groups (migrants, refugees)."

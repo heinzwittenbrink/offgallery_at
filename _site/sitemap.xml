@@ -82,12 +82,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/news/kuenstlergespräch-mit-martin-grabner/</loc>
     <lastmod>2019-10-15</lastmod>
   </url>
   
   <url>
-    <loc>/news/kuenstlergespräch-mit-martin-grabner/</loc>
+    <loc>/</loc>
     <lastmod>2019-10-15</lastmod>
   </url>
   
@@ -102,12 +102,32 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/fact-forum-graz-gent/</loc>
-    <lastmod>2019-11-11</lastmod>
+    <loc>/ausstellungen/</loc>
+    <lastmod>2019-11-16</lastmod>
   </url>
   
   <url>
     <loc>/news/host-monat-fact-forum-graz-gent/</loc>
     <lastmod>2019-11-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/fact-forum-graz-gent/</loc>
+    <lastmod>2019-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/yona_friedman/</loc>
+    <lastmod>2019-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2019-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/yona-friedman-opening/</loc>
+    <lastmod>2019-12-04</lastmod>
   </url>
 </urlset>
