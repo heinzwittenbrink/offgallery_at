@@ -87,7 +87,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="34.199623"
+     inkscape:cx="-14.371806"
      inkscape:cy="35.18066"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -115,20 +115,24 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-271.59998)">
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1.6673169,295.04177 V 282.88272 H 10.35716 v 12.15905 z"
-       id="path1084"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1086"
-       d="m 1.6682088,280.26465 v -6.60342 H 23.362258 v 6.60342 z"
-       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:1.06011713;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path1088"
-       d="m 16.587545,295.04177 v -6.77559 h 6.775605 v 6.77559 z"
-       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g834"
+       transform="matrix(1.0087443,0,0,1.0020988,-0.01489838,-0.62156696)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1084"
+         d="m 1.9496075,293.47386 v -16.993 H 15.234611 v 16.993 z"
+         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 3.8706768,286.8753 V 273.47559 H 23.450392 v 13.39971 z"
+         id="path1086"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 11.006955,295.12437 V 284.43419 H 21.69715 v 10.69018 z"
+         id="path1088"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
