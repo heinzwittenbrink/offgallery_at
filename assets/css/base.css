@@ -11,6 +11,8 @@ main, footer  {display: grid;
   grid-column-gap: 0em;
     grid-row-gap: 0em;}
 
+main h2 {grid-column-start: 2; grid-column-end: 13;}
+
 /* basic text properties*/
 
 p, figcaption, li {hyphens: auto;}
@@ -22,15 +24,15 @@ a:visited {color: rgb(80,20,50);}
 
 /*header, nav*/
 
-
+/*
 header nav { grid-column-start: 2; grid-column-end: 13;
 /* grid-row-start: 1;
 grid-row-end: 2; */
-/*height: 10vh;*/
+/*height: 10vh;
 display:grid; align-items: center;
 
 }
-
+*/
 
 header nav a:link {color: black;}
 header nav a:visited {color: black;}
@@ -43,42 +45,45 @@ list-style: none; display: flex;
 
 
 
-  img#site_logo {width: 4em;}
-
-header  nav span {font-size: 2em; vertical-align: top;}
-
-  @media (max-width: 60em) {
-
-  /*  header { grid-column-start: 1;}  */
-
-    img#site_logo {width: 3em;}
 
 
-  }
 
 
 @media screen and (max-width: 60em) {
 
 header nav  {z-index: 5;
-width: 100%;
+            width: 100%;
+            background-color: white;
+            position: fixed;
+            bottom: 0em;
+            left: 0em;
+            height:10vh;
+          }
 
-background-color: white;
-  position: fixed; bottom: 0em; left: 0em;
-
-height:10vh;}
-
-header nav ul li:first-child span {font-size: 1em;}
+          header nav ul {   list-style-position: inside;
+padding-left: 0;
+          list-style: none; display: flex;
+            justify-content: space-evenly;}
 
 header nav ul li img {width: 2.5em; display:block; margin-left:auto; margin-right:auto; }
 
-header nav ul li {font-weight: bold;
+header nav ul li {
+  list-style-position: inside;
+  font-weight: bold;
   text-align: center; font-size:0.9em;}
 
 }
 
 @media screen and (min-width: 60em) {
 
-nav {height: 10vh;}
+  h2 { grid-column-start: 2; grid-column-end: 13;}
+
+  header  nav span {font-size: 2em; vertical-align: top;}
+
+  nav {height: 10vh;}
+
+  img#site_logo {width: 3em;}
+
 
   nav a {color: rgb(120, 120, 120); text-decoration: none;}
 
@@ -89,14 +94,11 @@ nav {height: 10vh;}
   nav li img {display:none;}
   nav li:first-child img {display:inline;}
 
-
-
 }
 
 /*end header, nav */
 
 /* page title */
-h2 { grid-column-start: 2; grid-column-end: 13;}
 /* end page-title */
 
 
