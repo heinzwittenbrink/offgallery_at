@@ -34,8 +34,8 @@ display:grid; align-items: center;
 }
 */
 
-header nav a:link {color: black;}
-header nav a:visited {color: black;}
+header nav a:link {color: black; text-decoration:none;}
+header nav a:visited {color: black;  text-decoration:none;}
 header nav a:hover {color: black;}
 header nav a:active {color: black;}
 
