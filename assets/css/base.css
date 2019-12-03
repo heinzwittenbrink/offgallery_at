@@ -144,7 +144,7 @@ p.credits  {border: 1px solid red; transform:rotate(90deg); hyphens: none;}
 
 
 section#ongoing { grid-column-start: 1 ; grid-column-end: 13;
-  grid-row-start: 0;
+  grid-row-start: 1;
   grid-row-end: 3;
   height: 100vh;
 

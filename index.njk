@@ -20,18 +20,9 @@ background-size: cover;">
 
 {%- endfor -%}
 
-
-
-
-
-
 <section id="exhibitions">
 
 <h2>Frühere Ausstellungen</h2>
-
-
-
-
 
 {%- for ausstellung in collections.ausstellung -%}
 <img class="teaser_image" src="/assets/pics/{{ausstellung.data.image}}.jpg"/>
@@ -46,7 +37,7 @@ background-size: cover;">
 
 <section id="events">
 
-<h2>Save the date:</h2>
+<h2>Aktuell:</h2>
 
 {%- for news in collections.news | reverse -%}
 <p><strong>{{news.data.date | printDate("dd.MM.yy")}}</strong></p>
