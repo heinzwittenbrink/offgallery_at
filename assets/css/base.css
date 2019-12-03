@@ -46,10 +46,8 @@ list-style: none; display: flex;
 
 
 
-
-
-
 @media screen and (max-width: 60em) {
+
 
 header nav  {z-index: 5;
             width: 100%;
@@ -143,8 +141,10 @@ p.credits  {border: 1px solid red; transform:rotate(90deg); hyphens: none;}
 
 /*end layout for exhibition pages*/
 
+
+
 section#ongoing { grid-column-start:1 ; grid-column-end: 13;
-  grid-row-start: 2;
+  grid-row-start: 1;
   grid-row-end: 3;
   height: 100vh;
 
@@ -155,6 +155,8 @@ section#ongoing { grid-column-start:1 ; grid-column-end: 13;
   { grid-column-start: 2; grid-column-end: 6;
   grid-row-start: 3;
   grid-row-end: 4;}
+
+
 
 
 
