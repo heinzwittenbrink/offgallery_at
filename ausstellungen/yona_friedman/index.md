@@ -1,13 +1,13 @@
 ---
 title: "The Erratic Universe of Yona Friedman"
-subtitle: a series of experimental workshops on photography in architecture and urban space
+subtitle: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt – ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."
 time: 3.12.2019–15.1.2020
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 tags: ausstellung_aktuell
 artists: Stefano Graziani
 slug: yona-friedman
-teaser: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt - ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."
+teaser: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt – ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."
 image: yona-friedman
 gallery:
 
