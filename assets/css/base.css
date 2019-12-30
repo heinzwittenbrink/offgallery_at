@@ -316,10 +316,21 @@ img.gallery_image {width: 200px; margin: 2em;}
 
 /* Single picture */
 
-figure.single_picture { grid-column-start: 1;
-  grid-column-end: 12;
-  margin:0;
-  padding:0;
+figure.single_picture {
+}
+
+@media screen and (max-width: 60em) {
+
+  figure.single_picture {
+
+
+    }
+
+  figure.single_picture img {
+    border:1px solid red;
+    height: 90vh;
+   object-fit: scale-down;}
+
 }
 
 figure.single_picture img { display: block; margin:0; padding:0;

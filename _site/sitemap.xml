@@ -87,11 +87,6 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/pictures/philopappos/</loc>
-    <lastmod>2019-10-21</lastmod>
-  </url>
-  
-  <url>
     <loc>/ausstellungen/the-promise-of-the-city/</loc>
     <lastmod>2019-11-11</lastmod>
   </url>
@@ -129,5 +124,10 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-12-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-promise-of-the-city/pictures/philopappos/</loc>
+    <lastmod>2019-12-19</lastmod>
   </url>
 </urlset>
