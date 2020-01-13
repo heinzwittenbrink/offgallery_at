@@ -366,5 +366,5 @@ footer a:hover {color: white;}
 footer a:active {color: white;}
 
 address {grid-column-start: 2; grid-column-end: 4;}
-div#opening-times {grid-column-start: 6; grid-column-end: 8;}
-footer nav {grid-column-start: 10; grid-column-end: 12;}
+div#opening-times {grid-column-start: 5; grid-column-end: 8;}
+section#socialmedia_links {border: grid-column-start: 9; grid-column-end: 12;}
