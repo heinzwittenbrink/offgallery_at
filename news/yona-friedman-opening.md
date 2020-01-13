@@ -3,7 +3,7 @@
 title: "Vernissage: The Erratic Universe of Yona Friedman."
 eventtype:
 topics:
-tags: news
+tags: news_old
 date: 2019-12-03T19:00
 author: Heinz Wittenbrink
 teaser: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt - ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten. Die Serie wurde im Buch Yona Friedman/Manuel Orazi: The Dilution of Architecture (Park Books) publiziert."

@@ -6,17 +6,19 @@ topics:
 tags: news
 date: 2020-01-17T19:00
 author: Heinz Wittenbrink
-teaser: "Liminal - A journey through the Albanian landscape in still images" ist Teil eines Forschungsprojekts von Saimir Kristo, Sonia Jojic und Joana Dhiamandi. Es wird gerade von der Polis University Tirana publiziert.
+teaser: Liminal ist Teil eines Forschungsprojekts von Saimir Kristo, Sonia Jojic und Joana Dhiamandi. Es wird gerade von der Polis University Tirana publiziert.
+image: cover_tirana
 layout: news.njk
 quote:
-
-
 ---
-Liminal - A journey through the Albanian landscape in still images"
 
-AUSSTELLUNGSDAUER: 17.01. - 06.02.2020
+Liminal - A journey through the Albanian landscape in still images
 
-ÖFFNUNGSZEITEN: DI-DO 15:00 - 18:00
+
+**AUSSTELLUNGSDAUER: 17.01. - 06.02.2020**
+
+**ÖFFNUNGSZEITEN: DI-DO 15:00 - 18:00**
+
 
 (English below)
 
