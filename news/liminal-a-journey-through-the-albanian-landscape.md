@@ -6,7 +6,7 @@ topics:
 tags: news
 date: 2020-01-17T19:00
 author: Heinz Wittenbrink
-teaser: Liminal ist Teil eines Forschungsprojekts von Saimir Kristo, Sonia Jojic und Joana Dhiamandi. Es wird gerade von der Polis University Tirana publiziert.
+teaser: Liminal ist Teil eines Forschungsprojekts von Saimir Kristo, und Sonia Jojic. Es wird gerade von der Polis University Tirana publiziert.
 image: cover_tirana
 layout: news.njk
 quote:
@@ -22,7 +22,7 @@ Liminal - A journey through the Albanian landscape in still images
 
 (English below)
 
-"Liminal - A journey through the Albanian landscape in still images" ist Teil eines Forschungsprojekts von [Saimir Kristo](https://www.linkedin.com/in/saimir-kristo-b08a404a/ "Saimir Kristo | LinkedIn"), [Sonia Jojic](https://www.linkedin.com/in/sonia-jojic-b5b00038/?originalSubdomain=al "Sonia Jojic | LinkedIn") und [Joana Dhiamandi](https://www.linkedin.com/in/joana-dhiamandi-31807b56/?originalSubdomain=al "Joana Dhiamandi | LinkedIn"). Es wird gerade von der [Polis University](http://www.universitetipolis.edu.al/?q=en "Universiteti Polis") Tirana publiziert.
+"Liminal - A journey through the Albanian landscape in still images" ist Teil eines Forschungsprojekts von [Saimir Kristo](https://www.linkedin.com/in/saimir-kristo-b08a404a/ "Saimir Kristo | LinkedIn") und [Sonia Jojic](https://www.linkedin.com/in/sonia-jojic-b5b00038/?originalSubdomain=al "Sonia Jojic | LinkedIn"). Es wird gerade von der [Polis University](http://www.universitetipolis.edu.al/?q=en "Universiteti Polis") Tirana publiziert.
 
 Die Fotografien betonen die Ambiguität der Landschaftsdarstellung. Sie erscheint auf den ersten Blick idyllisch, enthält aber dissoziative Elemente: Bunker in einer Vielzahl von Formen und Gestalten. Die kognitive Dissonanz schafft Raum für Fragen und Überraschungen.
 Kreative Interventionen der Nutzer dieser Gebäude – viele von ihnen sehr humorvoll – zeigen, wie widerstandsfähig das Leben tatsächlich ist und bleiben kann.
