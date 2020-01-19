@@ -1,6 +1,7 @@
 ---
 title: Liminal
 subtitle: A journey through the Albanian landscape in still images
+date: 2020-01-17
 time: 17.1.-6.2.2020 DI-DO 15-19
 layout: ausstellung.njk
 tags: ausstellung_aktuell

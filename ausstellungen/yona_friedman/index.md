@@ -2,6 +2,7 @@
 title: "The Erratic Universe of Yona Friedman"
 subtitle: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt – ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."
 time: 3.12.2019–15.1.2020
+date: 2019-12-03
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 tags: ausstellung
