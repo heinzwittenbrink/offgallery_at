@@ -112,11 +112,6 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/yona_friedman/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2020-01-13</lastmod>
   </url>
@@ -134,5 +129,15 @@
   <url>
     <loc>/news/liminal-a-journey-through-the-albanian-landscape/</loc>
     <lastmod>2020-01-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/yona_friedman/</loc>
+    <lastmod>2020-01-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/liminal/</loc>
+    <lastmod>2020-01-19</lastmod>
   </url>
 </urlset>

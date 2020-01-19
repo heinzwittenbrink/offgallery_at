@@ -4,7 +4,7 @@ subtitle: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968
 time: 3.12.2019–15.1.2020
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
-tags: ausstellung_aktuell
+tags: ausstellung
 artists: Stefano Graziani
 slug: yona-friedman
 teaser: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt – ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."
