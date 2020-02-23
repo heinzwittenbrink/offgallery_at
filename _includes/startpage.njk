@@ -1,0 +1,58 @@
+---
+layout: base.njk
+---
+
+<section class="summary">
+<h1>{{title}}</h1>
+{{ image | renderPicture | safe }}
+<h2>
+{{subtitle}}
+</h2>
+<p>{{lead}}</p>
+{{ content | safe }}
+</section>
+
+
+
+{%- for ausstellung in collections.ausstellung_aktuell -%}
+
+<section id="ongoing">
+<!--
+style="background: url('/assets/pics/{{ausstellung.data.image}}_720px.jpg') no-repeat center bottom scroll;
+background-size: cover;" -->
+<div id="teaser">
+<h3> <a href="{{ausstellung.url}}">{{ausstellung.data.artists}}: {{ausstellung.data.title}}</a></h3>
+<p id="cover">{{ ausstellung.data.teaser }} <a href="{{ausstellung.url}}">Weiterlesen...</a> </p>
+</div>
+</section>
+
+{%- endfor -%}
+
+
+
+<section id="events">
+<ul>
+
+{%- for featured in collections.featured| reverse -%}
+<li>
+{%- if featured.data.eventtype -%}
+<strong>{{featured.data.eventtype}}: {{featured.data.date | printDate("dd.MM.yy")}}
+</strong>
+<h3>{{featured.data.title}}</h3>
+<p>{{featured.data.teaser}}</p>
+<p>Weiterlesen: <a href="{{featured.url}}">Informationen zur Veranstaltung</a></p>
+{%- endif -%}
+{%- if featured.data.specification -%}
+{%- if featured.data.teaser_image -%}
+<p>{{ featured.data.teaser_image | renderTeaser() | safe }}</p>
+{%- endif -%}
+<p><strong>Aktuell: {{featured.data.specification}}</strong></p>
+<h3>{{featured.data.title}}</h3>
+<p>{{featured.data.teaser}}</p>
+<p>Weiterlesen: <a href="{{featured.url}}">Blog, {{featured.data.date | printDate("dd.MM.yy")}}</a></p>
+{%- endif -%}
+</li>
+{%- endfor -%}
+</ul>
+
+</section>

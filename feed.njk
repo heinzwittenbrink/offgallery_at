@@ -21,20 +21,20 @@ metadata:
   <subtitle>{{ metadata.feed.subtitle }}</subtitle>
   <link href="{{ metadata.feed.url }}" rel="self"/>
   <link href="{{ metadata.url }}"/>
-  <updated>{{ collections.news | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.blog | rssLastUpdatedDate }}</updated>
   <id>{{ metadata.feed.id }}</id>
   <author>
     <name>{{ metadata.author.name }}</name>
     <email>{{ metadata.author.email }}</email>
   </author>
-  {%- for news in collections.news %}
-  {% set absolutePostUrl %}{{ news.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {%- for blog in collections.blog %}
+  {% set absolutePostUrl %}{{ blog.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
-    <title>{{ news.data.title }}</title>
+    <title>{{ blog.data.title }}</title>
     <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ news.date | rssDate }}</updated>
+    <updated>{{ blog.date | rssDate }}</updated>
     <id>{{ absolutePostUrl }}</id>
-    <content type="html">{{ news.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+    <content type="html">{{ blog.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
   </entry>
   {%- endfor %}
 </feed>

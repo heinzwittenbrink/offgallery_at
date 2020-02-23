@@ -6,19 +6,9 @@ layout: base.njk
 
 
 
-<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject" border: 1px dotted red;  >
+<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject">
 
-<img srcset="/assets/pics/{{picture}}_180px.jpg 180w,
-             /assets/pics/{{picture}}_360px.jpg 360w,
-             /assets/pics/{{picture}}_720px.jpg 720w,
-              /assets/pics/{{picture}}_1080px.jpg 1080w,
-              /assets/pics/{{picture}}_1440px.jpg 1440w"
-
-              sizes="(min-width: 720px) 720px,100vw"
-
-
-                src=""/assets/pics/{{picture}}_1440px.jpg 1440w" alt="{{title}}" itemprop="contentUrl"
-/>
+{{ picture | renderPicture | safe }}
 
 <figcaption>
 <span itemprop="author">{{artist}}</span>: <span itemprop="name">{{title}}</span>. Rechte: <span itemprop="rights">{{rights}}</span>

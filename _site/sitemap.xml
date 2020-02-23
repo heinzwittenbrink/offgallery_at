@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/ausstellungen/wir_bauen_eine_stadt/</loc>
+    <loc>/ausstellungen/wir-bauen-eine-stadt/</loc>
     <lastmod>2019-03-20</lastmod>
   </url>
   
   <url>
-    <loc>/ausstellungen/moving_mountains/</loc>
+    <loc>/ausstellungen/moving-mountains/</loc>
     <lastmod>2019-06-14</lastmod>
   </url>
   
   <url>
-    <loc>/news/save-the-date-martin-grabner/</loc>
+    <loc>/blog/save-the-date-martin-grabner/</loc>
     <lastmod>2019-09-07</lastmod>
   </url>
   
@@ -22,8 +22,13 @@
   </url>
   
   <url>
-    <loc>/news/kuenstlergespräch-mit-martin-grabner/</loc>
+    <loc>/events/kuenstlergespräch-mit-martin-grabner/</loc>
     <lastmod>2019-10-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/host-monat-fact-forum-graz-gent/</loc>
+    <lastmod>2019-11-21</lastmod>
   </url>
   
   <url>
@@ -32,17 +37,17 @@
   </url>
   
   <url>
-    <loc>/news/host-monat-fact-forum-graz-gent/</loc>
+    <loc>/blog/future-architecture/</loc>
     <lastmod>2019-11-22</lastmod>
   </url>
   
   <url>
-    <loc>/ausstellungen/yona_friedman/</loc>
+    <loc>/ausstellungen/the-erratic-universe-of-yona-friedman/</loc>
     <lastmod>2019-12-03</lastmod>
   </url>
   
   <url>
-    <loc>/news/yona-friedman-opening/</loc>
+    <loc>/events/yona-friedman-opening/</loc>
     <lastmod>2019-12-03</lastmod>
   </url>
   
@@ -62,7 +67,7 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/moving_mountains/materialien/</loc>
+    <loc>/ausstellungen/moving-mountains/materialien/</loc>
     <lastmod>2020-01-13</lastmod>
   </url>
   
@@ -102,22 +107,7 @@
   </url>
   
   <url>
-    <loc>/ausstellungen/the-promise-of-the-city/pictures/philopappos/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ausstellungen/wir_bauen_eine_stadt/kuenstlergespraech_kinga_toth/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-13</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news/</loc>
+    <loc>/ausstellungen/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
     <lastmod>2020-01-13</lastmod>
   </url>
   
@@ -132,12 +122,57 @@
   </url>
   
   <url>
-    <loc>/news/liminal-a-journey-through-the-albanian-landscape/</loc>
+    <loc>/events/liminal-a-journey-through-the-albanian-landscape/</loc>
     <lastmod>2020-01-17</lastmod>
   </url>
   
   <url>
+    <loc>/blog/creative-exchange-2020/</loc>
+    <lastmod>2020-02-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
+    <lastmod>2020-02-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
+    <lastmod>2020-02-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-promise-of-the-city/galerie/martin-grabner-white-noise-white-voice/</loc>
+    <lastmod>2020-02-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-02-20</lastmod>
+  </url>
+  
+  <url>
     <loc>/ausstellungen/</loc>
-    <lastmod>2020-01-19</lastmod>
+    <lastmod>2020-02-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/host-month-ich-bin-da/</loc>
+    <lastmod>2020-02-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ausstellungen/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
+    <lastmod>2020-02-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/bojan-mrdenovic-magistrala/</loc>
+    <lastmod>2020-05-08</lastmod>
   </url>
 </urlset>

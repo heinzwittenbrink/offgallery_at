@@ -2,22 +2,15 @@
 title: The Promise of the City
 subtitle: Fotografien von Martin Grabner
 time: 13.9.–15.10.2019
-date: 2019-09-13
+date: "2019-09-13"
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 tags: ausstellung
 artists: Martin Grabner
 slug: the-promise-of-the-city
 teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind, die in ihnen leben?
-image: martin-grabner-white-noise-white-voice
-gallery:
-- martin-grabner-white-noise-white-voice
-- martin-grabner-view-from-a-hill-philopappos
-- martin-grabner-real-estate-nationalism-under-occupation
-- martin-grabner-markets-mercat-dels-enchants
-- martin-grabner-living-with-the-wall
-- martin-grabner-behind-the-white-city
-- martin-grabner-transformation-ldn
+image: ["martin-grabner-white-noise-white-voice", "White Noise – White Voice"]
+
 
 ---
 Freiheit, wirtschaftlicher Aufstieg, kulturelle Vielfalt. Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind die in ihnen leben? Wenn Stadt nur mehr Macht und Profit, Investment und Spekulation bedeutet?

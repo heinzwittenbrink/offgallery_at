@@ -4,10 +4,10 @@ subtitle: A journey through the Albanian landscape in still images
 date: 2020-01-17
 time: 17.1.-6.2.2020 DI-DO 15-19
 layout: ausstellung.njk
-tags: ausstellung_aktuell
+tags: ausstellung
 artists: Saimir Kristo, Sonia Jojic
 slug: liminal
-image: liminal
+image: ["liminal", "Bunker in Nordalbanien"]
 teaser: Bunkers in Albania are the symbol of war made with the purpose to shelter the army troops, leading to approximately 170.000 documented bunkers of different spatial typologies according to the geographical position and structural features that were built across the country during the totalitarian regime in case of a future invasion by enemies.
 gallery:
 

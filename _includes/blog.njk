@@ -1,0 +1,29 @@
+---
+layout: base.njk
+
+---
+
+<article>
+<header>
+<strong>{{eventtype | safe}}</strong>
+{%- for i in topics -%}
+<p><strong>#{{i}}</strong></p>
+{%- endfor -%}
+<h1>{{title}}</h1>
+{% if teaser_image %}
+{{ teaser_image | renderTeaser() | safe }}
+{% endif %}
+<p>{{date | printDate("dd.MM.yy")}}</p>
+<blockquote>{{quote | safe}}</blockquote>
+</header>
+<p>{{teaser}}</p>
+{{ content | safe }}
+{% if blogpost_gallery %}
+<section>
+{%- for i in blogpost_gallery -%}
+<a href="/assets/pics/{{i[0]}}_720px.jpg" title='{{i[1]}} in höherer Auflösung'><img src="/assets/pics/{{i[0]}}_180px.jpg" alt="{{i[1]}}"/></a>
+{%- endfor -%}
+</section>
+{% endif %}
+
+</article>
