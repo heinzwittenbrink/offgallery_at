@@ -3,15 +3,21 @@
 * {margin:0; padding:0;}
 
 body {display: flex; flex-direction: column;
-font-family: Roboto, Arial, sans-serif; max-width: 100em;}
+font-family: Roboto, Arial, sans-serif;}
 
 
 @media screen and (max-width: 60em) {
-  header { order: 3;
-position: sticky;
+  header {
+position: fixed;
 background-color: white;
 opacity: 1;
 bottom: 0px;
+
+/* order: 3;
+position: sticky;
+background-color: white;
+opacity: 1;
+bottom: 0px; */
   }
         }
 
