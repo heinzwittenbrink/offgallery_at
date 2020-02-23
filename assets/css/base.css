@@ -7,7 +7,7 @@ font-family: Roboto, Arial, sans-serif;}
 
 
 
-main {flex: 1;}
+main {flex: 1; }
 header, footer {flex: none; width: 100%;}
 
 @media screen and (max-width: 60em) {
@@ -21,10 +21,14 @@ background-color: white;
 opacity: 1;
 bottom: 0px;
 
-header li img span {display: block;}
-
   }
+
+  header li img {width: 3em;}
+
         }
+
+header li img  {display: block;}
+
 
 header ul {display: flex;
           justify-content:space-between;
@@ -36,15 +40,25 @@ header ul {display: flex;
 header ul {
   display: flex;
   justify-content: flex-end;
+  align-items: center;
   }
 
+  header ul li {margin-left: 7em;}
+  header ul li a {text-decoration: none; color: black; font-size: 1.5em;}
+
   header ul > li:first-of-type {
-    margin-right: auto;}
+    margin-right: auto; margin-left: none;}
+
+  header li img {display: none;}
+
+  header nav ul li:first-child img {display: block; width: 5em;}
+
+  header nav ul li:first-child span {display: none;}
+
 }
 
 
 
-header li img {width: 6em;}
 
 /* footer */
 
