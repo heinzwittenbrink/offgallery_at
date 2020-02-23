@@ -5,22 +5,32 @@
 body {display: flex; flex-direction: column;   min-height: 100vh;
 font-family: Roboto, Arial, sans-serif;}
 
+
+
 main {flex: 1;}
-header, footer {flex: none;}
+header, footer {flex: none; width: 100%;}
 
 @media screen and (max-width: 60em) {
+
+main {width: 100%;}
+
   header {
 order: 3;
 position: sticky;
 background-color: white;
 opacity: 1;
-bottom: 0px; */
+bottom: 0px;
+
+header li img span {display: block;}
+
   }
         }
 
 header ul {display: flex;
           justify-content:space-between;
         }
+
+
 
         @media screen and (min-width: 60em) {
 header ul {
