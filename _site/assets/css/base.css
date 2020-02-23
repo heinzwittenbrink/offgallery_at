@@ -2,18 +2,15 @@
 
 * {margin:0; padding:0;}
 
-body {display: flex; flex-direction: column;
+body {display: flex; flex-direction: column;   min-height: 100vh;
 font-family: Roboto, Arial, sans-serif;}
 
+main {flex: 1;}
+header, footer {flex: none;}
 
 @media screen and (max-width: 60em) {
   header {
-position: fixed;
-background-color: white;
-opacity: 1;
-bottom: 0px;
-
-/* order: 3;
+order: 3;
 position: sticky;
 background-color: white;
 opacity: 1;
