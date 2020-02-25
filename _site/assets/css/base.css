@@ -54,11 +54,11 @@ img {
     width: 3em;
   }
 
-  ul li a img {
+  nav ul li a img {
     margin-bottom: 8px;
   }
 
-  ul li a {
+  nav ul li a {
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -93,6 +93,7 @@ footer li {
 
 footer li img {
   width: 2em;
+  margin-right: 8px;
 }
 
 footer a {
