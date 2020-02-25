@@ -33,12 +33,16 @@ img {
   }
 
   header {
+    font-size: 0.75em;
     order: 3;
     position: sticky;
     background-color: white;
     opacity: 1;
     bottom: 0px;
+  }
 
+  header nav ul {
+    padding: 1em;
   }
 
   header li img {
@@ -156,10 +160,6 @@ header ul, footer ul {
 footer ul li a {
   display: flex;
   align-items: center;
-}
-
-header nav ul {
-  padding: 1em;
 }
 
 /* provisional: images before responsive layout */
