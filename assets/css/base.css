@@ -1,86 +1,128 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
 
-* {margin:0; padding:0;}
+* {
+  margin: 0;
+  padding: 0;
+}
 
-body {display: flex; flex-direction: column;   min-height: 100vh;
-font-family: Roboto, Arial, sans-serif;}
-
-
-
-main {flex: 1; }
-header, footer {flex: none; width: 100%;}
-
-@media screen and (max-width: 60em) {
-
-main {width: 100%;}
-
-  header {
-order: 3;
-position: sticky;
-background-color: white;
-opacity: 1;
-bottom: 0px;
-
-  }
-
-  header li img {width: 3em;}
-
-        }
-
-header li img  {display: block;}
-
-
-header ul {display: flex;
-          justify-content:space-between;
-        }
-
-
-
-        @media screen and (min-width: 60em) {
-header ul {
+body {
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  }
-
-  header ul li {margin-left: 7em;}
-  header ul li a {text-decoration: none; color: black; font-size: 1.5em;}
-
-  header ul > li:first-of-type {
-    margin-right: auto; margin-left: none;}
-
-  header li img {display: none;}
-
-  header nav ul li:first-child img {display: block; width: 5em;}
-
-  header nav ul li:first-child span {display: none;}
-
+  flex-direction: column;
+  min-height: 100vh;
+  font-family: Roboto, Arial, sans-serif;
 }
 
 
+main {
+  flex: 1;
+}
+
+header, footer {
+  flex: none;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (max-width: 60em) {
+
+  main {
+    width: 100%;
+  }
+
+  header {
+    order: 3;
+    position: sticky;
+    background-color: white;
+    opacity: 1;
+    bottom: 0px;
+
+  }
+
+  header li img {
+    width: 3em;
+  }
+
+}
+
+header li img {
+  display: block;
+}
+
+
+header ul {
+  display: flex;
+  justify-content: space-between;
+}
 
 
 /* footer */
 
-footer {display: flex;
-justify-content: space-between;
-color: white;
-background-color: black;}
+footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  color: white;
+  background-color: black;
+}
 
-footer li img {width: 2em;}
-footer a {color:white;}
+footer li img {
+  width: 2em;
+}
+
+footer a {
+  color: white;
+}
 
 /* main */
 
 @media screen and (min-width: 60em) {
-main /*{display: grid;
+  main /*{display: grid;
     grid-template-columns: repeat(2, 1fr);
   grid-template-rows: auto;; } */
+  main > * {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    border: 1px solid red;
+  }
 
-main>* {display: flex; flex-direction: column;  align-self: flex-start; border: 1px solid red;}
+  header ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  header ul li {
+    margin-left: 7em;
+  }
+
+  header ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+  }
+
+  header ul > li:first-of-type {
+    margin-right: auto;
+    margin-left: none;
+  }
+
+  header li img {
+    display: none;
+  }
+
+  header nav ul li:first-child img {
+    display: block;
+    width: 5em;
+  }
+
+  header nav ul li:first-child span {
+    display: none;
+  }
 }
-
-
 
 
 /* end main */
@@ -88,11 +130,24 @@ main>* {display: flex; flex-direction: column;  align-self: flex-start; border: 
 
 /* general text container properties */
 
-article, section, ul, address {padding: 2em;}
+article, section, ul, address {
+  padding: 2em;
+}
 
-article, section, address {padding: 2em; max-width: 45em;}
+article, section, address {
+  padding: 2em;
+  max-width: 45em;
+}
 
-header ul, footer ul {list-style: none;}
+header ul, footer ul {
+  list-style: none;
+}
+
+footer ul li a {
+  display: flex;
+
+  align-items: center;
+}
 
 /* provisional: images before responsive layout */
 
