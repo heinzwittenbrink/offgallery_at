@@ -73,6 +73,7 @@ img {
     display: flex;
     flex-direction: row;
     overflow: scroll;
+    align-items: center;
   }
   
   #exhibition_gallery a {
