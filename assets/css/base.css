@@ -45,6 +45,16 @@ img {
     width: 3em;
   }
 
+  ul li a img {
+    margin-bottom: 8px;
+  }
+
+  ul li a {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
 }
 
 header li img {
@@ -145,7 +155,6 @@ header ul, footer ul {
 
 footer ul li a {
   display: flex;
-
   align-items: center;
 }
 
