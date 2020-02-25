@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -9,12 +7,17 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  font-family: Roboto, Arial, sans-serif;
+  font-family: 'PT Sans', Arial, sans-serif;
 }
 
 
 main {
   flex: 1;
+}
+
+main ul {
+  list-style: none;
+  padding: 0;
 }
 
 header, footer {
@@ -43,6 +46,8 @@ img {
 
   header nav ul {
     padding: 1em;
+    max-width: 672px; /*4 elements with max width of 168px (see material design bottom nav guidelines)*/
+    margin: 0 auto;
   }
 
   header li img {
@@ -80,6 +85,10 @@ footer {
   justify-content: space-between;
   color: white;
   background-color: black;
+}
+
+footer li {
+  margin: 12px 0;
 }
 
 footer li img {
