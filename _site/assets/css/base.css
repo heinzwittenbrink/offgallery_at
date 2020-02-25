@@ -69,6 +69,17 @@ img {
     flex-direction: column;
   }
 
+  #exhibition_gallery {
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+  }
+  
+  #exhibition_gallery a {
+    flex-shrink: 0;
+    width: 100%;
+  }
+
 }
 
 header li img {
