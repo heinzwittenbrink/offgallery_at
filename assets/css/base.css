@@ -166,6 +166,9 @@ footer a {
   }
 }
 
+main {
+  max-width: 45em;
+}
 
 /* end main */
 
