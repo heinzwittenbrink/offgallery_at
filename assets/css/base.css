@@ -158,6 +158,10 @@ footer ul li a {
   align-items: center;
 }
 
+header nav ul {
+  padding: 1em;
+}
+
 /* provisional: images before responsive layout */
 
 /*img {max-width: 45em; } */
