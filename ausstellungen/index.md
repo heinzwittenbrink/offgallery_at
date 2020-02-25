@@ -3,9 +3,9 @@ layout: base.njk
 
 ---
 
-
-## Ausstellungen
-
+<section>
+  <h2>Ausstellungen</h2>
+</section>
 
 
 {%- for ausstellung in collections.ausstellung -%}
