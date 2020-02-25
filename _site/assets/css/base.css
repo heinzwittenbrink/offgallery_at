@@ -48,6 +48,7 @@ img {
     padding: 1em;
     max-width: 672px; /*4 elements with max width of 168px (see material design bottom nav guidelines)*/
     margin: 0 auto;
+    align-items: flex-end;
   }
 
   header li img {
