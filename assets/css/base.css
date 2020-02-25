@@ -20,6 +20,10 @@ main ul {
   padding: 0;
 }
 
+main ul li:not(:first-child) {
+  margin-top: 24px;
+}
+
 header, footer {
   flex: none;
   width: 100%;
