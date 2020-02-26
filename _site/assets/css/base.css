@@ -75,7 +75,7 @@ img {
     overflow: scroll;
     align-items: center;
   }
-  
+
   #exhibition_gallery a {
     flex-shrink: 0;
     width: 100%;
@@ -117,6 +117,8 @@ footer li img {
 footer a {
   color: white;
 }
+
+footer ul#subscribe {display: flex; flex-wrap: wrap; padding-top: 0;}
 
 /* main */
 
@@ -171,11 +173,9 @@ footer a {
 
 /* general text container properties */
 
-article, section, ul, address {
-  padding: 2em;
-}
 
-article, section, address {
+
+article, section, ul  {
   padding: 2em;
   max-width: 45em;
 }
@@ -188,6 +188,14 @@ footer ul li a {
   display: flex;
   align-items: center;
 }
+
+/* start page */
+
+section#info {display: flex;}
+
+/* end start page */
+
+
 
 /* provisional: images before responsive layout */
 

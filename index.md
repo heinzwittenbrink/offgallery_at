@@ -8,6 +8,4 @@ lead: "In der Griesgasse 31 in Graz zeigen wir künstlerische Architekturfotogra
 
 ---
 
-
-
 Weiterlesen: [Über uns](/allgemein/ueber_uns/ "offgallery_at: Über uns")
