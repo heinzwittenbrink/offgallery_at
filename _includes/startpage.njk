@@ -2,6 +2,22 @@
 layout: base.njk
 ---
 
+<script type="application/ld+json"> {
+"@context" : "http://schema.org",
+"@type" : "ArtGallery",
+"address" : {
+"@type": "PostalAddress",
+"addressLocality": "Graz",
+"addressRegion": "Steiermark",
+"postalCode": "8020",
+"streetAddress": "Griesgasse 31" },
+"name":"off_gallery graz",
+"url":"https://offgallery.at",
+"email":"info@offgallery",
+"openingHours": [
+"Di-Do 15:00-18:00"],
+} </script>
+
 <section class="summary">
 <h1>{{title}}</h1>
 {{ image | renderPicture | safe }}
