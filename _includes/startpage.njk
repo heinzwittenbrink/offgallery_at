@@ -56,16 +56,17 @@ background-size: cover;" -->
 </strong>
 <h3>{{featured.data.title}}</h3>
 <p>{{featured.data.teaser}}</p>
-<p>Weiterlesen: <a href="{{featured.url}}">Informationen zur Veranstaltung</a></p>
+<p><a href="{{featured.url}}">Informationen zur Veranstaltung</a></p>
 {%- endif -%}
 {%- if featured.data.specification -%}
+
+<p><strong>Aktuell: {{featured.data.specification}}</strong></p>
+<h3>{{featured.data.title}}</h3>
 {%- if featured.data.teaser_image -%}
 <p>{{ featured.data.teaser_image | renderTeaser() | safe }}</p>
 {%- endif -%}
-<p><strong>Aktuell: {{featured.data.specification}}</strong></p>
-<h3>{{featured.data.title}}</h3>
 <p>{{featured.data.teaser}}</p>
-<p>Weiterlesen: <a href="{{featured.url}}">Blog, {{featured.data.date | printDate("dd.MM.yy")}}</a></p>
+<p><a href="{{featured.url}}">Blog, {{featured.data.date | printDate("dd.MM.yy")}}</a></p>
 {%- endif -%}
 </li>
 {%- endfor -%}

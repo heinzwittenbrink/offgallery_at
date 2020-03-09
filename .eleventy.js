@@ -36,6 +36,8 @@ module.exports = function(eleventyConfig) {
       "md",
       "njk",
       "css",
+      "woff",
+      "woff2",
       "jpg",
       "svg"
     ],
