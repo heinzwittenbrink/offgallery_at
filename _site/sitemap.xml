@@ -72,11 +72,6 @@
   </url>
   
   <url>
-    <loc>/events/bojan-mrdenovic-magistrala/</loc>
-    <lastmod>2020-05-08</lastmod>
-  </url>
-  
-  <url>
     <loc>/allgemein/impressum/</loc>
     <lastmod>2020-08-04</lastmod>
   </url>
@@ -174,5 +169,15 @@
   <url>
     <loc>/partner/landsteiermark/</loc>
     <lastmod>2020-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rip-erika-petric/</loc>
+    <lastmod>2020-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/bojan-mrdenovic-magistrala/</loc>
+    <lastmod>2020-10-18</lastmod>
   </url>
 </urlset>
