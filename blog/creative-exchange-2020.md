@@ -5,7 +5,6 @@ specification: Vernetzung
 topics:
 tags:
 - blog
-- featured
 date: "2020-02-14"
 author: Erika Petrić
 teaser: Creative Exchange 2020 is well underway.
