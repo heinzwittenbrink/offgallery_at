@@ -1,5 +1,5 @@
 ---
-title: "Erika Petric"
+title: "Erika Petrić"
 specification: Galerie
 tags:
 - blog

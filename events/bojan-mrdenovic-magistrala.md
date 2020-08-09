@@ -5,7 +5,7 @@ eventtype: Save the date
 topics:
 tags:
 - events
-- featured
+
 date: "2020-10-18"
 place: off_gallery, Griesgasse 31
 author: Heinz Wittenbrink

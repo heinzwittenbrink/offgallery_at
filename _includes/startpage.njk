@@ -18,15 +18,11 @@ layout: base.njk
 "Di-Do 15:00-18:00"],
 "image":"https://offgallery.at/assets/pics/offgallery-aussen_720px.jpg"} </script>
 
-<section class="summary">
+<section>
 <h1>{{title}}</h1>
-{{ image | renderPicture | safe }}
-<h2>
-{{subtitle}}
-</h2>
-<p>{{lead}}</p>
-{{ content | safe }}
 </section>
+
+
 
 
 
@@ -74,6 +70,16 @@ background-size: cover;" -->
 
 </section>
 
+
+<section class="summary">
+<h2>
+{{subtitle}}
+</h2>
+{{ image | renderPicture | safe }}
+
+<p>{{lead}}</p>
+{{ content | safe }}
+</section>
 
 <section id="info">
 
