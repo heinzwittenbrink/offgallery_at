@@ -3,7 +3,6 @@ title: "Ich bin da – Wohnungslosigkeit ist auch weiblich"
 specification: Host Month in der off_gallery
 tags:
 - blog
-- featured
 date: "2020-02-21"
 author: Heinz Wittenbrink
 teaser: "Im Februar benutzen Studierende der FH Joanneum unseren Galerieraum. Sie zeigen dort eine Seite der Obdachlosigkeit, die oft verborgen bleibt. Auch viele Frauen sind in Graz wohnungslos."
