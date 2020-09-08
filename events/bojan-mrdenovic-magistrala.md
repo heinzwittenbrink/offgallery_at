@@ -25,4 +25,4 @@ Die Adria-Magistrale verbindet die Küstenorte Dalmatiens von Split bis zur Gren
 
 Natürliche Landschaft, Architektur und Infrastruktur bilden entlang der Magistrale einen spezifischen räumlich-sozialen Kontext. Der kroatische Fotograf Bojan Mrđenović hat dieses Crossover von Wirtschaft, Ökologie und Kultur in einer imaginären Reise entlang der Adria-Küste untersucht. Seine Bilder zeigen flüchtige Situationen in einem sich laufend und schnell verändernden Ganzen. Dabei verbinden sie einen analytisch-ethnographischen Blick mit Ironie und Empathie.
 
-Wir stellen Bojan Mrđenović, einen der wichtigsten jungen Fotografen Kroatien, zum ersten Mal in einer Ausstellung in Österreich vor.
+Wir stellen Bojan Mrđenović, einen der wichtigsten jungen Fotografen Kroatiens, zum ersten Mal in einer Ausstellung in Österreich vor.
