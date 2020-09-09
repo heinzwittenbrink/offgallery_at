@@ -5,6 +5,7 @@ time: 22.11.–4.12.2019
 date: 2019-11-22
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung
+changeFreq: yearly
 tags: blog
 artists: HOST-MONTH
 slug: fact-forum-graz-gent

@@ -6,6 +6,7 @@ date: "2019-09-13"
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 tags: ausstellung
+changeFreq: yearly
 artists: Martin Grabner
 slug: the-promise-of-the-city
 teaser: Städte versprachen ihren BürgerInnen immer schon ein besseres Leben, einen Lebensstil, die Möglichkeit zur Selbstverwirklichung. Was aber, wenn Städte nicht mehr für die Menschen gebaut sind, die in ihnen leben?

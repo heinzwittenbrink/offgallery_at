@@ -1,6 +1,8 @@
 ---
 title: Materialien zur Verschiebung von Kiruna
 layout: article.njk
+changeFreq: yearly
+
 ---
 
 [‘Will I have existed?’ The unprecedented plan to move an Arctic city | Cities | The Guardian](https://www.theguardian.com/cities/2018/dec/02/kiruna-swedish-arctic-town-had-to-move-reindeer-herders-in-the-way "'Will I have existed?' The unprecedented plan to move an Arctic city | Cities | The Guardian") [The City of Kiruna Is Being Relocated So It Doesn’t Get Swallowed By A Mine | HuffPost](https://www.huffpost.com/entry/kiruna-sweden-city-move-mine-lkab_n_5c02ff0ee4b04fb21168a25b "The City of Kiruna Is Being Relocated So It Doesn't Get Swallowed By A Mine | HuffPost") [Kiruna: challenge of moving town in Sweden is "moving minds"](https://www.dezeen.com/2019/02/18/kiruna-moving-town-sweden-mining-climate-change/ "Kiruna: challenge of moving town in Sweden is 'moving minds'")

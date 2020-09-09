@@ -4,6 +4,7 @@ subtitle: Fotografien von Ulrike Mayrhuber
 time: 3.5-14.6.2019 DI-DO 15-19
 date: "2019-06-14"
 layout: ausstellung.njk
+changeFreq: yearly
 tags: ausstellung
 artists: Ulrike Mayrhuber
 slug: moving-mountains

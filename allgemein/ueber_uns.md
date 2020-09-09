@@ -1,6 +1,8 @@
 ---
 title: Wir über uns
 tags: allgemein
+changeFreq: monthly
+
 ---
 
 off_gallery graz ist eine kollaborative Initiative in Graz-Gries. Schwerpunkt unserer Arbeit sind Ausstellungen von Architekturfotografie und begleitende Veranstaltungen und Publikationen. Uns interessiert Fotografie als Medium kritischer künstlerischer Erforschung architektonischer und urbaner Räume.

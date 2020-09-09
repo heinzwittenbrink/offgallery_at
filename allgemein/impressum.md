@@ -1,6 +1,8 @@
 ---
 title: Impressum
 tags: allgemein
+changeFreq: monthly
+
 
 ---
 

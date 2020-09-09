@@ -2,6 +2,8 @@
 
 title: Künstlergespräch mit Kinga Tóth
 layout: base.njk
+changeFreq: yearly
+
 
 ---
 

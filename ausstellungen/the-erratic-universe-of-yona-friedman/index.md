@@ -5,6 +5,7 @@ time: 3.12.2019–15.1.2020
 date: "2019-12-03"
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
+changeFreq: yearly
 tags: ausstellung
 artists: Stefano Graziani
 slug: the-erratic-universe-of-yona-friedman

@@ -1,6 +1,8 @@
 ---
 layout: base.njk
 title: Land Steiermark
+changeFreq: monthly
+
 ---
 
 

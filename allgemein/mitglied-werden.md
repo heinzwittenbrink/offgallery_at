@@ -1,6 +1,8 @@
 ---
 title: Mitglied werden
 tags: allgemein
+changeFreq: monthly
+
 
 ---
 

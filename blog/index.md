@@ -1,5 +1,6 @@
 ---
 layout: base.njk
+changeFreq: daily
 pagination:
   data: collections.blog
   size: 2

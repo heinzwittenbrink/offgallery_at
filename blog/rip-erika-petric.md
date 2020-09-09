@@ -8,6 +8,7 @@ date: "2020-08-09"
 author: Heinz Wittenbrink
 teaser: "Erika Petrić ist am 11. Juli gestorben."
 layout: blog.njk
+changeFreq: yearly
 quote:
 teaser_image: ["blog-2020/erika", "Bild: Anastasija Georgi"]
 inline_image:

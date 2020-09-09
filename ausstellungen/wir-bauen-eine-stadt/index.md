@@ -4,6 +4,7 @@ subtitle: Ein Projekt von Kinga Tóth
 time: 20.3.-28.4.2019
 date: "2019-03-20"
 layout: ausstellung.njk
+changeFreq: yearly
 tags: ausstellung
 artists: Kinga Tóth
 slug: wir-bauen-eine-stadt
