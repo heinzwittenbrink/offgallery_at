@@ -41,6 +41,7 @@ Viele Arbeiten von Bojan Mrđenović kann man sich hier ansehen: [Bojan Mrđenov
   "endDate": "2020-09-18T21:00",
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+  "image": "https://offgallery.at/assets/pics/BojanMrdenovic_Magistrala_00002.jpg",
   "location": {		
     "@type": "Place",
     "name": "off_gallery Graz",
