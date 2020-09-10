@@ -27,6 +27,11 @@ Natürliche Landschaft, Architektur und Infrastruktur bilden entlang der Magistr
 
 Wir stellen Bojan Mrđenović, einen der wichtigsten jungen Fotografen Kroatiens, zum ersten Mal in einer Ausstellung in Österreich vor.
 
+
+
+Viele Arbeiten von Bojan Mrđenović kann man sich hier ansehen: [Bojan Mrđenović | Suvremena hrvatska fotografija](https://croatian-photography.com/en/author/bojan-mrdenovic-2/ "Bojan Mrđenović | Suvremena hrvatska fotografija"). Zu seiner Arbeitsweise hat er sich ausführlich in einen Interview für die Website *osTraum* geäußert: [Auf den Spuren der Vergangenheit: „The Spa“ von Bojan Mrđenović](https://ostraum.com/2020/07/21/auf-den-spuren-der-vergangenheit-the-spa-von-bojan-mrdenovic/ "Auf den Spuren der Vergangenheit: „The Spa“ von Bojan Mrđenović – ostraum").
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
