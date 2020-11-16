@@ -9,7 +9,7 @@ tags:
 date: "2020-11-17"
 place: off_gallery, Griesgasse 31
 author: Heinz Wittenbrink
-teaser: Ein Projekt für den Lockdown. Durch unsere Schaufensterscheibe in der Griesgasse 31. sieht man Barbara Rieglers Erinnerungsbilder an ihre Heimatstadt auf die Scheibe projizieren wir Bilder des heutigen Graz. Nach dem Lockdown wird "Mein Feldbach" zugänglich.
+teaser: Ein Projekt für den Lockdown. Durch unsere Schaufensterscheibe in der Griesgasse 31. sieht man Barbara Rieglers Erinnerungsbilder an ihre Heimatstadt. Auf die Scheibe projizieren wir Bilder des heutigen Graz. Nach dem Lockdown wird "Mein Feldbach" zugänglich.
 layout: event.njk
 image: barbara-riegler-mein-feldbach-silo
 quote:
