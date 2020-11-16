@@ -15,7 +15,7 @@ image: barbara-riegler-mein-feldbach-silo
 quote:
 
 ---
-In der Serie „Mein Feldbach“ setzt sich Barabara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt. Es geht um Barbara Rieglers Blick auf ihre unmittelbare Umgebung. „Mein Feldbach“ stellt weniger eine Dokumentation des gesamten Ortes dar als einen individuellen Bruchteil von Feldbach.
+In der Serie „Mein Feldbach“ setzt sich Barbara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt. Es geht um Barbara Rieglers Blick auf ihre unmittelbare Umgebung. „Mein Feldbach“ stellt weniger eine Dokumentation des gesamten Ortes dar als einen individuellen Bruchteil von Feldbach.
 
 
 In unserem Projekt werden den Bildern Barbara Rieglers Momentaufnahmen aus Graz gegenübergestellt. Bildern, denen eine emotionale Bindung zugrunde liegt, stehen Bilder gegenüber, bei denen sie noch nicht entstanden ist.
