@@ -3,7 +3,6 @@ title: "Erika Petrić"
 specification: Galerie
 tags:
 - blog
-- featured
 date: "2020-08-09"
 author: Heinz Wittenbrink
 teaser: "Erika Petrić ist am 11. Juli gestorben."

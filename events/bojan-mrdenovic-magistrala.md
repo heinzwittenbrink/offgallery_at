@@ -5,7 +5,6 @@ eventtype: Save the date
 topics:
 tags:
 - events
-- featured
 
 date: "2020-09-18"
 place: off_gallery, Griesgasse 31
