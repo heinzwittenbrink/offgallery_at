@@ -23,6 +23,6 @@ Wir fragen uns: Welche Rolle spielt die Zeit in der Entstehung einer Erinnerung,
 
 Barbara Riegler fragt nach ihrer Bindung an einen Ort und versucht, sie zu verstehen.
 
-Barbaras Bilder sind bewusste, sorgfältig aufgenommene und ausgewählte Fotografien, in denen - mit der Erinnerung an ihre Jugend  - das Jetzt und das Damals verschmelzen.
+Barbaras Bilder sind bewusste, sorgfältig aufgenommene und ausgewählte Fotografien, in denen – mit der Erinnerung an ihre Jugend – das Jetzt und das Damals verschmelzen.
 
 Demgegenüber fordern wir die Teilnehmerinnen auf Momente zu konservieren, die in der Zukunft dasselbe Potenzial entfalten können.
