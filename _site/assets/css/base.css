@@ -132,6 +132,70 @@ img {
   width: 100%;
 }
 
+/* Styles for slideshow component used on multiple pages */
+@media screen and (max-width: 60em) {
+  .slideshow {
+    display: flex;
+    flex-direction: row;
+    overflow: scroll;
+    align-items: center;
+  }
+
+  .slideshow > * {
+    flex-shrink: 0;
+    width: 100%;
+
+  }
+}
+
+.slideshow {
+  overscroll-behavior-x: contain;
+}
+
+.slideshow.slideshow--force-horizontal {
+  display: flex;
+  flex-direction: row;
+  overflow: scroll;
+  align-items: center;
+}
+
+.slideshow.slideshow--force-horizontal > * {
+  flex-shrink: 0;
+  width: 100%;
+}
+
+/* END Styles for slideshow component */
+
+/* Styles for slideshow only on start page */
+.startpage-slideshow {
+  padding: 0;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  width: 100vw;
+  max-width: 800px;
+}
+
+.startpage-slideshow div {
+  width: 100%;
+  /*Background image url is set via inline style*/
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  scroll-snap-align: center;
+}
+
+.startpage-slideshow div::before {
+  content: "";
+  width: 1px;
+  margin-left: -1px;
+  float: left;
+  height: 0;
+  padding-top: 56%;
+}
+
+
+/* END Styles for slideshow only on start page */
+
 @media screen and (max-width: 60em) {
 
   main {
@@ -167,20 +231,6 @@ img {
     align-items: center;
     flex-direction: column;
   }
-
-  #exhibition_gallery {
-    display: flex;
-    flex-direction: row;
-    overflow: scroll;
-    align-items: center;
-  }
-
-  #exhibition_gallery a {
-    flex-shrink: 0;
-    width: 100%;
-    padding: 0 4px;
-  }
-
 }
 
 header li img {

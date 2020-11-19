@@ -24,7 +24,8 @@
   },
   "homepage": "https://github.com/heinzwittenbrink/offgallery_at#readme",
   "dependencies": {
-    "@11ty/eleventy-plugin-rss": "^1.0.7"
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "fast-glob": "^3.2.4"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0"

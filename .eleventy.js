@@ -1,5 +1,7 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const fg = require('fast-glob');
+
 
 
 module.exports = function(eleventyConfig) {
@@ -31,6 +33,17 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
 
 
+  // Run search for images in /assets/pics/slideshow and convert into an array of file paths
+  const slideshowImages = fg.sync(['assets/pics/slideshow/*']);
+
+  // Convert array of slideshow image filepaths into an 11ty collection:
+  eleventyConfig.addCollection('slideshow', function(collection) {
+    return slideshowImages;
+  });
+
+  console.log(slideshowImages);
+
+
   return {
     templateFormats: [
       "md",
@@ -39,6 +52,8 @@ module.exports = function(eleventyConfig) {
       "woff",
       "woff2",
       "jpg",
+      "jpeg",
+      "png",
       "svg"
     ],
     dir: {
@@ -53,6 +68,7 @@ if( process.env.ELEVENTY_ENV == "staging" ) {
     host: "0.0.0.0"
   });
 }
+
 
 
 

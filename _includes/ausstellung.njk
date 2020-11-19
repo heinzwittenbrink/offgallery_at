@@ -23,13 +23,13 @@ changeFreq: monthly
 
 </section>
 
-<section id="exhibition_gallery">
+<section class="slideshow">
 
 <!-- Galerie -->
 
 {%- for i in gallery -%}
 
-<a href="/ausstellungen/{{slug}}/galerie/{{i[0]}}"><img class="gallery_image" src="/assets/pics/{{i[0]}}_360px.jpg" alt="{{i[1]}}"/></a>
+<a href="/ausstellungen/{{slug}}/galerie/{{i[0]}}"><img class="slideshow__image" src="/assets/pics/{{i[0]}}_360px.jpg" alt="{{i[1]}}"/></a>
 
 {%- endfor -%}
 
