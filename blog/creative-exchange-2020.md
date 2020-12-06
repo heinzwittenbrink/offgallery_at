@@ -16,6 +16,7 @@ inline_image_2:
 blogpost_gallery: [["blog-2020/future-architecture-2", "Bild von Iztoc Dimc"], ["blog-2020/future-architecture-3", "Bild von Iztoc Dimc"], ["blog-2020/future-architecture-4", "Bild von Iztoc Dimc"], ["blog-2020/future-architecture-5", "Bild von Iztoc Dimc"], ["blog-2020/future-architecture-6", "Bild von Iztoc Dimc"]]
 
 
+
 ---
 
 [Creative Exchange 2020](https://www.facebook.com/events/551003695741882/ "Creative Exchange 2020"), the most insightful annual gathering around European architecture at which creatives from all parts of the world showcase ideas and trends for the future development of architecture and the profession, is well underway. Join us in MAO and experience this inspiring event! #CEx20 (Images by Iztok Dimc)
