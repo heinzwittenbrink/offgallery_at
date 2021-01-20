@@ -3,7 +3,6 @@ title: "everydaygraz – Einladung mitzumachen"
 specification: Galerie
 tags:
 - blog
-- featured
 date: "2020-11-15"
 author: Heinz Wittenbrink
 teaser: "Wir laden euch ein, an unserem nächsten Projekt mitzuwirken.

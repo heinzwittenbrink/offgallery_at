@@ -48,7 +48,7 @@ background-size: cover;" -->
   <ul>
     <li>
       <strong>Ausstellung und Projektion: 17.11.20</strong>
-      <h3 style="margin-bottom:8px">Everyday Graz, die ersten Bilder</h3>
+      <h3 style="margin-bottom:8px">Everyday Graz, Auswahl</h3>
       <div style="margin: 0 -2em" class="slideshow slideshow--force-horizontal startpage-slideshow">
         {% for image in collections.slideshow %}
           <div data-img-url="/{{image}}"></div>
@@ -92,7 +92,7 @@ background-size: cover;" -->
     const timeout = 5000;
     let currentTimeoutId = null;
     let programmaticallyScrolling = false;
-    
+
     function slideNext() {
       current = (current + 1) % imageDivs.length;
       programmaticallyScrolling = true;
@@ -125,7 +125,7 @@ background-size: cover;" -->
     const observer = new IntersectionObserver(onIntersection, intersectionObserverOptions);
     imageDivs.forEach(div => observer.observe(div));
   }
-  
+
   setupSlideshowScrolling();
   setupLazyLoadingImageUrls();
 
