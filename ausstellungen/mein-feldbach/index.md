@@ -7,8 +7,8 @@ layout: ausstellung.njk
 changeFreq: yearly
 tags: ausstellung
 artists: Barbara Riegler (und eingeladenden Fotograf/*innen für die Projektion *everydaygraz*)
-slug: barbara-riegler-mein-feldbach
-image: ["barbara-riegler-mein-feldbach", "Silo in Feldbach"]
+slug: barbara-riegler-mein-feldbach-silo
+image: ["barbara-riegler-mein-feldbach-silo", "Silo in Feldbach"]
 teaser: In der Serie „Mein Feldbach“ setzt sich Barbara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt.
 gallery:
 
@@ -18,6 +18,7 @@ gallery:
 In der Serie „Mein Feldbach“ setzt sich Barbara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt. Es geht um Barbara Rieglers Blick auf ihre unmittelbare Umgebung. „Mein Feldbach“ stellt weniger eine Dokumentation des gesamten Ortes dar als einen individuellen Bruchteil von Feldbach.
 
 In unserem Projekt werden den Bildern Barbara Rieglers Momentaufnahmen aus Graz gegenübergestellt. Bildern, denen eine emotionale Bindung zugrunde liegt, stehen Bilder gegenüber, bei denen sie noch nicht entstanden ist. Wir fragen uns: Welche Rolle spielt die Zeit in der Entstehung einer Erinnerung, einer Prägung?
+
 
 Barbara Riegler fragt nach ihrer Bindung an einen Ort und versucht, sie zu verstehen.
 

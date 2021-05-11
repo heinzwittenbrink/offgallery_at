@@ -11,7 +11,10 @@ changeFreq: weekly
 <p><strong>#{{i}}</strong></p>
 {%- endfor -%}
 <h1>{{title}}</h1>
-<img src="/assets/pics/{{image}}.jpg"/>
+{% if image %}
+{{ image | renderTeaser() | safe }}
+{% endif %}
+<!-- <img src="/assets/pics/{{image}}.jpg"/> -->
 <p>{{date | printDate("dd.MM.yy")}}</p>
 <blockquote>{{quote | safe}}</blockquote>
 </header>
