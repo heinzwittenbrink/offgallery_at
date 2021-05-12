@@ -9,7 +9,7 @@ changeFreq: weekly
 </section>
 
 
-{%- for ausstellung in collections.ausstellung -%}
+{%- for ausstellung in collections.ausstellung  | reverse -%}
 <section>
 {{ ausstellung.data.image | renderTeaser() | safe }}
 <a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
