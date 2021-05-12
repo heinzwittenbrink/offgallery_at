@@ -141,6 +141,9 @@ background-size: cover;" -->
 {%- if featured.data.eventtype -%}
 <strong>{{featured.data.eventtype}}: {{featured.data.date | printDate("dd.MM.yy")}}
 </strong>
+{% if featured.data.image %}
+{{ ["zita-oberwalder-vitrine-en-cours-cover", "Cover"] | renderTeaser() | safe }}
+{% endif %}
 <h3>{{featured.data.title}}</h3>
 <p>{{featured.data.teaser}}</p>
 <p><a href="{{featured.url}}">Informationen zur Veranstaltung</a></p>

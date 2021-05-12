@@ -5,7 +5,6 @@ specification: Nachbarschaft
 topics:
 tags:
 - blog
-- featured
 date: "2021-01-20"
 author: Anastasija Georgi
 teaser: Ein spannendes Projekt in unserer Nähe!

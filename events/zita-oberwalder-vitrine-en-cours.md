@@ -2,7 +2,7 @@
 
 title: >
 Eröffnung: Zita Oberwalder / Vitrine en cours&mdash;Vernissage und Buchpräsentation
-eventtype: Save the date
+eventtype: Eröffnung/Buchpräsentation
 topics:
 tags:
 - events
@@ -18,12 +18,20 @@ quote:
 
 ---
 
-**Eröffnung:** 18:00
+## Vitrine en Cours/Auslage in Arbeit
+
+**Eröffnung:**
+
+**14.5.2021**
+
+**18:00**
+
+**Griegasse 31**
 
 
-"Vitrine en Cours/Auslage in Arbeit" von Zita Oberwalder in Kollaboration mit Hannes Mitterberger ist ein fotografischer Essay über Paris, ein neuer Teil des Projekts "Hotel Europa". Zita Oberwalder fotografiert städtische Situationen jenseits der Klischees über die französische Hauptstadt. Ihre Bildfolgen erschließen, wie sich in einer Megastadt des Anthropozän Monumentales und Peripheres miteinander verbinden. Utopien werden zu Nicht-Orten und umgekehrt. Eine Ebene der Arbeit bilden die Spuren des Lebens von Emigrantinnen und Emigranten in Paris. In ihrer Unabgeschlossenheit laden die Fotografien die Betrachtenden ein, eigene Wege durch das Buch und die Stadt zu finden.
+"Vitrine en Cours/Auslage in Arbeit" von [Zita Oberwalder](https://zitaoberwalder.com/ "Zita Oberwalder") in Kollaboration mit [Hannes Mitterberger](https://www.hannesmitterberger.com/ "Hannes Mitterberger") ist ein fotografischer Essay über Paris, ein neuer Teil des Projekts "Hotel Europa". Zita Oberwalder fotografiert städtische Situationen jenseits der Klischees über die französische Hauptstadt. Ihre Bildfolgen erschließen, wie sich in einer Megastadt des Anthropozän Monumentales und Peripheres miteinander verbinden. Utopien werden zu Nicht-Orten und umgekehrt. Eine Ebene der Arbeit bilden die Spuren des Lebens von Emigrantinnen und Emigranten in Paris. In ihrer Unabgeschlossenheit laden die Fotografien die Betrachtenden ein, eigene Wege durch das Buch und die Stadt zu finden.
 
-Wir präsentieren, reflektieren und kommentieren Zita Oberwalders in Zusammenarbeit mit Hannes Mitterberger als Buch gestalteten Essay in unserer ersten Ausstellung nach dem Lockdown. Die Vernissage gehört zum Programm der Galerientage 2021. Wir laden zum Zusammenkommen vor dem Galerieraum in der Griesgasse 31 ein. Abhängig von der epidemiologischen Situation werden wir festlegen, wieviele Personen gleichzeitig den Ausstellungsraum besuchen können.
+Wir präsentieren, reflektieren und kommentieren Zita Oberwalders in Zusammenarbeit mit Hannes Mitterberger als Buch gestalteten Essay in unserer ersten Ausstellung nach dem Lockdown. Die Vernissage gehört zum Programm der [Galerientage 2021](https://www.galerientage-graz.at/ "Start | Galerientage 2021"). Wir laden zum Zusammenkommen vor dem Galerieraum in der Griesgasse 31 ein. Abhängig von der epidemiologischen Situation werden wir festlegen, wieviele Personen gleichzeitig den Ausstellungsraum besuchen können.
 
 
 <script type="application/ld+json">

@@ -4,7 +4,6 @@ eventtype: Ausstellung und Projektion
 topics:
 tags:
 - events
-- featured
 
 date: "2020-11-17"
 place: off_gallery, Griesgasse 31
