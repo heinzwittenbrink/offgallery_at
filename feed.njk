@@ -6,7 +6,7 @@ metadata:
   title: off_gallery.at
   url: https://offgallery.at/
   author:
-    name: Anastasija Georgi, Erika Petrić, Heinz Wittenbrink
+    name: Anastasija Georgi, Paolo Rosselli, Heinz Wittenbrink
     email: info@offgallery.at
   feed:
     subtitle: offgallery_graz - Nachrichten und Einladungen
@@ -27,7 +27,7 @@ metadata:
     <name>{{ metadata.author.name }}</name>
     <email>{{ metadata.author.email }}</email>
   </author>
-  {%- for blog in collections.blog %}
+  {%- for blog in collections.blog | reverse %}
   {% set absolutePostUrl %}{{ blog.url | url | absoluteUrl(metadata.url) }}{% endset %}
   <entry>
     <title>{{ blog.data.title }}</title>

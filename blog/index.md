@@ -14,7 +14,11 @@ pagination:
 <ul class="collection_index">
 {%- for blog in blog -%}
 <li>
+
 <a href="{{blog.url}}">{{blog.data.title}}</a>
+{% if blog.data.image %}
+{{ blog.data.image | renderTeaser() | safe }}
+{% endif %}
 <p>{{ blog.data.teaser }}</p>
 </li>
 {%- endfor -%}

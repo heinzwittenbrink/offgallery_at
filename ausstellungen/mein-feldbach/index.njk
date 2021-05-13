@@ -1,48 +1,24 @@
 ---
-layout: base.njk
-changeFreq: weekly
+title: Mein Feldbach
+subtitle: (mit everydaygraz)
+date: 2020-11-17
+time: 17.11.-21.12.2020
+layout: ausstellung.njk
+changeFreq: yearly
+tags: ausstellung
+artists: Barbara Riegler (und eingeladenden Fotograf/*innen für die Projektion *everydaygraz*)
+slug: barbara-riegler-mein-feldbach-silo
+image: ["barbara-riegler-mein-feldbach-silo", "Silo in Feldbach"]
+teaser: In der Serie „Mein Feldbach“ setzt sich Barbara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt.
+gallery:
+
+
 ---
 
-<script type="application/ld+json"> {
-"@context" : "http://schema.org",
-"@type" : "ArtGallery",
-"address" : {
-"@type": "PostalAddress",
-"addressLocality": "Graz",
-"addressRegion": "Steiermark",
-"postalCode": "8020",
-"streetAddress": "Griesgasse 31" },
-"name":"off_gallery graz",
-"url":"https://offgallery.at",
-"email":"info@offgallery.at",
-"openingHours": [
-"Di-Do 15:00-18:00"],
-"image":"https://offgallery.at/assets/pics/offgallery-aussen_720px.jpg"} </script>
+In der Serie „Mein Feldbach“ setzt sich Barbara Riegler mit ihrem Heimatort auseinander. Dabei werden der Begriff „Heimat“ und die persönlichen Bezüge zum eigenen Lebensraum hinterfragt. Es geht um Barbara Rieglers Blick auf ihre unmittelbare Umgebung. „Mein Feldbach“ stellt weniger eine Dokumentation des gesamten Ortes dar als einen individuellen Bruchteil von Feldbach.
 
-<section>
-<h1>{{title}}</h1>
-</section>
+In unserem Projekt werden den Bildern Barbara Rieglers Momentaufnahmen aus Graz gegenübergestellt. Bildern, denen eine emotionale Bindung zugrunde liegt, stehen Bilder gegenüber, bei denen sie noch nicht entstanden ist. Wir fragen uns: Welche Rolle spielt die Zeit in der Entstehung einer Erinnerung, einer Prägung?
 
-
-
-
-
-{%- for ausstellung in collections.ausstellung_aktuell -%}
-
-<section id="ongoing">
-<!--
-style="background: url('/assets/pics/{{ausstellung.data.image}}_720px.jpg') no-repeat center bottom scroll;
-background-size: cover;" -->
-<div id="teaser">
-<h3> <a href="{{ausstellung.url}}">{{ausstellung.data.artists}}: {{ausstellung.data.title}}</a></h3>
-<p id="cover">{{ ausstellung.data.teaser }} <a href="{{ausstellung.url}}">Weiterlesen...</a> </p>
-</div>
-</section>
-
-{%- endfor -%}
-
-
-<!--
 
 <section>
   <ul>
@@ -131,59 +107,10 @@ background-size: cover;" -->
 
 </script>
 
--->
-
-<section id="events">
-<ul>
-
-{%- for featured in collections.featured| reverse -%}
-<li>
-{%- if featured.data.eventtype -%}
-<strong>{{featured.data.eventtype}}: {{featured.data.date | printDate("dd.MM.yy")}}
-</strong>
-{% if featured.data.image %}
-{{ featured.data.image | renderTeaser() | safe }}
-{% endif %}
-<h3>{{featured.data.title}}</h3>
-<p>{{featured.data.teaser}}</p>
-<p><a href="{{featured.url}}">Informationen zur Veranstaltung</a></p>
-{%- endif -%}
-{%- if featured.data.specification -%}
-
-<p><strong>Aktuell: {{featured.data.specification}}</strong></p>
-<h3>{{featured.data.title}}</h3>
-{%- if featured.data.teaser_image -%}
-<p>{{ featured.data.teaser_image | renderTeaser() | safe }}</p>
-{%- endif -%}
-<p>{{featured.data.teaser}}</p>
-<p><a href="{{featured.url}}">Blog, {{featured.data.date | printDate("dd.MM.yy")}}</a></p>
-{%- endif -%}
-</li>
-{%- endfor -%}
-</ul>
-
-</section>
 
 
-<section class="summary">
-<h2>
-{{subtitle}}
-</h2>
-{{ image | renderPicture | safe }}
+Barbara Riegler fragt nach ihrer Bindung an einen Ort und versucht, sie zu verstehen.
 
-<p>{{lead}}</p>
-{{ content | safe }}
-</section>
+Barbaras Bilder sind bewusste, sorgfältig aufgenommene und ausgewählte Fotografien, in denen – mit der Erinnerung an ihre Jugend – das Jetzt und das Damals verschmelzen.
 
-<section id="info">
-
-<address>
-<p>off_gallery graz<br/>
-Griesgasse 31<br/>
-8020 Graz</p>
-</address>
-
-<p>Öffnungszeiten:<br>
-Di, Mi, Do 15:00-18:00<br/>
-(während der Ausstellungen)</p>
-</section>
+Demgegenüber fordern wir die Teilnehmerinnen auf Momente zu konservieren, die in der Zukunft dasselbe Potenzial entfalten können.

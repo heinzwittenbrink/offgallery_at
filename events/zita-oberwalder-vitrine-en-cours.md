@@ -1,28 +1,26 @@
 ---
 
-title: >
-Eröffnung: Zita Oberwalder / Vitrine en cours&mdash;Vernissage und Buchpräsentation
-eventtype: Eröffnung/Buchpräsentation
+title: "Zita Oberwalder: Vitrine en cours"
+
+eventtype: "Eröffnung/Buchpräsentation"
 topics:
 tags:
 - events
 - featured
+- blog
 
 date: "2021-05-14"
 place: off_gallery, Griesgasse 31
 author: Heinz Wittenbrink
 teaser: "'Vitrine en Cours/Auslage in Arbeit' von Zita Oberwalder in Kollaboration mit Hannes Mitterberger ist ein fotografischer Essay über Paris, ein neuer Teil des Projekts 'Hotel Europa'. Wir präsentieren ihn im Rahmem der Galerientage 2021."
 layout: event.njk
-image: ["zita-oberwalder-vitrine-en-cours-cover", "Cover"]
+image: ["zita-oberwalder-vitrine-en-cours-cover", "Bild aus der Ausstellung mit zwei spielenden Kindern"]
+teaser-image: ["zita-oberwalder-vitrine-en-cours-cover", "Bild aus der Ausstellung mit zwei spielenden Kindern"]
 quote:
 
 ---
 
-## Vitrine en Cours/Auslage in Arbeit
 
-**Eröffnung:**
-
-**14.5.2021**
 
 **18:00**
 
