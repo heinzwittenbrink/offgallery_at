@@ -35,7 +35,7 @@ Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatie
 Außerdem ist sie die Gründerin des Online-Portals
 [Ana Opalić | Suvremena hrvatska fotografija](https://croatian-photography.com/en/author/ana-opalic-2/ "Ana Opalić | Suvremena hrvatska fotografija"), Filmemacherin und Musikerin.
 
-Ein ausführlicher Interview finden Sie hier:  [Documentary Photographer Ana Opalić](http://ikonartsfoundation.org/ "Interview: Documentary Photographer Ana Opalić")
+Ein ausführlicher Interview finden Sie hier: [Documentary Photographer Ana Opalić](http://ikonartsfoundation.org/interview-documentary-photographer-ana-opalic/ "Interview: Documentary Photographer Ana Opalić") [Documentary Photographer Ana Opalić](http://ikonartsfoundation.org/ "Interview: Documentary Photographer Ana Opalić")
 
 Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir treffen uns vor dem Galerieraum, den nicht mehr als zwei Personen gleichzeitig betreten sollten. Wir müssen die Namen und Telefonnummern/Mailadressen aller Besucher:innen festhalten.
 
