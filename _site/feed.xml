@@ -18,7 +18,7 @@
     <id>https://offgallery.at/events/ana-opalic-orte-die-warten/</id>
     <content type="html">&lt;p&gt;&lt;strong&gt;19:00&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Griesgasse 31&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&lt;/p&gt;
+&lt;p&gt;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&lt;/p&gt;
 &lt;p&gt;Wir setzen mit dieser Ausstellung die Thematisierung von Peripherien und Grenzen fort. Ana Opalić verbindet Perspektiven der klassischen Landschaftsfotografie mit Aufmerksamkeit für die Wunden, die wirtschaftliche und politische Aneignungsbemühungen in einer Randzone hinterlassen haben.&lt;/p&gt;
 &lt;p&gt;Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatiens.
 Außerdem ist sie die Gründerin des Online-Portals
@@ -35,7 +35,7 @@ Außerdem ist sie die Gründerin des Online-Portals
   &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
   &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
   &quot;image&quot;: &quot;https://offgallery.at/assets/pics/zita-oberwalder-vitrine-en-cours-cover_720px.jpg&quot;,
-  &quot;description&quot;: &quot;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&quot;,
+  &quot;description&quot;: &quot;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&quot;,
   &quot;location&quot;: {		
     &quot;@type&quot;: &quot;Place&quot;,
     &quot;name&quot;: &quot;off_gallery Graz&quot;,

@@ -12,7 +12,7 @@ tags:
 date: "2021-06-22"
 place: off_gallery, Griesgasse 31
 author: Heinz Wittenbrink
-teaser: "Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts."
+teaser: "Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts."
 layout: event.njk
 image: ["ana-opalic-pag-schwimmbecken-januar-2019", "Ana Opalić: Pag, Schwimmbecken, Januar 2019"]
 teaser-image: ["ana-opalic-pag-schwimmbecken-januar-2019", "Ana Opalić: Pag, Schwimmbecken, Januar 2019"]
@@ -27,7 +27,7 @@ quote:
 **Griesgasse 31**
 
 
-Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.
+Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.
 
 Wir setzen mit dieser Ausstellung die Thematisierung von Peripherien und Grenzen fort. Ana Opalić verbindet Perspektiven der klassischen Landschaftsfotografie mit Aufmerksamkeit für die Wunden, die wirtschaftliche und politische Aneignungsbemühungen in einer Randzone hinterlassen haben.
 
@@ -49,7 +49,7 @@ Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir 
   "eventStatus": "https://schema.org/EventScheduled",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
   "image": "https://offgallery.at/assets/pics/zita-oberwalder-vitrine-en-cours-cover_720px.jpg",
-  "description": "Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.",
+  "description": "Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.",
   "location": {		
     "@type": "Place",
     "name": "off_gallery Graz",
