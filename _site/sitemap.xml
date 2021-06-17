@@ -253,4 +253,10 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/ausstellungen/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
+            <lastmod>2021-05-30T16:23:27.374Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
 </urlset>
