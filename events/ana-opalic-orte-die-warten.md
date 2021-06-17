@@ -24,7 +24,7 @@ quote:
 
 **19:00**
 
-**Griegasse 31**
+**Griesgasse 31**
 
 
 Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.
@@ -37,6 +37,7 @@ Außerdem ist sie die Gründerin des Online-Portals
 
 Ein ausführlicher Interview finden Sie hier:  [Documentary Photographer Ana Opalić](http://ikonartsfoundation.org/ "Interview: Documentary Photographer Ana Opalić")
 
+Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir treffen uns vor dem Galerieraum, den nicht mehr als zwei Personen gleichzeitig betreten sollten. Wir müssen die Namen und Telefonnummern/Mailadressen aller Besucher:innen festhalten.
 
 <script type="application/ld+json">
 {
