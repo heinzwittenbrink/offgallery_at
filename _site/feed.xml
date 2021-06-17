@@ -4,12 +4,52 @@
   <subtitle>offgallery_graz - Nachrichten und Einladungen</subtitle>
   <link href="https://offgallery.at/feed.xml" rel="self"/>
   <link href="https://offgallery.at/"/>
-  <updated>2021-05-14T02:00:00+02:00</updated>
+  <updated>2021-06-22T02:00:00+02:00</updated>
   <id>https://offgallery.at/</id>
   <author>
     <name>Anastasija Georgi, Paolo Rosselli, Heinz Wittenbrink</name>
     <email>info@offgallery.at</email>
   </author>
+  
+  <entry>
+    <title>Ana Opalić: Mjesta koja čekaju/Orte, die warten</title>
+    <link href="https://offgallery.at/events/ana-opalic-orte-die-warten/"/>
+    <updated>2021-06-22T02:00:00+02:00</updated>
+    <id>https://offgallery.at/events/ana-opalic-orte-die-warten/</id>
+    <content type="html">&lt;p&gt;&lt;strong&gt;19:00&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Griegasse 31&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&lt;/p&gt;
+&lt;p&gt;Wir setzen mit dieser Ausstellung die Thematisierung von Peripherien und Grenzen fort. Ana Opalić verbindet Perspektiven der klassischen Landschaftsfotografie mit Aufmerksamkeit für die Wunden, die wirtschaftliche und politische Aneignungsbemühungen in einer Randzone hinterlassen haben.&lt;/p&gt;
+&lt;p&gt;Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatiens.
+Außerdem ist sie die Gründerin des Online-Portals
+&lt;a href=&quot;https://croatian-photography.com/en/author/ana-opalic-2/&quot; title=&quot;Ana Opalić | Suvremena hrvatska fotografija&quot;&gt;Ana Opalić | Suvremena hrvatska fotografija&lt;/a&gt;, Filmemacherin und Musikerin.&lt;/p&gt;
+&lt;p&gt;Ein ausführlicher Interview finden Sie hier:  &lt;a href=&quot;http://ikonartsfoundation.org/&quot; title=&quot;Interview: Documentary Photographer Ana Opalić&quot;&gt;Documentary Photographer Ana Opalić&lt;/a&gt;&lt;/p&gt;
+&lt;script type=&quot;application/ld+json&quot;&gt;
+{
+  &quot;@context&quot;: &quot;https://schema.org&quot;,
+  &quot;@type&quot;: &quot;Event&quot;,
+  &quot;name&quot;: &quot;Eröffnung: Ana Opalić: Mjesta koja čekaju/Orte, die warten&quot;,
+  &quot;startDate&quot;: &quot;2021-06-22T19:00&quot;,
+  &quot;endDate&quot;: &quot;2021-06-22T22:00&quot;,
+  &quot;eventStatus&quot;: &quot;https://schema.org/EventScheduled&quot;,
+  &quot;eventAttendanceMode&quot;: &quot;https://schema.org/OfflineEventAttendanceMode&quot;,
+  &quot;image&quot;: &quot;https://offgallery.at/assets/pics/zita-oberwalder-vitrine-en-cours-cover_720px.jpg&quot;,
+  &quot;description&quot;: &quot;Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie zeigt die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.&quot;,
+  &quot;location&quot;: {		
+    &quot;@type&quot;: &quot;Place&quot;,
+    &quot;name&quot;: &quot;off_gallery Graz&quot;,
+    &quot;address&quot;: {
+      &quot;@type&quot;: &quot;PostalAddress&quot;,
+      &quot;streetAddress&quot;: &quot;Griesgasse 31&quot;,
+      &quot;addressLocality&quot;: &quot;Graz&quot;,
+      &quot;postalCode&quot;: &quot;8020&quot;,
+      &quot;addressCountry&quot;: &quot;AT&quot;
+    }
+  }
+}
+&lt;/script&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Zita Oberwalder: Vitrine en cours</title>
@@ -172,15 +212,6 @@ As an effect, the project fosters positive influence on the process of establish
 &lt;p&gt;Begrenzte Teilnehmerzahl!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ECoC-AXIS: Graz - Rijeka - Novi Sad&lt;/strong&gt; is a three-year interdisciplinary project in urban space that fosters cooperation and dialog between creative practitioners (students/professionals in the field of architecture and photography, and beyond) and local micro-communities, including vulnerable groups (migrants, refugees).&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://offgallery.at/ausstellungen/fact-forum-graz-gent/&quot;&gt;Read more about the exhibition&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Ausstellungseröffnung mit Martin Grabner am 17.9.</title>
-    <link href="https://offgallery.at/blog/save-the-date-martin-grabner/"/>
-    <updated>2019-09-07T02:00:00+02:00</updated>
-    <id>https://offgallery.at/blog/save-the-date-martin-grabner/</id>
-    <content type="html">&lt;p&gt;Am 17.9. eröffnen wir die erste Ausstellung des Herbstprogramms. Martin Grabner hat Stadtneubauten in Palästina und an anderen Orten fotografiert.&lt;/p&gt;
 </content>
   </entry>
 </feed>
