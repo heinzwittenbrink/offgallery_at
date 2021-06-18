@@ -43,7 +43,7 @@ Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir 
 
 <dl>
 <dt>2017</dt> <dd>Regisseurin und Kamerafrau des Films „Lijek“ („Medizin“) </dd>
-<dt>2014</dt> <dd>Regisseurin des Dokumentarfilms „Još jednom“ („Noch einmal“, zus. Mit Noahom Pintarić), Kamerafrau bei dem Dokumentarfilm „Nije ti život pjesma Havaja“ („Hawaii“ ist nicht dein LebensliedRegie: Dana Budisavljević)</dd>
+<dt>2014</dt> <dd>Regisseurin des Dokumentarfilms „Još jednom“ („Noch einmal“, zus. Mit Noahom Pintarić), Kamerafrau bei dem Dokumentarfilm „Nije ti život pjesma Havaja“ („Hawaii ist nicht dein Lebenslied“, Regie: Dana Budisavljević)</dd>
 <dt>2008</dt> <dd>2. Preis beim T-HT award@msu.hr</dd>
 
 <dt>2003</dt> <dd>Vertreterin Kroatiens bei der 50. Biennale in Venedig (zus. mit Boris Cvjetanović).</dd>
