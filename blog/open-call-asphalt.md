@@ -45,7 +45,7 @@ Liegt im Verfall des Asphalts und der Wiederkehr der Natur durch seine Ritzen un
 Es geht um von der Kamera erfasste Qualitäten des Asphalts, seine Rolle als das Material der Stadt, seine Beteiligung an der Ausdehnung, Abgrenzung und Intensivierung urbaner gesellschaftlicher Räume.
 
 
-Alle eingesendeten Bilder werden digital publiziert und vom 8. bis zum 22. Oktober auf die Fenster der off_gallery projiziert. Eine Jury wird eine Auswahl der interessantesten Einsendungen treffen, die dann gedruckt und in der Galerie ausgestellt werden.  Die Jury besteht aus Zita Oberwalder, Martin Grabner und dem Team der off_gallery.
+Alle eingesendeten Bilder werden digital publiziert und vom 9. bis zum 22. Oktober auf die Fenster der off_gallery projiziert. Eine Jury wird eine Auswahl der interessantesten Einsendungen treffen, die dann gedruckt und in der Galerie ausgestellt werden.  Die Jury besteht aus Zita Oberwalder, Martin Grabner und dem Team der off_gallery.
 
 
 Wir bitten alle an der Teilnahme Interessierten, Links zu den Bilddateien oder die Bilder selbst bis zum 29.9. an <asphalt@offgallery.at> zu schicken. Nach der Entscheidung der Jury werden wir wiederum per Mail mitteilen, welche Bilder für die analoge Ausstellung ausgewählt wurden. Wir werden dann alle Urheber*innen bitten, die Erlaubnis zur analogen bzw. digitalen Ausstellung zu erteilen.
