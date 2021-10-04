@@ -2,11 +2,11 @@
 title: |-
   Asphalt – Urbaner Grund und Hintergrund
 author: Heinz Wittenbrink
-eventtype: "Open Call"
+eventtype: "Eröffnung"
 tags:
 - featured
 - blog
-date: "2021-09-08"
+date: "2021-10-09"
 teaser: |-
   Wir suchen für das Projekt “Asphalt” nach Bildern, die den Asphalt sichtbar machen – Bilder, die versuchen, das Material und die mit ihm hergestellten Oberfläche nicht nur als Bühne, sondern auch als Mitspieler des Urbanen zu zeigen.
 layout: blog.njk
