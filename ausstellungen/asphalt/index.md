@@ -1,15 +1,18 @@
 ---
 title: Asphalt
-subtitle: A journey through the Albanian landscape in still images
-date: 2020-01-17
-time: 17.1.-6.2.2020 DI-DO 15-19
+subtitle: Urbaner Grund und Hintergrund
+date: 2021-10-09
+time: 9.10.-22.10.202 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
 tags: ausstellung
-artists: Saimir Kristo, Sonia Jojic
-slug: liminal
-image: ["liminal", "Bunker in Nordalbanien"]
-teaser: Bunkers in Albania are the symbol of war made with the purpose to shelter the army troops, leading to approximately 170.000 documented bunkers of different spatial typologies according to the geographical position and structural features that were built across the country during the totalitarian regime in case of a future invasion by enemies.
+artists: 46 Teilnehmer:innen an unserem Open Call
+slug: asphalt
+image: ["wolfgang-kuehnelt-asphalt-griesgasse", "Wolfgang Kühnelt: Griesgasse vor der off_gallery"]
+teaser:
+Asphalt steht für sichtbare und unsichtbare Infrastruktur, für urbane Oberfläche und die Grenze zum Untergrund, für die Starts und Neustarts des nie abgeschlossenen industriellen Bauens. Überträgt man den Gegensatz von Figur und Grund von der Gestaltpsychologie auf die Architektur, dann ist fast überall Asphalt der Grund für die Figuren der Gebäude.
+
+Wir haben für das Projekt “Asphalt” nach Bildern gesucht, die dieses Verhältnis von Grund und Figur unterlaufen und den Asphalt sichtbar machen – Bilder, die versuchen, das Material und die mit ihm hergestellten Oberfläche nicht nur als Bühne, sondern auch als Mitspieler des Urbanen zu zeigen. Der Boden, den wir sonst nicht bemerken, wird Leinwand, Collage-Element, Quelle von Texturen, Farbpalette in der Fantasie der Fotografierenden und Betrachtenden.
 gallery: ""
 ---
 
