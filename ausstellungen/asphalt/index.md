@@ -6,15 +6,15 @@ time: 9.10.-22.10.202 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
 tags: ausstellung
-artists: 46 Teilnehmer:innen an unserem Open Call
+artists: 46 Teilnehmer und Teilnehmerinnen an unserem Open Call
 slug: asphalt
 image: ["wolfgang-kuehnelt-asphalt-griesgasse", "Wolfgang Kühnelt: Griesgasse vor der off_gallery"]
-teaser:
-Asphalt steht für sichtbare und unsichtbare Infrastruktur, für urbane Oberfläche und die Grenze zum Untergrund, für die Starts und Neustarts des nie abgeschlossenen industriellen Bauens. Überträgt man den Gegensatz von Figur und Grund von der Gestaltpsychologie auf die Architektur, dann ist fast überall Asphalt der Grund für die Figuren der Gebäude.
+teaser: Asphalt steht für sichtbare und unsichtbare Infrastruktur, für urbane Oberfläche und die Grenze zum Untergrund, für die Starts und Neustarts des nie abgeschlossenen industriellen Bauens. Überträgt man den Gegensatz von Figur und Grund von der Gestaltpsychologie auf die Architektur, dann ist fast überall Asphalt der Grund für die Figuren der Gebäude. Wir haben für das Projekt Asphalt nach Bildern gesucht, die dieses Verhältnis von Grund und Figur unterlaufen und den Asphalt sichtbar machen – Bilder, die versuchen, das Material und die mit ihm hergestellten Oberfläche nicht nur als Bühne, sondern auch als Mitspieler des Urbanen zu zeigen. Der Boden, den wir sonst nicht bemerken, wird Leinwand, Collage-Element, Quelle von Texturen, Farbpalette in der Fantasie der Fotografierenden und Betrachtenden.
 
-Wir haben für das Projekt “Asphalt” nach Bildern gesucht, die dieses Verhältnis von Grund und Figur unterlaufen und den Asphalt sichtbar machen – Bilder, die versuchen, das Material und die mit ihm hergestellten Oberfläche nicht nur als Bühne, sondern auch als Mitspieler des Urbanen zu zeigen. Der Boden, den wir sonst nicht bemerken, wird Leinwand, Collage-Element, Quelle von Texturen, Farbpalette in der Fantasie der Fotografierenden und Betrachtenden.
-gallery: ""
+gallery:
 ---
+
+Asphalt steht für sichtbare und unsichtbare Infrastruktur, für urbane Oberfläche und die Grenze zum Untergrund, für die Starts und Neustarts des nie abgeschlossenen industriellen Bauens. Überträgt man den Gegensatz von Figur und Grund von der Gestaltpsychologie auf die Architektur, dann ist fast überall Asphalt der Grund für die Figuren der Gebäude.
 
 <div style="margin: 0 -2em" class="slideshow slideshow--force-horizontal startpage-slideshow">
    <div data-img-url="/assets/pics/asphalt_dia/_0_1.jpg"></div>
@@ -305,3 +305,5 @@ gallery: ""
   setupLazyLoadingImageUrls();
 
 </script>
+
+Wir haben für das Projekt Asphalt nach Bildern gesucht, die dieses Verhältnis von Grund und Figur unterlaufen und den Asphalt sichtbar machen – Bilder, die versuchen, das Material und die mit ihm hergestellten Oberfläche nicht nur als Bühne, sondern auch als Mitspieler des Urbanen zu zeigen. Der Boden, den wir sonst nicht bemerken, wird Leinwand, Collage-Element, Quelle von Texturen, Farbpalette in der Fantasie der Fotografierenden und Betrachtenden.
