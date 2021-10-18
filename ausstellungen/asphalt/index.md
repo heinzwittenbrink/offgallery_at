@@ -15,6 +15,7 @@ gallery:
 ---
 
 <div style="margin: 0 -2em" class="slideshow slideshow--force-horizontal startpage-slideshow">
+   <div data-img-url="/assets/pics/asphalt_dia/_0_0_sagostin_robert.png"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_0_1.jpg"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_0_2.jpg"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_0_3.jpg"></div>
@@ -34,7 +35,7 @@ gallery:
    <div data-img-url="/assets/pics/asphalt_dia/_14_0_reisch_simona.png"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_14_1.jpg"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_14_2.jpg"></div>
-   <div data-img-url="/assets/pics/asphalt_dia/_15_0_sagostin_robert.png"></div>
+   <div data-img-url="/assets/pics/asphalt_dia/_15_0_ULFLEITNER.png"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_15_1.jpg"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_15_2.jpg"></div>
    <div data-img-url="/assets/pics/asphalt_dia/_15_3.jpg"></div>
