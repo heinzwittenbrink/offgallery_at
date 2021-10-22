@@ -1,6 +1,6 @@
 ---
 title: |-
-  Giovanna Silva: Souvenirs – Diptycs from Outer Space
+  Giovanna Silva: Souvenirs – Diptychs from Outer Space
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
@@ -18,7 +18,7 @@ quote:
 </br>
 
 
-**Giovanna Silva: Souvenirs – Diptycs from Outer Space**
+**Giovanna Silva: Souvenirs – Diptychs from Outer Space**
 
 **Vernissage: 23.10. um 19:00 Uhr**
 </br>
