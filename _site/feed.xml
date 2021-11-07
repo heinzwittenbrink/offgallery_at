@@ -4,12 +4,27 @@
   <subtitle>offgallery_graz - Nachrichten und Einladungen</subtitle>
   <link href="https://offgallery.at/feed.xml" rel="self"/>
   <link href="https://offgallery.at/"/>
-  <updated>2021-10-23T02:00:00+02:00</updated>
+  <updated>2021-11-16T01:00:00+01:00</updated>
   <id>https://offgallery.at/</id>
   <author>
     <name>Anastasija Georgi, Paolo Rosselli, Heinz Wittenbrink</name>
     <email>info@offgallery.at</email>
   </author>
+  
+  <entry>
+    <title>Eva Mohringer: Gegenverkehr – Ansichten der Kärntnerstrasse in Graz</title>
+    <link href="https://offgallery.at/events/opening-gegenverkehr/"/>
+    <updated>2021-11-16T01:00:00+01:00</updated>
+    <id>https://offgallery.at/events/opening-gegenverkehr/</id>
+    <content type="html">&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Eva Mohringer: Gegenverkehr – Ansichten der Kärntnerstrasse in Graz&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vernissage: 16.11. um 19:00 Uhr&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Für diese Muster werden die wenig ambitionierten architektonischen Formen von einheitlich errichteten Siedlungshäusern am Stadtrand mit ebenfalls nicht originellen Elementen der Werbegrafik kombiniert oder auch von ihnen verdeckt. Adressiert werden vor allem die mit dem Auto Vorbeifahrenden, die sich schnellstmöglich orientieren sollen. Die zu Werbeflächen umfunktionierten Fassaden und die als Abstellflächen genutzten Umgebungen der Häuser wirken trashig, durch ihre Wiederholung und ihren Rhythmus geben sie der Kärntnerstraße aber einen Stil, durch den sie sich von vielen scheinbar anspruchsvolleren urbanistischen Umgebungen abhebt.&lt;/p&gt;
+&lt;p&gt;Eva Mohringer hat die Kärntnerstraße mit dem Blick einer Fußgängerin erforscht, der die automobilgerechte Umgebung verfremdet, auf Details aufmerksam und offen für die Komik der unwahrscheinlichen Zusammentreffen ist, die diese Umgebung charakterisieren. Sie idealisiert diese Straße nicht, aber sie qualifiziert sie auch nicht ab. Sie zeigt sie als einen vorstädtischen Raum, einen scheinbaren Nichtort der durch die Verbindung unterschiedlicher Elemente zu einem Denkmal des Urbanismus während der &lt;a href=&quot;http://www.igbp.net/globalchange/greatacceleration.4.1b8ae20512db692f2a680001630.html&quot; title=&quot;Great Acceleration - IGBP&quot;&gt;Great Acceleration&lt;/a&gt; geworden ist.&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Giovanna Silva: Souvenirs – Diptychs from Outer Space</title>
@@ -229,21 +244,6 @@ Schicke uns dein Bild an&lt;/p&gt;
     <updated>2020-02-14T01:00:00+01:00</updated>
     <id>https://offgallery.at/blog/creative-exchange-2020/</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/551003695741882/&quot; title=&quot;Creative Exchange 2020&quot;&gt;Creative Exchange 2020&lt;/a&gt;, the most insightful annual gathering around European architecture at which creatives from all parts of the world showcase ideas and trends for the future development of architecture and the profession, is well underway. Join us in MAO and experience this inspiring event! #CEx20 (Images by Iztok Dimc)&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>FUTURE ARCHITECTURE FAIR 12.-13. 02. 2020</title>
-    <link href="https://offgallery.at/blog/future-architecture/"/>
-    <updated>2019-11-22T01:00:00+01:00</updated>
-    <id>https://offgallery.at/blog/future-architecture/</id>
-    <content type="html">&lt;p&gt;[ FUTURE ARCHITECTURE FAIR 12.-13. 02. 2020 ]&lt;/p&gt;
-&lt;p&gt;We are proud to be one of 15 various organizations and projects taking part on Creative exchange 2020
-The public presentation will be at the evening event on 12. February, 19:00 CET at MAO Slovenija.&lt;/p&gt;
-&lt;p&gt;#FutureArchitectureFair2020
-#CEx2020
-#futurearchitecture
-#futurearchitectureplatform&lt;/p&gt;
 </content>
   </entry>
 </feed>

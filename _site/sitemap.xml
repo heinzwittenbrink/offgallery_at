@@ -295,4 +295,10 @@
             <changefreq>yearly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/events/opening-gegenverkehr/</loc>
+            <lastmod>2021-11-16T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
