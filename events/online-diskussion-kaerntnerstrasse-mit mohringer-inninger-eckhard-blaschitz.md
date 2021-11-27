@@ -12,12 +12,12 @@ layout: blog.njk
 teaser_image: ["collage-orion-eva-mohringer-milowiz", "Rechte: Eva Mohringer-Milowiz"]
 image: ["collage-orion-eva-mohringer-milowiz", "Rechte: Eva Mohringer-Milowiz"]
 quote: |
-    "Und obwohl sie meist als Auswuchs des schlechten Geschmacks verachtet wird, sind die unterschiedlichen architektonischen Ausprägungen entlang der Kärntnerstraße stadt- und kulturgeschichtlich höchst relevant. ... Als urbane Antithese zum geschlossenen Stadtkern liefert sich einen ehrlichen Beitrag zum neoliberalen Urbanismus, indem sie totalitäre Stadtentwicklungspläne negiert und an ihrer Stelle rein kommerzielle Interessen und radikale Aneignungsprozesse ausstellt." [Petra Eckhard in: A. Wagner & S. V. Walk (Hrsg.), Architekturführer Graz, 2019]
+    "Und obwohl sie meist als Auswuchs des schlechten Geschmacks verachtet wird, sind die unterschiedlichen architektonischen Ausprägungen entlang der Kärntnerstraße stadt- und kulturgeschichtlich höchst relevant. ... Als urbane Antithese zum geschlossenen Stadtkern liefert sie einen ehrlichen Beitrag zum neoliberalen Urbanismus, indem sie totalitäre Stadtentwicklungspläne negiert und an ihrer Stelle rein kommerzielle Interessen und radikale Aneignungsprozesse ausstellt." [Petra Eckhard in: A. Wagner & S. V. Walk (Hrsg.), Architekturführer Graz, 2019]
 
 ---
 
  Teilnehmen werden:
- 
+
 - die Fotografin [Eva Mohringer-Milowiz](https://www.gat.st/news/werkliste-von-eva-mohringer-milowiz "Werkliste von Eva Mohringer-Milowiz | www.gat.st"), deren Fotos zur Zeit in der off_gallery gezeigt werden,
 - die Architekturtheoretikerin [Petra Eckhard](http://akk.tugraz.at/team/petra-eckhard/ "Petra Eckhard | akk"), die an der TU Graz mit Anselm Wagner eine ausführliche Lehrveranstaltung zur Kärntnerstraße durchgeführt hat und [über die Straße publiziert](https://graz.pure.elsevier.com/en/publications/%C3%BCber-den-einzug-des-unbewohnbaren "'Über den Einzug des Unbewohnbaren' — Graz University of Technology") hat,
 - der Grazer Stadtplanungschef [Bernhard Inninger](https://hda-graz.at/programm/making-of-stadtplanung-leiter-des-stadtplanungsamtes-graz-bernhard-inninger "Making of: Stadtplanung / Leiter des Stadtplanungsamtes Graz, Bernhard Inninger — Haus der Architektur"), der sich urbanistisch intensiv mit dieser Straße auseinandergesetzt hat,
