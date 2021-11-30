@@ -7,7 +7,7 @@ tags:
 - featured
 date: "2021-11-30"
 teaser: |-
-  Im Rahmen unserer Ausstellung "Gegenverkehr" mit Eva Mohringer-Milowiz' Fotografien der Kärntnerstraße wollen wir über die Bedeutung, die Zukunft sowie die Wahrnehmung und die Darstellung der Kärntnerstraße diskutieren.
+   Im Rahmen unserer Ausstellung "Gegenverkehr" mit Eva Mohringer-Milowiz' Fotografien der Kärntnerstraße wollen wir über die Bedeutung, die Zukunft sowie die Wahrnehmung und die Darstellung der Kärntnerstraße diskutieren.
 layout: blog.njk
 teaser_image: ["collage-orion-eva-mohringer-milowiz", "Rechte: Eva Mohringer-Milowiz"]
 image: ["collage-orion-eva-mohringer-milowiz", "Rechte: Eva Mohringer-Milowiz"]
@@ -16,7 +16,11 @@ quote: |
 
 ---
 
+Die Zoom-Adresse ist <https://zoom.us/j/92412531751>
+
+
  Teilnehmen werden:
+
 
 - die Fotografin [Eva Mohringer-Milowiz](https://www.gat.st/news/werkliste-von-eva-mohringer-milowiz "Werkliste von Eva Mohringer-Milowiz | www.gat.st"), deren Fotos zur Zeit in der off_gallery gezeigt werden,
 - die Architekturtheoretikerin [Petra Eckhard](http://akk.tugraz.at/team/petra-eckhard/ "Petra Eckhard | akk"), die an der TU Graz mit Anselm Wagner eine ausführliche Lehrveranstaltung zur Kärntnerstraße durchgeführt hat und [über die Straße publiziert](https://graz.pure.elsevier.com/en/publications/%C3%BCber-den-einzug-des-unbewohnbaren "'Über den Einzug des Unbewohnbaren' — Graz University of Technology") hat,
