@@ -4,12 +4,30 @@
   <subtitle>offgallery_graz - Nachrichten und Einladungen</subtitle>
   <link href="https://offgallery.at/feed.xml" rel="self"/>
   <link href="https://offgallery.at/"/>
-  <updated>2021-11-16T01:00:00+01:00</updated>
+  <updated>2022-03-19T01:00:00+01:00</updated>
   <id>https://offgallery.at/</id>
   <author>
     <name>Anastasija Georgi, Paolo Rosselli, Heinz Wittenbrink</name>
     <email>info@offgallery.at</email>
   </author>
+  
+  <entry>
+    <title>Paolo Rosselli: The City – Die Stadt</title>
+    <link href="https://offgallery.at/events/opening-the-city/"/>
+    <updated>2022-03-19T01:00:00+01:00</updated>
+    <id>https://offgallery.at/events/opening-the-city/</id>
+    <content type="html">&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Paolo Rosselli: The City – Die Stadt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vernissage: 19.3.2022 um 19:00 Uhr&lt;/strong&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Paolo Rosselli hat die Innenstadt Ost-Berlin 1983 in Schwarz-Weiss-Aufnahmen dokumentiert, deren Kompositionen deutlich Zentrales und Periferes, mehr und weniger Relevantes, Dauerhaftes und Vorübergehendes, Vordergründe und Hintergründe unterscheiden. 2006 hat er in Tokio bei Aufnahmen mit einer Digitalkamera auf eine Kontrolle der Bildgegenstände verzichtet. Farbige, nahezu Sujet-lose Bilder registrieren die visuellen Besonderheiten urbaner Situationen in dieser Megastadt.&lt;/p&gt;
+&lt;p&gt;Wie stellen Paolo Rosselli ab dem 19. März in der off_gallery vor. Paolo Rosselli ist einer der bekanntesten Architektur- und Stadtfotografen Italiens. Er hat das Handwerk des Fotografierens bei Ugo Mulas erlernt, die Werke italienischer und internationaler Architekten dokumentiert und seit den 70er Jahren Städte in Asien und anderen Kontinenten aufgenommen. Er publizierte seine Arbeiten in zahlreichen Büchern. Zugleich ist er als Essayist und Kurator eine wichtige Stimme im Diskurs über Fotografie in Italien. Wir freuen uns, dass er im kuratorischen Team der off_gallery mitarbeitet.&lt;/p&gt;
+&lt;p&gt;Website Paolo Rossellis: &lt;a href=&quot;https://paolorosselli.com/&quot;&gt;https://paolorosselli.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Website mit Dokumentaraufnahmen Paolo Rossellis aus Indien: &lt;a href=&quot;https://paolorosselliindia.com/&quot;&gt;https://paolorosselliindia.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Videos mit Dialogen zur Fotografie: &lt;a href=&quot;https://vimeo.com/user9407330&quot;&gt;https://vimeo.com/user9407330&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>Eva Mohringer: Gegenverkehr – Ansichten der Kärntnerstrasse in Graz</title>
@@ -235,15 +253,6 @@ Schicke uns dein Bild an&lt;/p&gt;
 &lt;p&gt;Die Studierenden haben Fakten zur Situation obdachloser Frauen in Graz recherchiert und sich intensiv damit beschäftigt, wie sie durch Sozialarbeit unterstützt werden können. Die Ergebnisse präsentieren sie in der off-gallery.&lt;/p&gt;
 &lt;p&gt;Bei der Eröffnung der Ausstellung am 4. Februar sprachen Manuela Wutte (Gemeinderätin), Andrea Knaﬂ (Forum Wohnen) und Stefan Steinwidder (Vinzi-Schutz). Die Ausstellung bleibt bis zum 1.3. geöffnet.&lt;/p&gt;
 &lt;p&gt;Facebook-Seite zum Projekt: &lt;a href=&quot;https://www.facebook.com/frauenwohnungslosigkeit/?eid=ARDgmCqgONmch9PDY85JxTvjYExiU1ugzHTxhcJle65FkdfeKHJ72xZMZeuzJxQj9bXKbi4ECh3qGrPs&quot; title=&quot;Wohnungslosigkeit ist auch weiblich - Seite&quot;&gt;Wohnungslosigkeit ist auch weiblich - Start&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Creative Architecture 2020</title>
-    <link href="https://offgallery.at/blog/creative-exchange-2020/"/>
-    <updated>2020-02-14T01:00:00+01:00</updated>
-    <id>https://offgallery.at/blog/creative-exchange-2020/</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/events/551003695741882/&quot; title=&quot;Creative Exchange 2020&quot;&gt;Creative Exchange 2020&lt;/a&gt;, the most insightful annual gathering around European architecture at which creatives from all parts of the world showcase ideas and trends for the future development of architecture and the profession, is well underway. Join us in MAO and experience this inspiring event! #CEx20 (Images by Iztok Dimc)&lt;/p&gt;
 </content>
   </entry>
 </feed>
