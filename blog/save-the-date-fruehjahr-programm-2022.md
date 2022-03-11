@@ -92,6 +92,6 @@ Unser Projekt geht der Frage nach, ob und wie sich die Architekturfotografie ver
 
 ## Open Call: Transformation der Stadt
 
-**Geplante Ausstellungs-Eröffnung: 15. Oktober 2022**
+**Geplante Ausstellungs-Eröffnung: 2.12.2022**
 
 In diesem Open Call bitten wir um Bilder zur Transformation der Stadt angesichts von Klimakrise und ökologischem Zusammenbruch.  Voraussichtlich werden wir uns dabei auf Aufnahmen zu „Nature based solutions“ beschränken. Nature Based Solutions oder NBS sind „Maßnahmen zum Schutz, zur nachhaltigen Bewirtschaftung und zur Wiederherstellung natürlicher oder veränderter Ökosysteme, die den gesellschaftlichen Herausforderungen wirksam und anpassungsfähig begegnen und gleichzeitg dem menschlichen Wohlbefinden und der biologischen Vielfalt dienen“ (<https://www.iucn.org/commissions/commission-ecosystem-management/our-work/nature-based-solutions>). Es geht uns bei diesem Open Call nicht um die  Dokumentation von NBS, sondern um den kreativen fotografischen Umgang mit der Transformation von Städten. Wir werden den Open Call so durchführen 2021 den Call zum Thema „Asphalt“. Die Einsendungen werden online präsentiert. Von einer Jury ausgewählte Aufnahmen zeigen wir gedruckt in der Galerie.
