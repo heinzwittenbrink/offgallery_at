@@ -134,6 +134,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/orte-die-warten/</loc>
+            <lastmod>2021-06-21T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/events/ana-opalic-orte-die-warten/</loc>
             <lastmod>2021-06-22T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -281,6 +287,12 @@
             <loc>https://offgallery.at/blog/open-call-asphalt/</loc>
             <lastmod>2021-10-09T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/souvenirs/</loc>
+            <lastmod>2021-10-23T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
         </url>
     
         <url>
