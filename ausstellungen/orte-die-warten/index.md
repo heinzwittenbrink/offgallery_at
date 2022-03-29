@@ -7,7 +7,7 @@ layout: ausstellung.njk
 changeFreq: yearly
 tags: ausstellung
 artists: Giovanna Silva
-slug: gegenverkehr
+slug: orte-die-warten
 image: ["ana-opalic-pag-schwimmbecken-januar-2019", "Ana Opalić: Pag, Schwimmbecken, Januar 2019"]
 teaser: Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.
 gallery:
@@ -19,11 +19,14 @@ Wir setzen mit dieser Ausstellung die Thematisierung von Peripherien und Grenzen
 
 Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatiens.
 Außerdem ist sie die Gründerin des Online-Portals
-[Ana Opalić | Suvremena hrvatska fotografija](https://croatian-photography.com "Suvremena hrvatska fotografija"), Filmemacherin und Musikerin.
-
+[Suvremena hrvatska fotografija](https://croatian-photography.com "Suvremena hrvatska fotografija"), Filmemacherin und Musikerin.
+<br/>
+<br/>
 Ein ausführlicher Interview finden Sie hier: [Documentary Photographer Ana Opalić](http://ikonartsfoundation.org/interview-documentary-photographer-ana-opalic/ "Interview: Documentary Photographer Ana Opalić").
-
-Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir treffen uns vor dem Galerieraum, den nicht mehr als zwei Personen gleichzeitig betreten sollten. Wir müssen die Namen und Telefonnummern/Mailadressen aller Besucher:innen festhalten.
+<br/>
+<br/>
+Text zu unserer Ausstellung: [Über 'Orte, die warten'](../ueber-orte-die-warten "Text zur Ausstellung von Heinz Wittenbrink")<br/>
+<br/>
 
 ## Ana Opalić: Biografische Daten
 
@@ -36,14 +39,6 @@ Die Eröffnung findet entsprechend den gültigen Corona-Bestimmungen statt. Wir 
 <dt>1997</dt> <dd>Abschluss des Studium der Film und TV-Gestaltung an der Akademie der dramatischen Künste in Zagreb</dd>
 <dt>1994</dt> <dd>Beginn der künstlerischen Laufbahn mit der Serie *Selbstporträts*</dd>
 <dt>1972</dt> <dd>geb. in Dubrovnik</dd>
-
-
-
-
-
-
-
-
 
 </dl>
 
