@@ -4,7 +4,6 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- featured
 - blog
 date: "2022-03-19"
 teaser: |-
