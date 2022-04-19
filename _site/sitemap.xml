@@ -343,4 +343,10 @@
             <changefreq>monthly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/events/kuenstlergespraech-mit-ditz-fejer-und-angelika-reitzer/</loc>
+            <lastmod>2022-04-28T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
