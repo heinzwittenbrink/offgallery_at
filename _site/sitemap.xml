@@ -200,6 +200,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/</loc>
+            <lastmod>2022-04-08T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/events/opening-inventar-der-gegend/</loc>
             <lastmod>2022-04-08T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -347,6 +353,18 @@
             <loc>https://offgallery.at/events/kuenstlergespraech-mit-ditz-fejer-und-angelika-reitzer/</loc>
             <lastmod>2022-04-28T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
+            <lastmod>2022-04-28T07:14:56.126Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/zur-ausstellung/</loc>
+            <lastmod>2022-04-28T09:03:30.508Z</lastmod>
+            <changefreq></changefreq>
         </url>
     
 </urlset>
