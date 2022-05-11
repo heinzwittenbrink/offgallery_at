@@ -1,6 +1,6 @@
 ---
 title: |-
-  Lana Stojićević: Mises en scènes
+  Lana Stojićević: Mises en scène
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
@@ -20,11 +20,11 @@ quote:
 
 **Lana Stojićević: Mises en scène**
 </br>
-**Vernissage und Künstlergespräch: 14.4.2022 um 17:00 Uhr**
+**Vernissage und Künstlergespräch: 14.5.2022 um 17:00 Uhr**
 </br>
 **Preview und Öffnungszeiten während der Galerientage:**
 </br>
-**13.4.2022 14:00-22:00, 14.4.2022 und 15.4. 10:00-20:00**
+**13.5.2022 14:00-22:00, 14.5 und 15.5. 10:00-20:00**
 </br>
 **Am 13.4. zwischen 16:00 und 18:30: Musikalische Interventionen von Studierenden der Kunstuniversität Graz**
 
