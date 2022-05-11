@@ -4,12 +4,36 @@
   <subtitle>offgallery_graz - Nachrichten und Einladungen</subtitle>
   <link href="https://offgallery.at/feed.xml" rel="self"/>
   <link href="https://offgallery.at/"/>
-  <updated>2022-04-28T02:00:00+02:00</updated>
+  <updated>2022-05-14T02:00:00+02:00</updated>
   <id>https://offgallery.at/</id>
   <author>
     <name>Anastasija Georgi, Paolo Rosselli, Heinz Wittenbrink</name>
     <email>info@offgallery.at</email>
   </author>
+  
+  <entry>
+    <title>Lana Stojićević: Mises en scènes</title>
+    <link href="https://offgallery.at/events/opening-mises-en-scene/"/>
+    <updated>2022-05-14T02:00:00+02:00</updated>
+    <id>https://offgallery.at/events/opening-mises-en-scene/</id>
+    <content type="html">&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Lana Stojićević: Mises en scène&lt;/strong&gt;
+&lt;br&gt;
+&lt;strong&gt;Vernissage und Künstlergespräch: 14.4.2022 um 17:00 Uhr&lt;/strong&gt;
+&lt;br&gt;
+&lt;strong&gt;Preview und Öffnungszeiten während der Galerientage:&lt;/strong&gt;
+&lt;br&gt;
+&lt;strong&gt;13.4.2022 14:00-22:00, 14.4.2022 und 15.4. 10:00-20:00&lt;/strong&gt;
+&lt;br&gt;
+&lt;strong&gt;Am 13.4. zwischen 16:00 und 18:30: Musikalische Interventionen von Studierenden der Kunstuniversität Graz&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Betonicus, eine klassizistische Säule in einem kroatischen Touristenappartment, träumt von einer Rolle als echte römische Säule, aufgestellt vm Kaiser Diokletian in seinem Palast. Betonicus ist der Titelheld einer Architektur-Inszenierung der kroatischen Künstlerin Lana Stojićević. In &amp;quot;Fassade&amp;quot; verkleidet sich Lana Stojićević als Schauseite eines bunten, illegal gebauten Hauses an der dalmatinischen Küste. Auch in &amp;quot;Villa Rosa&amp;quot; spielt sie ironisch mit den Versatzstücke der größenwahnsinnigen und kitschigen Schwarzbauten an der kroatischen Adriaküste.&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+Die Ausstellung ist nach den Galerientagen (Öffnungszeiten siehe oben) bis zum 9. Juni am Dienstag, Mittwoch und Donnerstag zwischen 15:00 und 18:00 und nach Vereinbarung geöffnet.
+</content>
+  </entry>
   
   <entry>
     <title>Künstlergespräch mit Ditz Fejer und Angelika Reitzer</title>
@@ -291,15 +315,6 @@ Außerdem ist sie die Gründerin des Online-Portals
   }
 }
 &lt;/script&gt;
-</content>
-  </entry>
-  
-  <entry>
-    <title>Call for Photography der Smallest Gallery</title>
-    <link href="https://offgallery.at/blog/smallest-gallery-call-2021/"/>
-    <updated>2021-01-20T01:00:00+01:00</updated>
-    <id>https://offgallery.at/blog/smallest-gallery-call-2021/</id>
-    <content type="html">&lt;p&gt;Die Smallest Gallery hat einen &lt;a href=&quot;http://thesmallestgallery.at/&quot; title=&quot;the smallest gallery – Ort für Fotografie&quot;&gt;Call for photography&lt;/a&gt; gestartet. Einreichungen sind bis zum 22. Februar möglich. Alles weitere unter &lt;a href=&quot;http://thesmallestgallery.at/&quot;&gt;http://thesmallestgallery.at/&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
