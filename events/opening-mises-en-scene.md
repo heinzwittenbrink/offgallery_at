@@ -39,7 +39,7 @@ quote:
 </br>
 </br>
 
-Betonicus, eine klassizistische Säule in einem kroatischen Touristenappartment, träumt von einer Rolle als echte römische Säule, aufgestellt vm Kaiser Diokletian in seinem Palast. Betonicus ist der Titelheld einer Architektur-Inszenierung der kroatischen Künstlerin Lana Stojićević. In "Fassade" verkleidet sich Lana Stojićević als Schauseite eines bunten, illegal gebauten Hauses an der dalmatinischen Küste. Auch in "Villa Rosa" spielt sie ironisch mit den Versatzstücke der größenwahnsinnigen und kitschigen Schwarzbauten an der kroatischen Adriaküste.
+Betonicus, eine klassizistische Säule in einem kroatischen Touristenappartment, träumt von einer Rolle als echte römische Säule, aufgestellt von Kaiser Diokletian in seinem Palast. Betonicus ist der Titelheld einer Architektur-Inszenierung der kroatischen Künstlerin Lana Stojićević. In "Fassade" verkleidet sich Lana Stojićević als Schauseite eines bunten, illegal gebauten Hauses an der dalmatinischen Küste. Auch in "Villa Rosa" spielt sie ironisch mit den Versatzstücke der größenwahnsinnigen und kitschigen Schwarzbauten an der kroatischen Adriaküste.
 
 </br>
 </br>
