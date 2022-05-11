@@ -20,19 +20,20 @@ quote:
 
 **Lana Stojićević: Mises en scène**
 </br>
+</br>
 **Vernissage und Künstlergespräch: 14.5.2022 um 17:00 Uhr**
+</br>
 </br>
 **Preview und Öffnungszeiten während der Galerientage:**
 </br>
-**13.5.2022: 16:00-22:00**
+**13.5.: 16:00-22:00**
 </br>
-**14.5.2022: 11:00-19:00**
+**13.5. zwischen 16:00 und 18:30: Musikalische Interventionen von Studierenden der Kunstuniversität Graz**
 </br>
-**15.5.2022: 11:00-17:00**
+**14.5.: 11:00-19:00**
 </br>
-</br>
-</br>
-**Am 13.4. zwischen 16:00 und 18:30: Musikalische Interventionen von Studierenden der Kunstuniversität Graz**
+**15.5.: 11:00-17:00**
+
 
 
 </br>
