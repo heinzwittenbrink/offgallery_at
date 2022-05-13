@@ -7,8 +7,22 @@ tags:
 - featured
 - blog
 date: "2022-05-14"
-teaser: |+
-    Lana Stojićević (geb. 1989) ist eine der bekanntesten jungen kroatischen Künstlerinnen. Im Rahmen der Galerientage eröffnen wir die Foto-Ausstellung "Mises en scène". Wir stellen drei Arbeiten vor, die ironisch mit architekturgeschichtlichen und Gender-Klischees spielen.
+teaser: >
+    Lana Stojićević (geb. 1989) ist eine der bekanntesten jungen kroatischen Künstlerinnen. Im Rahmen der Galerientage eröffnen wir die Foto-Ausstellung "Mises en scène". Wir stellen drei Arbeiten vor, die ironisch mit architekturgeschichtlichen und Gender-Klischees spielen. Öffnungszeiten:
+
+    Vernissage und Künstlergespräch: 14.5.2022 um 17:00 Uhr.
+
+
+    Preview und Öffnungszeiten während der Galerientage:
+
+    13.5.: 16:00-22:00,
+
+    13.5. zwischen 16:00 und 18:30: Musikalische Interventionen von Studierenden der Kunstuniversität Graz.
+
+    14.5.: 11:00-19:00,
+
+    15.5.: 11:00-17:00.
+
 layout: blog.njk
 teaser_image: ["lana-stojicevic-facada-1", "Aus: Facada"]
 image: ["lana-stojicevic-betonicus-1", "Aus: Betonicus"]
