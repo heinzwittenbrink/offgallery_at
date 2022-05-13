@@ -4,7 +4,6 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Online-Diskussion"
 tags:
-- featured
 date: "2021-11-30"
 teaser: |-
    Im Rahmen unserer Ausstellung "Gegenverkehr" mit Eva Mohringer-Milowiz' Fotografien der Kärntnerstraße wollen wir über die Bedeutung, die Zukunft sowie die Wahrnehmung und die Darstellung der Kärntnerstraße diskutieren.

@@ -4,7 +4,6 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Künstlergespräch"
 tags:
-- featured
 - blog
 date: "2022-04-28"
 teaser: |+
@@ -34,8 +33,7 @@ quote:
 </br>
 </br>
 
-Ditz Fejers Aufnahmen sind ein fotografisches Inventar der Region Mürztal, erstellt während der Corona-Pandemie. Sie gehören zu einem Projekt mit Texten von Angelika Reitzer und Musik von Maria Gstättner, das in dem Buch und der CD *Inventar der Gegend* dokumentiert wird. 
+Ditz Fejers Aufnahmen sind ein fotografisches Inventar der Region Mürztal, erstellt während der Corona-Pandemie. Sie gehören zu einem Projekt mit Texten von Angelika Reitzer und Musik von Maria Gstättner, das in dem Buch und der CD *Inventar der Gegend* dokumentiert wird.
 </br>
 </br>
 Wir wollen uns in einem offenen Gespräch über die Aufnahmen und das Projekt unterhalten. Wir werden darüber sprechen, wie die Fotografien Ditz Fejers entstanden sind und in welchen Beziehungen sie zu den Texten und der Musik des Projekts stehen. Möglichkeiten aktueller Architektur- und Landschaftsfotografie sollen ein weiteres Thema sein. Alle Teilnehmenden sind eingeladen mitzudiskutieren.  
-

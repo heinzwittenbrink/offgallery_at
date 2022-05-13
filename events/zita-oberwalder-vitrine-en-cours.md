@@ -6,7 +6,6 @@ eventtype: "Eröffnung/Buchpräsentation"
 topics:
 tags:
 - events
-- featured
 - blog
 
 date: "2021-05-14"

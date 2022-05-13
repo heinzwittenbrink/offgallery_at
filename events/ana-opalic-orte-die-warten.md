@@ -6,7 +6,6 @@ eventtype: "Eröffnung"
 topics:
 tags:
 - events
-- featured
 - blog
 
 date: "2021-06-22"
