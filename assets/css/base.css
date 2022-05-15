@@ -317,6 +317,14 @@ footer ul#subscribe {display: flex; flex-wrap: wrap; padding-top: 0;}
   }
 }
 
+figure.single_picture {text-align: center;}
+
+
+figure.single_picture img {
+    width:auto;
+    padding-top: 1rem;
+  }
+
 /* end main */
 
 

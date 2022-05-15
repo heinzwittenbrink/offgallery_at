@@ -368,9 +368,51 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/</loc>
+            <lastmod>2022-05-14T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/events/opening-mises-en-scene/</loc>
             <lastmod>2022-05-14T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/villa-rosa/</loc>
+            <lastmod>2022-05-14T12:23:23.781Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
+            <lastmod>2022-05-14T12:29:08.207Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
+            <lastmod>2022-05-15T10:46:43.126Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/fassade/</loc>
+            <lastmod>2022-05-15T10:46:43.130Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
+            <lastmod>2022-05-15T10:47:07.042Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/betonicus/</loc>
+            <lastmod>2022-05-15T10:47:07.042Z</lastmod>
+            <changefreq>yearly</changefreq>
         </url>
     
 </urlset>
