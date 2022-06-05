@@ -415,4 +415,10 @@
             <changefreq>yearly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/events/opening-graz-teheran/</loc>
+            <lastmod>2022-06-14T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
