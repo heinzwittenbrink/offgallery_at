@@ -237,188 +237,194 @@
     
         <url>
             <loc>https://offgallery.at/README/</loc>
-            <lastmod>2022-09-14T17:36:10.104Z</lastmod>
+            <lastmod>2022-09-15T10:42:43.995Z</lastmod>
             <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/zur-ausstellung/</loc>
-            <lastmod>2022-09-14T17:36:10.106Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/orte-die-warten/ueber-orte-die-warten/</loc>
-            <lastmod>2022-09-14T17:36:10.106Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2022-09-14T17:36:10.520Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/partner/landsteiermark/</loc>
-            <lastmod>2022-09-14T17:36:10.520Z</lastmod>
-            <changefreq>monthly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/allgemein/impressum/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
+            <lastmod>2022-09-15T10:44:16.125Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/allgemein/mitglied-werden/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
+            <lastmod>2022-09-15T10:44:16.127Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/allgemein/ueber_uns/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
+            <lastmod>2022-09-15T10:44:16.128Z</lastmod>
             <changefreq>monthly</changefreq>
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/moving-mountains/materialien/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-behind-the-white-city/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-living-with-the-wall/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
-            <lastmod>2022-09-14T17:36:10.521Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/mises-en-scene/betonicus/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/mises-en-scene/fassade/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/mises-en-scene/villa-rosa/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-markets-mercat-dels-enchants/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-real-estate-nationalism-under-occupation/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-transformation-ldn/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-view-from-a-hill-philopappos/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-white-noise-white-voice/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
-            <lastmod>2022-09-14T17:36:10.522Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/</loc>
-            <lastmod>2022-09-14T17:36:46.197Z</lastmod>
+            <loc>https://offgallery.at/ausstellungen/</loc>
+            <lastmod>2022-09-15T10:44:51.118Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
     
         <url>
-            <loc>https://offgallery.at/blog/</loc>
-            <lastmod>2022-09-14T17:36:46.758Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
-            <lastmod>2022-09-14T17:37:19.792Z</lastmod>
+            <lastmod>2022-09-15T10:44:51.123Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
-            <lastmod>2022-09-14T17:37:36.328Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
-            <lastmod>2022-09-14T17:37:57.874Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/galerie/martin-grabner-white-noise-white-voice/</loc>
-            <lastmod>2022-09-14T17:38:17.270Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
-            <lastmod>2022-09-14T17:38:26.978Z</lastmod>
-            <changefreq>yearly</changefreq>
+            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/zur-ausstellung/</loc>
+            <lastmod>2022-09-15T10:44:51.155Z</lastmod>
+            <changefreq></changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
-            <lastmod>2022-09-14T17:38:33.705Z</lastmod>
+            <lastmod>2022-09-15T10:44:51.232Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/betonicus/</loc>
+            <lastmod>2022-09-15T10:44:51.236Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
-            <lastmod>2022-09-14T17:38:42.213Z</lastmod>
+            <lastmod>2022-09-15T10:44:51.271Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/fassade/</loc>
+            <lastmod>2022-09-15T10:44:51.276Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
-            <lastmod>2022-09-14T17:38:45.575Z</lastmod>
+            <lastmod>2022-09-15T10:44:51.301Z</lastmod>
             <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/mises-en-scene/villa-rosa/</loc>
+            <lastmod>2022-09-15T10:44:51.303Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
+            <lastmod>2022-09-15T10:44:51.322Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/moving-mountains/materialien/</loc>
+            <lastmod>2022-09-15T10:44:51.345Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/orte-die-warten/ueber-orte-die-warten/</loc>
+            <lastmod>2022-09-15T10:44:51.403Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
+            <lastmod>2022-09-15T10:44:51.425Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/galerie/martin-grabner-white-noise-white-voice/</loc>
+            <lastmod>2022-09-15T10:44:51.456Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-behind-the-white-city/</loc>
+            <lastmod>2022-09-15T10:44:51.478Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-living-with-the-wall/</loc>
+            <lastmod>2022-09-15T10:44:51.488Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-markets-mercat-dels-enchants/</loc>
+            <lastmod>2022-09-15T10:44:51.499Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-real-estate-nationalism-under-occupation/</loc>
+            <lastmod>2022-09-15T10:44:51.512Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-transformation-ldn/</loc>
+            <lastmod>2022-09-15T10:44:51.522Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-view-from-a-hill-philopappos/</loc>
+            <lastmod>2022-09-15T10:44:51.527Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/the-promise-of-the-city/martin-grabner-white-noise-white-voice/</loc>
+            <lastmod>2022-09-15T10:44:51.533Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
+            <lastmod>2022-09-15T10:44:51.564Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
+            <lastmod>2022-09-15T10:44:51.582Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
+            <lastmod>2022-09-15T10:44:51.600Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/blog/</loc>
+            <lastmod>2022-09-15T10:44:51.636Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/</loc>
+            <lastmod>2022-09-15T10:44:51.988Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/partner/landsteiermark/</loc>
+            <lastmod>2022-09-15T10:44:52.017Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/events/opening-kioske/</loc>
+            <lastmod>2022-09-17T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
         </url>
     
 </urlset>
