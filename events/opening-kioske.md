@@ -28,3 +28,6 @@ quote:
 </br>
 </br>
 Die Ausstellung ist bis zum 29. September am Dienstag, Mittwoch und Donnerstag zwischen 15:00 und 18:00 und nach Vereinbarung geöffnet.
+</br>
+</br>
+Der Aufsatz "Kioske – temporäre Architektur und soziale Lebenswelten an der albanischen Küste / Kiosks – temporary architecture and social living environments on the Albanian coast" kann hier heruntergeladen werden: https://nx4720.your-storageshare.de/s/CLHZb7YeWimKBDL
