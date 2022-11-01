@@ -4,7 +4,7 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
+
 date: "2022-05-14"
 teaser: |+
     Lana Stojićević (geb. 1989) ist eine der bekanntesten jungen kroatischen Künstlerinnen. Im Rahmen der Galerientage eröffnen wir die Foto-Ausstellung "Mises en scène". Wir stellen drei Arbeiten vor, die ironisch mit architekturgeschichtlichen und Gender-Klischees spielen. Öffnungszeiten:

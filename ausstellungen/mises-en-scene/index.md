@@ -6,7 +6,7 @@ date: "2022-05-14"
 openingtime: Di–Do 15–18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung_aktuell
+tags: ausstellung
 artists: Lana Stojićević
 slug: mises-en-scene
 teaser: "Drei Arbeiten der kroatischen Künstlerin, die ironisch mit architektonischen und Gender-Klischees spielen."
