@@ -224,9 +224,21 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/graz-teheran/</loc>
+            <lastmod>2022-06-14T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/events/opening-graz-teheran/</loc>
             <lastmod>2022-06-14T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/discontinuity/</loc>
+            <lastmod>2022-07-09T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
         </url>
     
         <url>
@@ -413,6 +425,12 @@
             <loc>https://offgallery.at/partner/landsteiermark/</loc>
             <lastmod>2022-09-15T10:44:52.017Z</lastmod>
             <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/kioske/</loc>
+            <lastmod>2022-09-17T00:00:00.000Z</lastmod>
+            <changefreq>yearly</changefreq>
         </url>
     
         <url>
