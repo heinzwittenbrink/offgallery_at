@@ -24,7 +24,11 @@ quote:
 **Paolo Rosselli: The City – Die Stadt**
 
 **Vernissage: 12.11.2022 um 19:00 Uhr**
-</br>
+
+**Geöffnet: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
+
+**Griesgasse 31, 8020 Graz**
+
 </br>
 
 Paolo Rosselli hat die Innenstadt Ost-Berlin 1983 in Schwarz-Weiss-Aufnahmen dokumentiert, deren Kompositionen deutlich Zentrales und Periferes, mehr und weniger Relevantes, Dauerhaftes und Vorübergehendes, Vordergründe und Hintergründe unterscheiden. 2006 hat er in Tokio bei Aufnahmen mit einer Digitalkamera auf eine Kontrolle der Bildgegenstände verzichtet. Farbige, nahezu Sujet-lose Bilder registrieren die visuellen Besonderheiten urbaner Situationen in dieser Megastadt.
