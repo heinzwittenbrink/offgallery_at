@@ -17,8 +17,7 @@ Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Tour
 
 Wir setzen mit dieser Ausstellung die Thematisierung von Peripherien und Grenzen fort. Ana Opalić verbindet Perspektiven der klassischen Landschaftsfotografie mit Aufmerksamkeit für die Wunden, die wirtschaftliche und politische Aneignungsbemühungen in einer Randzone hinterlassen haben.
 
-Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatiens.
-Außerdem ist sie die Gründerin des Online-Portals
+Ana Opalić ist eine der wichtigsten Vertreterinnen der neuen Fotografie Kroatiens. Außerdem ist sie die Gründerin des Online-Portals
 [Suvremena hrvatska fotografija](https://croatian-photography.com "Suvremena hrvatska fotografija"), Filmemacherin und Musikerin.
 <br/>
 <br/>
