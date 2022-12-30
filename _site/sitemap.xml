@@ -445,4 +445,10 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/blog/open-call-reininghaus/</loc>
+            <lastmod>2022-12-30T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
