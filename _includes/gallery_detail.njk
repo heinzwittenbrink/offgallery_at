@@ -1,0 +1,23 @@
+<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject">
+
+{{ galerie | renderPicture() | safe }}
+
+<figcaption>
+<span itemprop="author">{{galerie[2]}}</span>: <span itemprop="name">{{galerie[1]}}</span>. Rechte: <span itemprop="rights">{{galerie[3]}}</span>
+</figcaption>
+
+</figure>
+
+
+{{pagination.pageNumber}}
+{%- if pagination.pageLinks.length > 1 -%}
+<nav class="pagination">
+  {%- if pagination.previousPageLink -%}
+    <a class="pagination__item" href="{{ pagination.previousPageHref | url }}">Letztes Bild</a>
+  {%- endif -%}
+
+  {%- if pagination.nextPageLink -%}
+    <a class="pagination__item" href="{{ pagination.nextPageHref | url }}">Nächstes Bild</a>
+  {%- endif -%}
+</nav>
+{%- endif -%}

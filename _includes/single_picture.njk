@@ -1,0 +1,35 @@
+---
+layout: base.njk
+changeFreq: monthly
+
+---
+
+
+
+
+<figure class="single_picture" itemscope itemtype="http://schema.org/ImageObject">
+
+{{ picture | renderPicture | safe }}
+
+<figcaption>
+<span itemprop="author">{{artist}}</span>: <span itemprop="name">{{title}}</span>. Rechte: <span itemprop="rights">{{rights}}</span>
+</figcaption>
+
+</figure>
+
+
+
+
+
+
+
+<h1>{{artist}}: {{title}}</h1>
+
+
+<figcaption>
+{{ content | safe }}
+</figcaption>
+
+
+
+</figure>

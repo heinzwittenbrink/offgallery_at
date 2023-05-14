@@ -1,0 +1,36 @@
+{
+  "name": "offgallery_at",
+  "version": "1.0.0",
+  "description": "website of offgallery.at",
+  "main": ".eleventy.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heinzwittenbrink/offgallery_at.git"
+  },
+  "keywords": [
+    "offgallery"
+  ],
+  "author": "Heinz Wittenbrink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heinzwittenbrink/offgallery_at/issues"
+  },
+  "homepage": "https://github.com/heinzwittenbrink/offgallery_at#readme",
+  "dependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-upgrade-help": "^2.0.5",
+    "fast-glob": "^3.2.12",
+    "luxon": "^3.0.3"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}

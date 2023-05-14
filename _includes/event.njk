@@ -1,0 +1,22 @@
+---
+layout: base.njk
+changeFreq: weekly
+
+---
+
+<article>
+<header>
+<strong>{{eventtype | safe}}</strong>
+{%- for i in topics -%}
+<p><strong>#{{i}}</strong></p>
+{%- endfor -%}
+<h1>{{title}}</h1>
+{% if image %}
+{{ image | renderTeaser() | safe }}
+{% endif %}
+<!-- <img src="/assets/pics/{{image}}.jpg"/> -->
+<p>{{date | printDate("dd.MM.yy")}}</p>
+<blockquote>{{quote | safe}}</blockquote>
+</header>
+{{ content | safe }}
+</article>

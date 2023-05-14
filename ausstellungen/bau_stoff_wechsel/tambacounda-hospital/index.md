@@ -1,0 +1,23 @@
+<head>
+ <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
+    <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">
+
+
+</head>
+<body>
+
+**Iwan Baan**
+
+***Manuel Herz, Tambacounda Hospital, Senegal***
+
+**2021**
+
+Das Tambacounda Hospital des Schweizer Architekten Manuel Herz entstand weniger als eine „architektonische Lösung“, sondern aus einem Forschungs- und Kollaborationsprozess. Das Entbindungs- und Kinderkrankenhaus im oft als die heißeste Stadt der Welt bezeichneten Tambacounda im östlichen Senegal baut auf der 15-jährigen Arbeit der Josef und Annie Albers Stiftung und La Korsa mit Dr. Magueye Ba auf. Entwickelt in einem Lernprozess, ist es nicht nur ein Gebäude, sondern reagiert auf die lokale Gemeinschaft und Wirtschaft, das Klima und die Landschaft und bettet sich produktiv in diese ein. Von der Entwicklung und Produktion der Bauteile, der Form und Konstruktion des Gebäudes bis zum funktionalen Konzept, alles entstand hier in interdisziplinärer Zusammenarbeit.
+
+Die Fotografien von Iwan Baan erzählen von den Prozessen und Leben, die das Gebäude verkörpert, auslöst und mit denen es in Beziehung steht. Sie fragen nach seiner Genese aus dem Wissen über lokale Gegebenheiten und Bedürfnisse, Ökonomien und Ökologie, über die Bedeutung der Beteiligten und Nutzer*innen, über Material- und Geldkreisläufe. Wer baut? Für wen? Mit welchem Material? Was braucht es für einen nachhaltigen Betrieb? Was für die Entwicklung und Pflege einer Gemeinschaft?
+
+Iwan Baan zeigt Architektur im Kontext ihrer Entstehung, ihres sozialen, ökonomischen und ökologischen Umfelds, versteht sie als Teil eines Prozesses. In seiner Arbeit verbindet der niederländische Fotograf Dokumentar- und Architekturfotografie. Er zeigt Leben und Interaktion von Menschen im und mit dem sie umgebenden gebauten Raum. Es sind Individuen, Gemeinschaften und Gesellschaften, die ihren Raum gestalten, aneignen und beleben.
+
+Text: Martin Grabner
+
+</body>

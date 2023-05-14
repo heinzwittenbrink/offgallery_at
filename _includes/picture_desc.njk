@@ -1,0 +1,46 @@
+---
+layout: base.njk
+changeFreq: yearly
+
+
+---
+
+<article>
+
+
+<figure>
+
+<div id="photos">
+
+{%- for i in gallery -%}
+
+<img src="/assets/pics/{{i}}.jpg"/>
+
+<!--
+<p class="credits">
+<small>Rechte: {{rights}}</small>
+</p>
+-->
+
+
+
+{%- endfor -%}
+
+
+
+</div>
+
+
+
+<h1>{{artist}}: {{title}}</h1>
+
+
+<figcaption>
+{{ content | safe }}
+</figcaption>
+
+
+
+</figure>
+
+</article>

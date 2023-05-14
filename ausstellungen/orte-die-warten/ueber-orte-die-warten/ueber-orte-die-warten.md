@@ -1,0 +1,22 @@
+---
+title: |
+    "Zu der Ausstellung 'Orte, die warten' von Ana Opalić
+slug: ueber-orte-die-warten 
+
+---
+
+Die Bilder von Ana Opalić zeigen Ansichten aus Pag, einer Insel, auf der menschliches Leben weniger selbstverständlich wirkt als in vielen anderen Regionen.
+
+Die Bilder wecken Assoziationen an archaische Praktiken des Abgrenzens oder Ausschneidens von Bezirken in einer grenzenlosen und übermächtigen Natur. Fast alle Fotos in unserer Ausstellung zeigen Bereiche, die abgegrenzt wurden und Rahmen für menschliche Aktivitäten bilden: etwas einen Platz, eine Terrase, einen Swimming Pool mit seiner Umgebung.  Alles Gezeigte wird in diesen analog aufgenommenen und sorgfätig gedruckten Bildern mit einer Detailgenauigkeit erfasst, die kleinste Nuancen erfahrbar werden lässt. Eine Reproduktion der Bilder auf einen Bildschirm ist für diese Abstufungen und die Wirkung ihrer materiellen Oberfläche zu grob. Die Bilder geben ihren Gegenstand fast haptisch wieder und machen kleinste Unterschiede im Licht und in der Schärfe erfahrbar.
+
+Zum Spiel von Kontinuitäten und Diskontinuitäten des Wassers, der Felsen und der Pflanzen steht die einförmige Diskontinuität einen starken Kontrast - sowohl die Diskontinuität der Rahmen der  architektonischen Artefakte wie der Rahmen der Aufnahmen der Ausstellung.  Auch die Rahmen der Bilder selbst, ihr rechteckiges Format mit immer denselben Größenverhältnissen, lassen sich Bezirke oder Abgrenzungen lesen. Für die Bilder der Ausstellung hat Ana Opalić einfache Holzrahmen verwendet und rhythmisch so angeordnet, dass Parallelen und Unterschiede im Gezeigten hervorgehoben werden.
+
+Die im Winter aufgenommenen Gebäude auf den Bildern gehören zu einer touristischen Infrastruktur, die um diese Zeit nutzlos ist. Menschen sind nicht sichtbar.  Die provisorisch wirkenden menschlichen Bezirke setzen der Grenzenlosigkeit von Felsen, Meer und Gebirge nicht eine Zone menschlicher Vertrautheit entgegen, sondern sie steigern noch die Intensität des Ausgedehnten,  Extensiven. 
+
+Die Rahmen der Bilder setzen, ähnlich wie romantische Gemälde, die Natur als etwas nicht Beherrschbares, Erhabenes in Szene. Die beiden Bilder in denen Schwimmbecken gezeigt werden kann man als eine Reflexion dieser Beziehung verstehen. In ihrem Wasser spiegelt sich die Natur spiegelt ähnlich wie die Fotos selbst die Natur abbilden.
+
+Während sich bei den verschiedenen rechteckigen Strukturen Natur und Artefakte deutlich als etwas voneinander Verschiedenes gegenüberstehen, bilden Pflanzen und Wege auf den Bildern Linien, die man beiden Bereichen zuordnen kann. Fast alle Aufnahmen zeigen Gräser, die man  als Teil der Natur verstehen kann, die aber andererseits gepflanzt oder zumindestens von Menschen beeinflusst wurden. An ihnen kann sich der Blick orientieren, ähnlich wie an den Wegen, die gelegentlich sichtbar sind.  Gräser und Wege bilden eine dritte,  sparsam verwendete Bedeutungsebene, die möglicherweise dem Holz als Material für die Rahmen der Bilder entspricht. Durch diese  Ebene überschreiten die Bilder die Darstellung eines Gegensatzes von Natur und prekärer menschlicher Aktivität.
+
+So wie die Linien der Wege und der Hecken Bewegungsmöglichkeiten andeuten, so verweist auch das Licht auf den Bildern auf eine zeitliche Dimension, darauf, dass immer ein vorübergehender Moment herausgehoben wurde. Es ist eine Bewegungsdimension präsent, während andererseits keine realen Bewegungen gezeigt werden. Die Bewegung ist möglich vielleicht zukünftig, aber sie findet nicht statt: Orte, die warten.
+
+*Heinz Wittenbrink*
