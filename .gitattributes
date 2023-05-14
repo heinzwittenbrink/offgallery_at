@@ -1,0 +1,2 @@
+[[:space:]]_site/assets/pics/** filter=lfs diff=lfs merge=lfs -text
+assets/pics/** filter=lfs diff=lfs merge=lfs -text
