@@ -28,7 +28,8 @@ quote:
 
 **Vernissage: 15.07.2023 um 19 Uhr**
 </br>
-
+**Geöffnet: Samstags 10-13 Uhr und nach Vereinbarung**
+</br>
 **Griesgasse 31, 8020 Graz**
 
 </br>
