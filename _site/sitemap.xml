@@ -541,4 +541,10 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/grauzonen/vernissage/</loc>
+            <lastmod>2023-09-23T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
