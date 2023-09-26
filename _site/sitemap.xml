@@ -547,4 +547,34 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/grauzonen/leave-me-in-the-shadow/index-english/</loc>
+            <lastmod>2023-09-23T10:06:26.541Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/grauzonen/crno-brdo/</loc>
+            <lastmod>2023-09-23T10:21:24.745Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/grauzonen/imported-desert/</loc>
+            <lastmod>2023-09-23T11:33:23.765Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/grauzonen/leave-me-in-the-shadow/</loc>
+            <lastmod>2023-09-23T11:37:31.573Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/grauzonen/</loc>
+            <lastmod>2023-09-23T14:06:10.127Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
 </urlset>
