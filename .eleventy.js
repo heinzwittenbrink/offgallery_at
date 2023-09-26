@@ -1,9 +1,8 @@
 const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const fg = require("fast-glob");
-
-
-
+const Image = require("@11ty/eleventy-img");
+const path = require("path");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -34,6 +33,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("renderTeaser", (imageName) => {
+    console.log(imageName);
     return `<img srcset='
       /assets/pics/${imageName[0]}_180px.jpg 180w,
       /assets/pics/${imageName[0]}_360px.jpg 360w, 
@@ -45,7 +45,7 @@ module.exports = function (eleventyConfig) {
       alt='${imageName[1]}'>`;
   });
 
-    eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginRss);
 
   // Run search for images in /assets/pics/slideshow and convert into an array of file paths
   const slideshowImages = fg.sync(["assets/pics/slideshow/*"]);
@@ -56,6 +56,26 @@ module.exports = function (eleventyConfig) {
   });
 
   console.log(slideshowImages);
+
+  eleventyConfig.addShortcode("image", async function (src, alt, sizes) {
+    console.log({ src });
+    let metadata = await Image(src, {
+      widths: [321, 654],
+      formats: ["avif", "webp"],
+      outputDir: path.join(eleventyConfig.dir.output, "pics"),
+      urlPath: "/pics/",
+    });
+
+    let imageAttributes = {
+      alt,
+      sizes,
+      loading: "lazy",
+      decoding: "async",
+    };
+
+    // You bet we throw an error on a missing alt (alt="" works okay)
+    return Image.generateHTML(metadata, imageAttributes);
+  });
 
   return {
     templateFormats: [
@@ -73,11 +93,4 @@ module.exports = function (eleventyConfig) {
       output: "_site",
     },
   };
-
-  /* Forestry instant previews */
-  if (process.env.ELEVENTY_ENV == "staging") {
-    config.setBrowserSyncConfig({
-      host: "0.0.0.0",
-    });
-  }
 };

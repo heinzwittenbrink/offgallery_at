@@ -1,6 +1,7 @@
 ---
 layout: article.njk
 ---
+
 ## Zu den Arbeiten von Bojan Mrđenović
 
 ## Imported Desert
@@ -15,15 +16,20 @@ Die Fotografien aus der Serie „Imported Deserts“ zeigen eine Landschaft aus 
 
 **Slideshow. Archivmaterial, Google Earth sowie digitalisierte Fotografien auf analogem Diafarbfilm**
 
+<!-- TODO: Select right picture
+ <figure>
+  {% image "grauzonen/imported-desert/ana-opalic-pag-schwimmbecken-januar-2019_1440px.jpg", "photo of my tabby cat", "(min-width: 30em) 50vw, 100vw" %}
+  <figcaption>test</figcaption>
+</figure> -->
+
 **Bojan Mrđenović, 2021**
 
-Bojan Mrđenović hat sich etwa 10 Jahre mit dem Ort Kutina und dem Betrieb Petrokemija beschäftigt. Die vier hier gedruckt präsentierten Bilder gehören zu einer Serie von Aufnahmen einer Deponie für Gipsschlamm. Auf dem Bildschirm sind weitere Aufnahmen von Bojan Mrđenović aus Kutina zu sehen. Sie stammen aus der Zeit vor der endgültigen Privatisierung des Werks. Hinzu kommt Material, das in der Zagreber Ausstellung *Nature, Chemistry & Society* (2021) gezeigt wurde. 
+Bojan Mrđenović hat sich etwa 10 Jahre mit dem Ort Kutina und dem Betrieb Petrokemija beschäftigt. Die vier hier gedruckt präsentierten Bilder gehören zu einer Serie von Aufnahmen einer Deponie für Gipsschlamm. Auf dem Bildschirm sind weitere Aufnahmen von Bojan Mrđenović aus Kutina zu sehen. Sie stammen aus der Zeit vor der endgültigen Privatisierung des Werks. Hinzu kommt Material, das in der Zagreber Ausstellung _Nature, Chemistry & Society_ (2021) gezeigt wurde.
 
 ## Zur Firma Petrokemija in Kutina
 
-Die Firma Petrokemija produziert seit 1968 in Kutina Mineraldünger. Sie ist der größte Düngemittelproduzent und der zweitgrößte Exporteur Kroatiens. 1985 hatte sie 4500 Beschäftigte, heute sind es weniger als 1300. Petrokemija war nach dem Ende des sozialistischen Jugoslawien zeitweise im Besitz des kroatischen Staats und wurde 2018 endgültig privatisiert. 2023 ging die Mehrheit der Anteile in das Eigentum der niederländisch-türkischen Firma Yildirim über. 
-
+Die Firma Petrokemija produziert seit 1968 in Kutina Mineraldünger. Sie ist der größte Düngemittelproduzent und der zweitgrößte Exporteur Kroatiens. 1985 hatte sie 4500 Beschäftigte, heute sind es weniger als 1300. Petrokemija war nach dem Ende des sozialistischen Jugoslawien zeitweise im Besitz des kroatischen Staats und wurde 2018 endgültig privatisiert. 2023 ging die Mehrheit der Anteile in das Eigentum der niederländisch-türkischen Firma Yildirim über.
 
 ## Bojan Mrđenović
 
-Bojan Mrđenović (* 1987) schloss 2012 das Studium der Kunstgeschichte und Informationswissenschaft an der Fakultät für Geistes- und Sozialwissenschaften in Zagreb ab. Im Jahr 2015 graduierte er an der Akademie für dramatische Kunst in Zagreb in Kinematografie. Heute ist er als Dozent für Fotografie in der Abteilung für Kinematografie an derselben Akademie tätig. Er arbeitet sowohl als Kameramann als auch als Fotograf. Zahlreiche Gruppen- und Einzelausstellungen in Kroatien, Bosnien, Serbien, Italien und Deutschland, zuletzt: Nature, Chemistry & Society, (2021, Museum of Contemporary Art, Zagreb), Black Dogs and Red Forests (2022, Edith-Russ Haus für Medienkunst, Oldenburg).
+Bojan Mrđenović (\* 1987) schloss 2012 das Studium der Kunstgeschichte und Informationswissenschaft an der Fakultät für Geistes- und Sozialwissenschaften in Zagreb ab. Im Jahr 2015 graduierte er an der Akademie für dramatische Kunst in Zagreb in Kinematografie. Heute ist er als Dozent für Fotografie in der Abteilung für Kinematografie an derselben Akademie tätig. Er arbeitet sowohl als Kameramann als auch als Fotograf. Zahlreiche Gruppen- und Einzelausstellungen in Kroatien, Bosnien, Serbien, Italien und Deutschland, zuletzt: Nature, Chemistry & Society, (2021, Museum of Contemporary Art, Zagreb), Black Dogs and Red Forests (2022, Edith-Russ Haus für Medienkunst, Oldenburg).
