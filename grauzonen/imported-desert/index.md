@@ -16,10 +16,9 @@ Die Fotografien aus der Serie „Imported Deserts“ zeigen eine Landschaft aus 
 
 **Slideshow. Archivmaterial, Google Earth sowie digitalisierte Fotografien auf analogem Diafarbfilm**
 
-
  <figure>
-  {% image "./assets/pics/imported_desert_bojan_mrdenovic_1.jpg", "photo of my tabby cat", "(min-width: 30em) 50vw, 100vw" %}
-  <figcaption>test</figcaption>
+  {% image "./assets/pics/imported_desert_bojan_mrdenovic_1.jpg", "Fotographie von Phosphor-Schlamm aus Imported Desert", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
+  <figcaption>Fotographie von Phosphor-Schlamm aus Imported Desert</figcaption>
 </figure>
 
 **Bojan Mrđenović, 2021**

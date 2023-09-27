@@ -56,7 +56,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("image", async function (src, alt, sizes) {
     let metadata = await Image(src, {
-      widths: [180, 360, 720, 1080, 1440],
+      widths: [180, 256, 360, 720, 1080, 1140, 1440],
       formats: ["avif", "webp"],
       outputDir: path.join(eleventyConfig.dir.output, "/assets/pics"),
       filenameFormat: function (id, src, width, format, options) {
