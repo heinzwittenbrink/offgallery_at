@@ -7,7 +7,7 @@ tags: events
 date: "2020-01-17"
 author: Heinz Wittenbrink
 teaser: Liminal ist Teil eines Forschungsprojekts von Saimir Kristo und Sonia Jojic. Es wird gerade von der Polis University Tirana publiziert.
-image: cover_tirana
+image: ["cover_tirana", ""]
 layout: event.njk
 quote:
 ---

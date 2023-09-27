@@ -32,16 +32,31 @@ module.exports = function (eleventyConfig) {
       alt='${imageName[1]}' >`;
   });
 
-  eleventyConfig.addFilter("renderTeaser", (imageName) => {
-    return `<img srcset='
-      /assets/pics/${imageName[0]}_180px.jpg 180w,
-      /assets/pics/${imageName[0]}_360px.jpg 360w, 
-      /assets/pics/${imageName[0]}_720px.jpg 720w, 
-      /assets/pics/${imageName[0]}_1080px.jpg 1080w, 
-      /assets/pics/${imageName[0]}_1440px.jpg 1440w' 
-      sizes='(max-width: 720px) 86vw, 720px'
-      src='/assets/pics/${imageName[0]}_720px.jpg'
-      alt='${imageName[1]}'>`;
+  eleventyConfig.addFilter("renderTeaser", async (imageName) => {
+    const src = `./assets/pics/${imageName[0]}_1440px.jpg`;
+    const alt = imageName[1];
+
+    let metadata = await Image(src, {
+      widths: [180, 256, 360, 720, 1080, 1140, 1440],
+      formats: ["avif", "webp"],
+      outputDir: path.join(eleventyConfig.dir.output, "/assets/pics"),
+      filenameFormat: function (id, src, width, format, options) {
+        const extension = path.extname(src);
+        const name = path.basename(src, extension);
+
+        return `${name}-${width}w.${id}.${format}`;
+      },
+      urlPath: "/assets/pics",
+    });
+
+    let imageAttributes = {
+      alt,
+      sizes: `(min-width: 840px) 720px, calc(93.08vw - 43px)`,
+      loading: "lazy",
+      decoding: "async",
+    };
+
+    return Image.generateHTML(metadata, imageAttributes);
   });
 
   eleventyConfig.addPlugin(pluginRss);
@@ -75,7 +90,6 @@ module.exports = function (eleventyConfig) {
       decoding: "async",
     };
 
-    // You bet we throw an error on a missing alt (alt="" works okay)
     return Image.generateHTML(metadata, imageAttributes);
   });
 

@@ -142,6 +142,10 @@ picture {
   height: 100%;
 }
 
+#site_logo {
+  max-width: none;
+}
+
 /* Styles for slideshow component used on multiple pages */
 @media screen and (max-width: 60em) {
   .slideshow {

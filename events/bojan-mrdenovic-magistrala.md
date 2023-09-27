@@ -11,7 +11,7 @@ place: off_gallery, Griesgasse 31
 author: Heinz Wittenbrink
 teaser: Als Beginn des Herbstprogramms 2020 werden wir die Austellung Magistrala mit Bildern von Bojan Mrđenović eröffnen.
 layout: event.njk
-image: BojanMrdenovic_Magistrala_00002
+image: ["BojanMrdenovic_Magistrala_00002", ""]
 quote:
 
 ---
