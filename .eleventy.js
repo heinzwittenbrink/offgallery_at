@@ -33,7 +33,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("renderTeaser", (imageName) => {
-    console.log(imageName);
     return `<img srcset='
       /assets/pics/${imageName[0]}_180px.jpg 180w,
       /assets/pics/${imageName[0]}_360px.jpg 360w, 
@@ -55,14 +54,17 @@ module.exports = function (eleventyConfig) {
     return slideshowImages;
   });
 
-  console.log(slideshowImages);
-
   eleventyConfig.addShortcode("image", async function (src, alt, sizes) {
-    console.log({ src });
     let metadata = await Image(src, {
-	widths: [180, 360, 720, 1080, 1440],
+      widths: [180, 360, 720, 1080, 1440],
       formats: ["avif", "webp"],
       outputDir: path.join(eleventyConfig.dir.output, "/assets/pics"),
+      filenameFormat: function (id, src, width, format, options) {
+        const extension = path.extname(src);
+        const name = path.basename(src, extension);
+
+        return `${name}-${width}w.${id}.${format}`;
+      },
       urlPath: "/assets/pics",
     });
 
