@@ -16,11 +16,11 @@ Die Fotografien aus der Serie „Imported Deserts“ zeigen eine Landschaft aus 
 
 **Slideshow. Archivmaterial, Google Earth sowie digitalisierte Fotografien auf analogem Diafarbfilm**
 
-<!-- TODO: Select right picture
+
  <figure>
-  {% image "grauzonen/imported-desert/ana-opalic-pag-schwimmbecken-januar-2019_1440px.jpg", "photo of my tabby cat", "(min-width: 30em) 50vw, 100vw" %}
+  {% image "./assets/pics/imported_desert_bojan_mrdenovic_1.jpg", "photo of my tabby cat", "(min-width: 30em) 50vw, 100vw" %}
   <figcaption>test</figcaption>
-</figure> -->
+</figure>
 
 **Bojan Mrđenović, 2021**
 

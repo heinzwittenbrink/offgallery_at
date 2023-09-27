@@ -60,10 +60,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("image", async function (src, alt, sizes) {
     console.log({ src });
     let metadata = await Image(src, {
-      widths: [321, 654],
+	widths: [180, 360, 720, 1080, 1440],
       formats: ["avif", "webp"],
-      outputDir: path.join(eleventyConfig.dir.output, "pics"),
-      urlPath: "/pics/",
+      outputDir: path.join(eleventyConfig.dir.output, "/assets/pics"),
+      urlPath: "/assets/pics",
     });
 
     let imageAttributes = {
