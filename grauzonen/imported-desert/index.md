@@ -2,6 +2,11 @@
 layout: article.njk
 ---
 
+ <figure>
+  {% image "./assets/pics/imported_desert_bojan_mrdenovic_1.jpg", "Fotographie von Phosphor-Schlamm aus Imported Desert", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
+  <figcaption>Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović</figcaption>
+</figure>
+
 ## Zu den Arbeiten von Bojan Mrđenović
 
 ## Imported Desert
@@ -16,10 +21,7 @@ Die Fotografien aus der Serie „Imported Deserts“ zeigen eine Landschaft aus 
 
 **Slideshow. Archivmaterial, Google Earth sowie digitalisierte Fotografien auf analogem Diafarbfilm**
 
- <figure>
-  {% image "./assets/pics/imported_desert_bojan_mrdenovic_1.jpg", "Fotographie von Phosphor-Schlamm aus Imported Desert", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-  <figcaption>Fotographie von Phosphor-Schlamm aus Imported Desert</figcaption>
-</figure>
+
 
 **Bojan Mrđenović, 2021**
 
