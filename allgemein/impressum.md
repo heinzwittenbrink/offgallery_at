@@ -24,4 +24,4 @@ Heinz Wittenbrink
 
 Inhaltlich und rechtlich verantwortlich für diese Website:
 
-Heinz Wittenbrink, Feuerbachgasse 30a, Whg. 101, mailto:heinz.wittenbrink[at]gmail.com
+Heinz Wittenbrink, Feuerbachgasse 30a, Whg. 101, mailto:heinz[at]offgallery.at
