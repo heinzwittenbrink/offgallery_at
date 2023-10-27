@@ -17,7 +17,7 @@ pagination:
 
 <a href="{{blog.url}}">{{blog.data.title}}</a>
 {% if blog.data.image %}
-{{ blog.data.image | renderTeaser }}
+{{ blog.data.image | renderPicture }}
 {% endif %}
 
 <p>{{ blog.data.teaser }}</p>

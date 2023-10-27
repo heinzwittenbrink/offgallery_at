@@ -12,7 +12,7 @@ changeFreq: weekly
 {%- endfor -%}
 <h1>{{title}}</h1>
 {% if image %}
-{{ image | renderTeaser() | safe }}
+{{ image | renderPicture() | safe }}
 {% endif %}
 <!-- <img src="/assets/pics/{{image}}.jpg"/> -->
 <p>{{date | printDate("dd.MM.yy")}}</p>

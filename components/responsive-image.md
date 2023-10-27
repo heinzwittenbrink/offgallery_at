@@ -23,56 +23,36 @@ quote:
   <article>
     <h3>Portrait aspect ratio with caption</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
-      <figure class="responsive-image">
-        {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-        <figcaption>
-        Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović
-        </figcaption>
-      </figure>
+        {% image
+          "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)","Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović"
+        %}
     </div>
   </article>
 
   <article>
     <h3>Landscape aspect ratio with caption</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
-      <figure class="responsive-image">
-        {% image "./assets/pics/grauzonen-opening/grauzonen-opening-20.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-        <figcaption>
-        Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović
-        </figcaption>
-      </figure>
+      {% image "./assets/pics/grauzonen-opening/grauzonen-opening-20.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović" %}
     </div>
   </article>
   
   <article>
     <h3>Landscape aspect ratio without caption</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
-      <figure class="responsive-image">
-        {% image "./assets/pics/grauzonen-opening/grauzonen-opening-20.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-      </figure>
+      {% image "./assets/pics/grauzonen-opening/grauzonen-opening-20.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
     </div>
   </article>
 
   <article>
     <h3>Portrait aspect ratio with caption (cover)</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
-      <figure class="responsive-image" style="--responsive-image-object-fit: cover">
-        {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-        <figcaption>
-        Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović
-        </figcaption>
-      </figure>
+      {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović", "cover" %}
     </div>
   </article>
   
   <article>
     <h3>Portrait aspect ratio with caption (image position bottom right)</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
-      <figure class="responsive-image" style="--responsive-image-object-position: bottom right;">
-        {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}
-        <figcaption>
-        Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović
-        </figcaption>
-      </figure>
+      {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović", "", "bottom right" %}
     </div>
   </article>
