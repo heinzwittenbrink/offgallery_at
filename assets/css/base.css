@@ -382,6 +382,7 @@ address {
   display: flex;
   flex-direction: column;
   height: 100%;
+  gap: 0.5rem;
 }
 
 .responsive-image picture {
@@ -406,10 +407,12 @@ address {
   flex-direction: row;
   overflow-x: scroll;
   max-width: none; /* override because of global styles */
-  max-height: var(--slide-show-height, 100%);
+  max-height: var(--slide-show-slide-height, 600px);
   gap: var(--slide-show-gap, 2rem);
   scroll-snap-type: var(--slide-show-scroll-snap-type, x mandatory);
   margin: 0;
+  padding-block-end: 0.75rem; /* space for scrollbar */
+  overscroll-behavior: contain;
 }
 .slide-show__slide {
   display: flex;

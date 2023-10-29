@@ -3,6 +3,9 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const fg = require("fast-glob");
 const Image = require("@11ty/eleventy-img");
 const path = require("path");
+const rollupPlugin = require("eleventy-plugin-rollup");
+const resolve = require("@rollup/plugin-node-resolve");
+const fsPromises = require("fs/promises");
 
 // noop template tag literal so we get html string highlighting...
 const html = (strings, ...expressions) => {
@@ -17,6 +20,22 @@ const html = (strings, ...expressions) => {
 };
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(rollupPlugin, {
+    rollupOptions: {
+      output: {
+        format: "es",
+        dir: "_site/js",
+      },
+      plugins: [resolve()],
+    },
+    scriptGenerator: (file, eleventyInstance) => {
+      const filename = file.split("/").at(-1);
+      return html`<script src="/js/${filename}" type="module"></script>`;
+    },
+  });
+
+  eleventyConfig.addWatchTarget("assets/js/");
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
@@ -113,6 +132,43 @@ module.exports = function (eleventyConfig) {
   }
 
   eleventyConfig.addShortcode("image", renderImage);
+
+  eleventyConfig.addShortcode(
+    "gallery",
+    async (mediaCollection, sizes, controls = true, showPageCount = true) => {
+      const filePath = path.resolve(__dirname, mediaCollection);
+      try {
+        const data = await fsPromises.readFile(filePath);
+        const obj = JSON.parse(data);
+
+        const imageMarkup = await Promise.all(
+          obj.media.map(async ({ src, alt, caption }) => {
+            return renderImage(src, alt, sizes, caption);
+          })
+        );
+
+        return `
+          <slide-show
+            ${controls ? "controls" : ""}
+            ${showPageCount ? "showPageCount" : ""}
+          >
+            <ul class="slide-show">
+              ${imageMarkup
+                .map(
+                  (markup) => html`<li class="slide-show__slide">${markup}</li>`
+                )
+                .join("")}
+            </ul>
+          </slide-show>
+        `;
+      } catch (error) {
+        console.error(
+          `Could not render gallery for data file ${filePath} because of error: ${error}`
+        );
+        throw error;
+      }
+    }
+  );
 
   return {
     templateFormats: [
