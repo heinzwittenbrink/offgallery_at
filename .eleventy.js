@@ -3,8 +3,39 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const fg = require("fast-glob");
 const Image = require("@11ty/eleventy-img");
 const path = require("path");
+const rollupPlugin = require("eleventy-plugin-rollup");
+const resolve = require("@rollup/plugin-node-resolve");
+const fsPromises = require("fs/promises");
+
+// noop template tag literal so we get html string highlighting...
+const html = (strings, ...expressions) => {
+  let result = strings[0];
+
+  for (let i = 1, l = strings.length; i < l; i++) {
+    result += expressions[i - 1];
+    result += strings[i];
+  }
+
+  return result;
+};
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(rollupPlugin, {
+    rollupOptions: {
+      output: {
+        format: "es",
+        dir: "_site/js",
+      },
+      plugins: [resolve()],
+    },
+    scriptGenerator: (file, eleventyInstance) => {
+      const filename = file.split("/").at(-1);
+      return html`<script src="/js/${filename}" type="module"></script>`;
+    },
+  });
+
+  eleventyConfig.addWatchTarget("assets/js/");
+
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
@@ -20,43 +51,29 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromISO(dateString).toFormat(formatString);
   });
 
-  eleventyConfig.addFilter("renderPicture", (imageName) => {
-    return `<img srcset='
-      /assets/pics/${imageName[0]}_180px.jpg 180w,
-      /assets/pics/${imageName[0]}_360px.jpg 360w,
-      /assets/pics/${imageName[0]}_720px.jpg 720w,
-      /assets/pics/${imageName[0]}_1080px.jpg 1080w,
-      /assets/pics/${imageName[0]}_1440px.jpg 1440w'
-      sizes='(max-width:720px) 100vw, (max-width: 1260px) 70vw, calc(50vw - 100px)'
-      src='/assets/pics/${imageName[0]}_720px.jpg'
-      alt='${imageName[1]}' >`;
-  });
+  eleventyConfig.addFilter("renderPicture", async (imageName) => {
+    // throw if imageName is not an array where the first two elements are strings:
+    if (
+      !Array.isArray(imageName) ||
+      typeof imageName[0] !== "string" ||
+      typeof imageName[1] !== "string"
+    ) {
+      throw new Error(
+        `The renderPicture filter requires an array with two strings as the first two elements, was passed '${imageName}'.`
+      );
+    }
 
-  eleventyConfig.addFilter("renderTeaser", async (imageName) => {
     const src = `./assets/pics/${imageName[0]}_1440px.jpg`;
     const alt = imageName[1];
 
-    let metadata = await Image(src, {
-      widths: [180, 256, 360, 720, 1080, 1140, 1440],
-      formats: ["avif", "webp"],
-      outputDir: path.join(eleventyConfig.dir.output, "/assets/pics"),
-      filenameFormat: function (id, src, width, format, options) {
-        const extension = path.extname(src);
-        const name = path.basename(src, extension);
-
-        return `${name}-${width}w.${id}.${format}`;
-      },
-      urlPath: "/assets/pics",
-    });
-
-    let imageAttributes = {
+    return renderImage(
+      src,
       alt,
-      sizes: `(min-width: 840px) 720px, calc(93.08vw - 43px)`,
-      loading: "lazy",
-      decoding: "async",
-    };
-
-    return Image.generateHTML(metadata, imageAttributes);
+      `(min-width: 840px) 720px, calc(93.08vw - 43px)`,
+      null,
+      null,
+      null
+    );
   });
 
   eleventyConfig.addPlugin(pluginRss);
@@ -69,7 +86,14 @@ module.exports = function (eleventyConfig) {
     return slideshowImages;
   });
 
-  eleventyConfig.addShortcode("image", async function (src, alt, sizes) {
+  async function renderImage(
+    src,
+    alt,
+    sizes,
+    caption = null,
+    objectFit = null,
+    objectPosition = null
+  ) {
     let metadata = await Image(src, {
       widths: [180, 256, 360, 720, 1080, 1140, 1440],
       formats: ["avif", "webp"],
@@ -90,8 +114,61 @@ module.exports = function (eleventyConfig) {
       decoding: "async",
     };
 
-    return Image.generateHTML(metadata, imageAttributes);
-  });
+    const cssVars = [
+      ["responsive-image-object-fit", objectFit],
+      [`responsive-image-object-position`, objectPosition],
+    ].filter(([, value]) => Boolean(value));
+
+    const cssVarString = cssVars
+      .map(([name, value]) => `--${name}: ${value}`)
+      .join("; ");
+
+    return html`
+      <figure class="responsive-image" style="${cssVarString}">
+        ${Image.generateHTML(metadata, imageAttributes)}
+        ${caption ? html` <figcaption>${caption}</figcaption> ` : ``}
+      </figure>
+    `;
+  }
+
+  eleventyConfig.addShortcode("image", renderImage);
+
+  eleventyConfig.addShortcode(
+    "gallery",
+    async (mediaCollection, sizes, controls = true, showPageCount = true) => {
+      const filePath = path.resolve(__dirname, mediaCollection);
+      try {
+        const data = await fsPromises.readFile(filePath);
+        const obj = JSON.parse(data);
+
+        const imageMarkup = await Promise.all(
+          obj.media.map(async ({ src, alt, caption }) => {
+            return renderImage(src, alt, sizes, caption);
+          })
+        );
+
+        return `
+          <slide-show
+            ${controls ? "controls" : ""}
+            ${showPageCount ? "showPageCount" : ""}
+          >
+            <ul class="slide-show">
+              ${imageMarkup
+                .map(
+                  (markup) => html`<li class="slide-show__slide">${markup}</li>`
+                )
+                .join("")}
+            </ul>
+          </slide-show>
+        `;
+      } catch (error) {
+        console.error(
+          `Could not render gallery for data file ${filePath} because of error: ${error}`
+        );
+        throw error;
+      }
+    }
+  );
 
   return {
     templateFormats: [

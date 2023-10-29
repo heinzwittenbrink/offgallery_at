@@ -33,7 +33,7 @@ changeFreq: weekly
 <strong>{{featured.data.eventtype}}: {{featured.data.date | printDate("dd.MM.yy")}}
 </strong>
 {% if featured.data.image %}
-{{ featured.data.image | renderTeaser() | safe }}
+{{ featured.data.image | renderPicture() | safe }}
 {% endif %}
 <h3>{{featured.data.title}}</h3>
 <p>{{featured.data.teaser}}</p>
@@ -44,7 +44,7 @@ changeFreq: weekly
 <p><strong>Aktuell: {{featured.data.specification}}</strong></p>
 <h3>{{featured.data.title}}</h3>
 {%- if featured.data.teaser_image -%}
-<p>{{ featured.data.teaser_image | renderTeaser() | safe }}</p>
+<p>{{ featured.data.teaser_image | renderPicture() | safe }}</p>
 {%- endif -%}
 <p>{{featured.data.teaser}}</p>
 <p><a href="{{featured.url}}">Blog, {{featured.data.date | printDate("dd.MM.yy")}}</a></p>
@@ -66,7 +66,7 @@ changeFreq: weekly
 
 
 {% if ausstellung.data.image %}
-{{ ausstellung.data.image | renderTeaser() | safe }}
+{{ ausstellung.data.image | renderPicture() | safe }}
 {% endif %}
 <strong>Aktuell:</strong>
 
