@@ -28,7 +28,7 @@ quote:
 
 **Vernissage: 23.09.2023 um 19 Uhr**
 </br>
-**Geöffnet: Di/Mi/Do 15:00 – 18:00 und nach Vereinbarung**
+**Geöffnet: Bis 26.10.2023 | Di/Mi/Do 15:00 – 18:00 und nach Vereinbarung**
 </br>
 **Griesgasse 31, 8020 Graz**
 

@@ -260,12 +260,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2022-09-14T16:30:44.707Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
             <lastmod>2022-09-14T16:30:44.707Z</lastmod>
             <changefreq>yearly</changefreq>
@@ -386,12 +380,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
-            <lastmod>2022-09-14T16:30:44.710Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
             <lastmod>2022-09-14T16:30:44.711Z</lastmod>
             <changefreq>yearly</changefreq>
@@ -401,12 +389,6 @@
             <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
             <lastmod>2022-09-14T16:30:44.711Z</lastmod>
             <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/blog/</loc>
-            <lastmod>2022-09-14T16:30:44.712Z</lastmod>
-            <changefreq>daily</changefreq>
         </url>
     
         <url>
@@ -530,6 +512,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/components/media-grid/</loc>
+            <lastmod>2023-09-23T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/components/responsive-image/</loc>
             <lastmod>2023-09-23T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
@@ -587,6 +575,24 @@
             <loc>https://offgallery.at/grauzonen/</loc>
             <lastmod>2023-10-12T16:31:13.210Z</lastmod>
             <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/</loc>
+            <lastmod>2023-10-29T12:29:19.280Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
+            <lastmod>2023-10-29T12:29:19.281Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/blog/</loc>
+            <lastmod>2023-10-29T12:29:19.281Z</lastmod>
+            <changefreq>daily</changefreq>
         </url>
     
 </urlset>
