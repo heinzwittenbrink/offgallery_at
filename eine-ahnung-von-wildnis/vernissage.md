@@ -9,7 +9,7 @@ tags:
   - aktuell
 date: "2023-11-16"
 teaser: |-
-  Am 16. November 2023 eröffnen wir die Ausstellung „Eine Ahnung von Wildnis / A Notion of The Wild“ mit Fotografien von Christoph Grill. Wir laden herzlich zur Vernissage um 18:00 in der Griesgasse 31 ein.
+  Am 16. November 2023 um 18:00 eröffnen wir die Ausstellung „Eine Ahnung von Wildnis / A Notion of The Wild“ mit Fotografien von Christoph Grill. 
 layout: blog.njk
 teaser_image: ["christoph-grill-testudo-hermanni", "(c) Christoph Grill"]
 image: ["christoph-grill-testudo-hermanni", "(c) Christoph Grill"]
@@ -33,7 +33,7 @@ quote:
 
 </br>
 </br>
-Wir laden herzlich zur Vernissage ein. Christoph Grill wird anwesend sein. Martin Grabner wird für die off_gallery in die Ausstellung einführen.
+Wir laden herzlich zur Vernissage in der Griesgasse 31 ein.Christoph Grill wird anwesend sein. Martin Grabner wird für die off_gallery in die Ausstellung einführen.
 
 </br>
 </br>
