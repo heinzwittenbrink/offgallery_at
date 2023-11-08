@@ -595,4 +595,10 @@
             <changefreq>daily</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/eine-ahnung-von-wildnis/vernissage/</loc>
+            <lastmod>2023-11-16T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
