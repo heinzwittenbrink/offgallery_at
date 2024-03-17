@@ -4,7 +4,7 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
+
 date: "2022-04-08"
 teaser: |+
     „Schön ist es anderswo

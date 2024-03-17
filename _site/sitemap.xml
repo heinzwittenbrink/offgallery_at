@@ -613,4 +613,10 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/ausstellungen/bau_stoff_wechsel/dokumentation/</loc>
+            <lastmod>2024-03-13T14:40:03.671Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
 </urlset>
