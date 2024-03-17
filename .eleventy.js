@@ -183,7 +183,8 @@ module.exports = function (eleventyConfig) {
       "svg",
     ],
     dir: {
-      output: "_site",
+	output: "_site",
+	input: "source"
     },
   };
 };
