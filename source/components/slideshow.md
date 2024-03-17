@@ -927,6 +927,5 @@ quote:
   </article>
   <article>
     <h3>slide-show Images (shortcode)</h2>
-    <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px;--slide-show-slide-height: 100%;">
-    {% gallery "source/components/media-collection-demo.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>
+    <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px;--slide-show-slide-height: 100%;">{% gallery "source/ausstellungen/the-promise-of-the-city/the-promise-of-the-city-media-collection.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>
   </article>
