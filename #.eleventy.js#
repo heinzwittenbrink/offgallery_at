@@ -6,6 +6,7 @@ const path = require("path");
 const rollupPlugin = require("eleventy-plugin-rollup");
 const resolve = require("@rollup/plugin-node-resolve");
 const fsPromises = require("fs/promises");
+const redirectsPlugin = require('eleventy-plugin-redirects');
 
 // noop template tag literal so we get html string highlighting...
 const html = (strings, ...expressions) => {
@@ -19,7 +20,16 @@ const html = (strings, ...expressions) => {
   return result;
 };
 
+
+module.exports = function(eleventyConfig) {
+  config.addPlugin(redirectsPlugin, {
+      template: 'netlify', // netlify, vercel or clientSide
+  })
+}
+
+
 module.exports = function (eleventyConfig) {
+    
   eleventyConfig.addPlugin(rollupPlugin, {
     rollupOptions: {
       output: {

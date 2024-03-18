@@ -1,6 +1,9 @@
 ---
 title: The Promise of the City
 subtitle: Fotografien von Martin Grabner
+permalink: /the-promise-of-the-city/
+url: /the-promise-of-the-city"
+redirectFrom: /ausstellungen/the-promise-of-the-city/
 time: 13.9.–15.10.2019
 date: "2019-09-13"
 openingtime: Mo–Fr 11–13 14–17 Uhr
