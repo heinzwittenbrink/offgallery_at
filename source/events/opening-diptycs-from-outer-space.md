@@ -4,7 +4,6 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
 date: "2021-10-23"
 teaser: |-
   Wir stellen Giovanna Silva vom 23.10 an in Graz vor. Wir zeigen einen kleinen Ausschnitt aus ihrem umfangreichen Werk, und wir präsentieren sie auch als Verlegerin, die in den von ihr gegründeten Humboldt Books aktuelle Fotobücher publiziert. Bildern, die während und kurz nach der Pandemie in Italien entstanden, werden wir bereits früher publizierte Aufnahmen aus Kambodscha und Sri Lanka gegenüberstellen.

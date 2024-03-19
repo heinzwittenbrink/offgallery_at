@@ -6,7 +6,6 @@ redirectFrom: /events/opening-arch_portraits/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
 date: "2023-04-14"
 teaser: |-
     Bei ihren neuen Objekten geht es Simona Reisch um die Inszenierung und Wahrnehmung von fotografierter Architektur, deren Wesen, Geschichte, Intention, Bedeutung, Zweifelhaftigkeit, Einbettung, Nachhaltigkeit, Materialität zu haptischen Portraits verdichtet werden.

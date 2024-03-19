@@ -1,6 +1,8 @@
 ---
 title: "Lana  Stojićević: Villa Rosa"
 subtitle: "Über das Projekt"
+permalink: /ausstellungen/2022/mises-en-scene/villa-rosa/
+redirectFrom: /ausstellungen/mises-en-scene/villa-rosa/
 exhibition-title: "Interventionen zur Baukultur an der Adriaküste"
 layout: series.njk
 changeFreq: yearly

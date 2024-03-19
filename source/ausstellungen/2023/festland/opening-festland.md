@@ -6,7 +6,7 @@ redirectFrom: /events/opening-festland/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
+
 date: "2023-05-13"
 teaser: |-
     „Festland“ ist eine Installation zu Veränderungen des Erdsystems. Ihre Ursachen – fossile Brennstoffe und Intensivlandwirtschaft – bleiben meist verborgen. Die Veränderungen vollziehen sich scheinbar langsam und weit entfernt von uns. In Michael Goldgrubers Installation kommen sie uns nah – als Meer, dass sich auf unaufhaltsam auf uns zubewegt, sowie als topografisches Bildmaterial über die Gletscherschmelze. Sie werden als Prozesse spürbar, die sich auch in uns und mit uns abspielen. 

@@ -6,7 +6,6 @@ eventtype: "Eröffnung/Buchpräsentation"
 topics:
 tags:
 - events
-- blog
 
 date: "2021-05-14"
 place: off_gallery, Griesgasse 31

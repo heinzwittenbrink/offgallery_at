@@ -1,6 +1,7 @@
 ---
 title: "Ana Opalić: Mjesta koja čekaju/Orte, die warten"
-Diptychs from Outer Space: 
+permalink: /ausstellungen/2021/orte-die-warten/
+redirectFrom: /ausstellungen/orte-die-warten/
 date: 2021-06-21
 time: 22.6.2021.-22.7.2021 DI-DO 15-18
 layout: ausstellung.njk

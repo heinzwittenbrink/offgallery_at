@@ -1,6 +1,8 @@
 ---
 title: "Vitrine en Cours"
 subtitle: "Paris 2020 (unfinished): Zu einem Photo Essay von Zita Oberwalder in Zusammenarbeit mit Hannes Mitterberger"
+permalink: /ausstellungen/2021/vitrine-en-cours/
+redirectFrom: /ausstellungen/vitrine-en-cours/
 time: 12.5.2021–15.6.2021
 date: "2021-05-12"
 openingtime: Di, Mi, Do 15-18 Uhr

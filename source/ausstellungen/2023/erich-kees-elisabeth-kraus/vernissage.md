@@ -6,7 +6,6 @@ redirectFrom: /erich-kees-elisabeth-kraus/vernissage/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-  - blog
   - featured
   - aktuell
 date: "2023-12-15"

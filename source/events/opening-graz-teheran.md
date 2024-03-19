@@ -4,9 +4,6 @@ title: |-
 author: Azam Shadpour, Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- featured
-- aktuell
-- blog
 date: "2022-06-14"
 teaser: |+
     In den Aufnahmen dieser Serie registriert Azam Shadpour die Atmosphäre zweier Städte: Teheran und Graz. Als eine Flaneurin im Sinne Baudelaires hat sie die Städte durchwandert und und ihre Beobachtungen fotografisch festgehalten. Wir laden herzlich zur Eröffnung der Ausstellung am 14. Juni um 19:00 ein.

@@ -1,6 +1,8 @@
 ---
 title:  Graz – Teheran
 subtitle: 
+permalink: /ausstellungen/2022/graz-teheran/
+redirectFrom: /ausstellungen/graz-teheran/
 time: 14.6.2022–6.7.2022
 date: "2022-06-14"
 openingtime: Di–Do 15–18 Uhr

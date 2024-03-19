@@ -1,6 +1,8 @@
 ---
 title: "Anton Malynovskyi: Wind of Change"
 subtitle: ""
+permalink: /ausstellungen/2022/discontinuity/wind_of_change/
+redirectFrom: /ausstellungen/discontinuity/wind_of_change/
 exhibition-title: "Discontinuity"
 layout: series.njk
 changeFreq: yearly

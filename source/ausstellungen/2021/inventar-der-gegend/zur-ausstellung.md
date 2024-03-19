@@ -1,3 +1,8 @@
+---
+permalink: /ausstellungen/2021/inventar-der-gegend/zur-ausstellung/
+redirectFrom: /ausstellungen/inventar-der-gegend/zur-ausstellung/
+---
+
 # Zur Ausstellung "Inventar der Gegend"
 
 (In Progress ...)

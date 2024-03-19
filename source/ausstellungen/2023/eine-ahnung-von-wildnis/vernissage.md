@@ -6,7 +6,6 @@ redirectFrom: /eine-ahnung-von-wildniss/vernissage/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-  - blog
   - featured
   - aktuell
 date: "2023-11-16"

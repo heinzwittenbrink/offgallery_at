@@ -1,6 +1,8 @@
 ---
 title: "Lana Stojićević: Fassade"
 subtitle: "Über das Projekt"
+permalink: /ausstellungen/2022/mises-en-scene/fassade/
+redirectFrom: /ausstellungen/mises-en-scene/fassade/
 exhibition-title: "Interventionen zur Baukultur an der Adriaküste"
 layout: series.njk
 changeFreq: yearly

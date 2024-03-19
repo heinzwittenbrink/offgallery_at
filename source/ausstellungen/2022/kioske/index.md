@@ -1,7 +1,8 @@
 ---
 title: Kioske
 subtitle: Temporäre Architektur und soziale Lebenswelten an der albanischen Küste
-
+permalink: /ausstellungen/2022/kioske/
+redirectFrom: /ausstellungen/kioske/
 time: 17.9.2022–29.09.2022
 date: "2022-09-17"
 openingtime: Di–Do 15–18 Uhr

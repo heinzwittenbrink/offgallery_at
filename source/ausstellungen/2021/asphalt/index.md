@@ -1,6 +1,8 @@
 ---
 title: Asphalt
 subtitle: Urbaner Grund und Hintergrund
+permalink: /ausstellungen/2021/asphalt/
+redirectFrom: /ausstellungen/asphalt/
 date: 2021-10-09
 time: 9.10.-22.10.2021 DI-DO 15-18
 layout: ausstellung.njk

@@ -1,7 +1,8 @@
 ---
 title: "Eva Holts: My Reflection about the War in Ukraine"
 subtitle: "Über das Projekt"
-exhibition-title: "Interventionen zur Baukultur an der Adriaküste"
+permalink: /ausstellungen/2021/discontinuity/my_reflection_about_the_war_in_ukraine/
+redirectFrom: /ausstellungen/discontinuity/my_reflection_about_the_war_in_ukraine/
 layout: series.njk
 changeFreq: yearly
 artists: Eva Holts

@@ -4,7 +4,6 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
 date: "2021-11-16"
 teaser: |-
   Die Fotografien Eva Mohringers zeigen Muster, die jeder gesehen hat, der durch die Kärntnerstraße gefahren oder – was viel seltener ist – gegangen ist. Diese Muster bestimmen, wie wir diese Straße wahrnehmen und wodurch wir sie von anderen Straßen unterscheiden können. Die Bestandteile dieser Muster gibt es an vielen Orten innerhalb und außerhalb von Graz. Aber in dieser Kombination sind sie selten, vielleicht sogar einmalig.

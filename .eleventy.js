@@ -20,6 +20,18 @@ const html = (strings, ...expressions) => {
 };
 
 module.exports = function (eleventyConfig) {
+
+
+    eleventyConfig.addPassthroughCopy("assets/css");
+    eleventyConfig.addPassthroughCopy("assets/fonts");
+    eleventyConfig.addPassthroughCopy("assets/svg");
+
+
+
+
+
+
+    
   eleventyConfig.addPlugin(rollupPlugin, {
     rollupOptions: {
       output: {

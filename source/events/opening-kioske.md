@@ -4,9 +4,7 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- featured
-- aktuell
-- blog
+
 date: "2022-09-17"
 teaser: |+
     Temporäre Architektur und soziale Lebenswelten an der albanischen Küste

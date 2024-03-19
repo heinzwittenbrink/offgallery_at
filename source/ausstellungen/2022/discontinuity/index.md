@@ -1,6 +1,8 @@
 ---
 title: Discontinuity
 subtitle: 
+permalink: /ausstellungen/2022/discontinuity/
+redirectFrom: /ausstellungen/discontinuity/
 time: 9.7.2022–18.8.2022
 date: "2022-07-09"
 openingtime: Di–Do 15–18 Uhr
@@ -23,11 +25,11 @@ Die Realität des Krieges lässt sich nicht direkt mitteilen – auch wenn die M
 ### Mehr zu den Serien:
 
 
-[Victoria Likholiot: Wartime Diary](/ausstellungen/discontinuity/wartime_diary/ "Text und Bildergalerie zum Projekt von Victoria Likholiot").
+[Victoria Likholiot: Wartime Diary](/ausstellungen/2022/discontinuity/wartime_diary/ "Text und Bildergalerie zum Projekt von Victoria Likholiot").
 
-[Eva Holts: My Reflection About the War in Ukraine](/ausstellungen/discontinuity/my_reflection_about_the_war_in_ukraine/ "Text und Bildergalerie zum Projekt von Eva Holts").
+[Eva Holts: My Reflection About the War in Ukraine](/ausstellungen/2022/discontinuity/my_reflection_about_the_war_in_ukraine/ "Text und Bildergalerie zum Projekt von Eva Holts").
 
-[Anton Malynovskyi: Wind of Change](/ausstellungen/discontinuity/wind_of_change/ "Text und Bildergalerie zum Projekt von Anton Malynovskyi").
+[Anton Malynovskyi: Wind of Change](/ausstellungen/2022/discontinuity/wind_of_change/ "Text und Bildergalerie zum Projekt von Anton Malynovskyi").
 
 
 

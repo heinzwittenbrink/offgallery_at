@@ -1,6 +1,8 @@
 ---
 title: "Inventar der Gegend"
 subtitle: "Fotografische Bestandsaufnahme des Mürztals"
+permalink: /ausstellungen/2021/inventar-der-gegend/
+redirectFrom: /ausstellungen/inventar-der-gegend/
 time: 8.4.2021–3.6.2021
 date: "2022-04-08"
 openingtime: Di–Do 15–18 Uhr

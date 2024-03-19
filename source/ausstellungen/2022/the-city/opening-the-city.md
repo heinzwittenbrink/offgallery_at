@@ -6,9 +6,6 @@ redirectFrom: /events/opening-the-city/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
-- featured
-- aktuell
 date: "2022-11-12"
 teaser: |-
     Paolo Rosselli beschäftigt sich seit etwa 40 Jahren explorativ mit dem Verhältnis von Fotografie und Stadt.

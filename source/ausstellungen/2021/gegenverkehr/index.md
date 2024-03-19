@@ -1,6 +1,8 @@
 ---
 title: Gegenverkehr
 subtitle: Ansichten der Kärntnerstrasse in Graz
+permalink: /ausstellungen/2021/gegenverkehr/
+redirectFrom: /ausstellungen/gegenverkehr/
 date: 2021-11-16
 time: 16.11.-12.12.2021 DI-DO 15-18
 layout: ausstellung.njk

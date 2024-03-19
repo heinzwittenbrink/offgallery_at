@@ -1,6 +1,8 @@
 ---
 title: Souvenirs
 subtitle: Diptychs from Outer Space
+permalink: /ausstellungen/2021/souvenirs/
+redirectFrom: /ausstellungen/souvenirs/
 date: 2021-10-23
 time: 23.10.11.-14.11.2021 DI-DO 15-18
 layout: ausstellung.njk

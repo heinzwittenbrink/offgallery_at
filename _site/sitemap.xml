@@ -38,7 +38,7 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/fact-forum-graz-gent/</loc>
+            <loc>https://offgallery.at/blog/fact-forum-graz-gent/</loc>
             <lastmod>2019-11-22T00:00:00.000Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
@@ -260,6 +260,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/2022/the-city/</loc>
+            <lastmod>2022-11-12T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/2022/the-city/opening/</loc>
             <lastmod>2022-11-12T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -290,24 +296,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/zur-ausstellung/</loc>
             <lastmod>2023-01-17T16:07:57.491Z</lastmod>
             <changefreq></changefreq>
@@ -320,31 +308,13 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/betonicus/</loc>
             <lastmod>2023-01-17T16:07:57.491Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
     
         <url>
-            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/fassade/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
             <lastmod>2023-01-17T16:07:57.491Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
@@ -434,7 +404,7 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/my_reflection_about_the_war_in_ukraine/</loc>
+            <loc>https://offgallery.at/ausstellungen/2021/discontinuity/my_reflection_about_the_war_in_ukraine/</loc>
             <lastmod>2023-04-30T17:50:16.394Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
@@ -446,7 +416,7 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wartime_diary/</loc>
+            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wartime-diary/</loc>
             <lastmod>2023-05-01T14:08:47.291Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
@@ -578,12 +548,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
-            <lastmod>2024-03-17T12:19:09.323Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2023/bau_stoff_wechsel/dokumentation/</loc>
             <lastmod>2024-03-17T16:08:57.550Z</lastmod>
             <changefreq></changefreq>
@@ -646,6 +610,48 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-white-noise-white-voice/</loc>
             <lastmod>2024-03-18T13:08:55.335Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
+            <lastmod>2024-03-19T09:18:13.797Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
+            <lastmod>2024-03-19T09:18:31.005Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
+            <lastmod>2024-03-19T09:19:08.585Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
+            <lastmod>2024-03-19T09:20:38.017Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
+            <lastmod>2024-03-19T09:21:30.146Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
+            <lastmod>2024-03-19T09:22:11.166Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
+            <lastmod>2024-03-19T09:23:17.270Z</lastmod>
             <changefreq>yearly</changefreq>
         </url>
     

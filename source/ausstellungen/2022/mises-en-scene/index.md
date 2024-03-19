@@ -1,6 +1,8 @@
 ---
 title: "Mises en scène"
 subtitle: "Interventionen zur Baukultur an der Adriaküste"
+permalink: /ausstellungen/2022/mises-en-scene/
+redirectFrom: /ausstellungen/mises-en-scene/
 time: 13.5.2022–12.6.2022
 date: "2022-05-14"
 openingtime: Di–Do 15–18 Uhr
@@ -13,7 +15,7 @@ teaser: "Drei Arbeiten der kroatischen Künstlerin, die ironisch mit architekton
 image: ["lana-stojicevic-facade-4", "Aus: Fassade", "Lana Stojićević", "Lana Stojićević"]
 
 ---
-Die Ausstellung präsentiert die drei Projekte [Betonicus](/ausstellungen/mises-en-scene/betonicus), [Fassade](/ausstellungen/mises-en-scene/fassade) und [Villa Rosa](/ausstellungen/mises-en-scene/villa-rosa).
+Die Ausstellung präsentiert die drei Projekte [Betonicus](/ausstellungen/2022/mises-en-scene/betonicus), [Fassade](/ausstellungen/2022/mises-en-scene/fassade) und [Villa Rosa](/ausstellungen/2022/mises-en-scene/villa-rosa).
 
 Betonicus, eine klassizistische Säule in einem kroatischen Touristenappartment, träumt von einer Rolle als echte römische Säule, aufgestellt von Kaiser Diokletian in seinem Palast. Betonicus ist der Titelheld einer Architektur-Inszenierung der kroatischen Künstlerin Lana Stojićević. In "Fassade" verkleidet sich Lana Stojićević als Schauseite eines bunten, illegal gebauten Hauses an der dalmatinischen Küste. Auch in "Villa Rosa" spielt sie ironisch mit den Versatzstücke der größenwahnsinnigen und kitschigen Schwarzbauten an der kroatischen Adriaküste.
 

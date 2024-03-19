@@ -1,6 +1,8 @@
 ---
 title: "Victoria Likholiot: Wartime Diary"
 subtitle: 
+permalink: /ausstellungen/2022/discontinuity/wartime-diary/
+redirectFrom: /ausstellungen/2022/wartime-diary/
 exhibition-title: "Discontinuity"
 layout: series.njk
 changeFreq: yearly

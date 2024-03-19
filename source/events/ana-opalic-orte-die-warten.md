@@ -6,7 +6,7 @@ eventtype: "Eröffnung"
 topics:
 tags:
 - events
-- blog
+
 
 date: "2021-06-22"
 place: off_gallery, Griesgasse 31

@@ -6,9 +6,6 @@ redirectFrom: /grauzonen/vernissage/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
-- blog
-- featured
-- aktuell
 date: "2023-09-23"
 teaser: |-
     Mariana Pende, Lana Stojićević und Bojan Mrđenović beschäftigen sich in den Arbeiten dieser Ausstellung mit Industrieabfällen im öffentlichen Raum. In fast abstrakt wirkenden Fotos dokumentiert Bojan Mrđenović die Phosphorgips-Deponie des Düngemittel-Werks Ina-Petrokemija in Kutina. Lana Stojićević untersucht und inszeniert in Crno Brdo (dt.: Schwarzer Berg) einen Hügel in dem Dorf Donje Biljane, der aus den gesundheitsgefährlichen Abfällen des früheren Šibeniker Betriebs TEF besteht. Mariana Pende verwendet Graphitstaub, den sie als Abfallprodukt der früheren Dubrovniker Firma TUP kennengelernt hat, zur Überarbeitung natürlicher und künstlicher Oberflächen wie der eines Schwamms.

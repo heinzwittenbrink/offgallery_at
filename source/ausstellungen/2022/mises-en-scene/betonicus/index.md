@@ -1,6 +1,8 @@
 ---
 title: "Lana  Stojićević: Betonicus"
 subtitle: "Über das Projekt"
+permalink: /ausstellungen/2022/mises-en-scene/betonicus/
+redirectFrom: /ausstellungen/mises-en-scene/betonicus/
 exhibition-title: "Interventionen zur Baukultur an der Adriaküste"
 layout: series.njk
 changeFreq: yearly

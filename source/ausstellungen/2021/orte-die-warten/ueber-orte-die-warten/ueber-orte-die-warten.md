@@ -2,6 +2,8 @@
 title: |
     "Zu der Ausstellung 'Orte, die warten' von Ana Opalić
 slug: ueber-orte-die-warten 
+permalink: /ausstellungen/2021/orte-die-warten/ueber-orte-die-warten/
+redirectFrom: /ausstellungen/orte-die-warten/ueber-orte-die-warten/
 
 ---
 
