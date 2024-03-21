@@ -1,0 +1,54 @@
+{
+  "media": [
+    {
+      "src": "./assets/pics/martin-grabner-white-noise-white-voice.jpg",
+      "alt": "White Noise - White Voice",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-white-noise-white-voice-2.jpg",
+      "alt": "White Noise - White Voice 2",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-view-from-a-hill-philopappos.jpg",
+      "alt": "View from a Hill - Philopappos",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-real-estate-nationalism-under-occupation.jpg",
+      "alt": "Real Estate Nationalism under Occupation",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-real-estate-nationalism-under-occupation-2.jpg",
+      "alt": "Real Estate Nationalism under Occupation 2",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-real-estate-nationalism-under-occupation-3.jpg",
+      "alt": "Real Estate Nationalism under Occupation 3",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-markets-mercat-dels-enchants.jpg",
+      "alt": "Markets - Merkat des Enchants",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-living-with-the-wall.jpg",
+      "alt": "Living with the Wall",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-behind-the-white-city.jpg",
+      "alt": "Behind the White City",
+      "caption": "Martin Grabner"
+    },
+    {
+      "src": "./assets/pics/martin-grabner-transformation-ldn.jpg",
+      "alt": "Transformation London",
+      "caption": "Martin Grabner"
+    }
+  ]
+}

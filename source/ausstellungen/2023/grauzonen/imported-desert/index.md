@@ -1,5 +1,11 @@
 ---
-layout: article.njk
+layout: section.njk
+permalink: false
+tags: grauzonen
+title: Zu den Arbeiten von Bojan Mrđenović
+date: 2024-08-08
+
+
 ---
 
  <figure>

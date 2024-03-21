@@ -37,3 +37,6 @@ Michael Goldgrubers Website: <https://www.goldgruber.at/>
 <div>
 Bild: (c) Michael Goldgruber
 </div>
+
+
+<div>{% gallery "source/ausstellungen/2023/festland/panorama.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>

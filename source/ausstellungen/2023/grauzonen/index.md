@@ -1,12 +1,21 @@
 ---
 layout: article.njk
----
 
-# Mariana Pende / Lana Stojićević / Bojan Mrđenović: Grauzonen
+title: |-
+  Mariana Pende / Lana Stojićević / Bojan Mrđenović: Grauzonen
+permalink: /ausstellungen/2023/grauzonen/
+author: Heinz Wittenbrink
+tags: ausstellung
+date: "2023-09-23"
+teaser: |-
+    Mariana Pende, Lana Stojićević und Bojan Mrđenović beschäftigen sich in den Arbeiten dieser Ausstellung mit Industrieabfällen im öffentlichen Raum. In fast abstrakt wirkenden Fotos dokumentiert Bojan Mrđenović die Phosphorgips-Deponie des Düngemittel-Werks Ina-Petrokemija in Kutina. Lana Stojićević untersucht und inszeniert in Crno Brdo (dt.: Schwarzer Berg) einen Hügel in dem Dorf Donje Biljane, der aus den gesundheitsgefährlichen Abfällen des früheren Šibeniker Betriebs TEF besteht. Mariana Pende verwendet Graphitstaub, den sie als Abfallprodukt der früheren Dubrovniker Firma TUP kennengelernt hat, zur Überarbeitung natürlicher und künstlicher Oberflächen wie der eines Schwamms.
+teaser_image: ["cover-opening-grauzonen", "(c) Mariana Pende, Lana Stojićević und Bojan Mrđenović"]
+image: ["cover-opening-grauzonen", "(c) Mariana Pende, Lana Stojićević und Bojan Mrđenović"]
+---
 
 ## Zum Nachleben selbstverwalteter Betriebe in der aktuellen kroatischen Kunst
 
-  Mariana Pende, Lana Stojićević und Bojan Mrđenović beschäftigen sich in den Arbeiten dieser Ausstellung mit Industrieabfällen im öffentlichen Raum. In den fast abstrakt wirkenden Fotos der Serie [Imported Desert](/imported-desert/) dokumentiert Bojan Mrđenović die Phosphorgips-Deponie des Düngemittel-Werks Ina-Petrokemija in Kutina. Lana Stojićević untersucht und inszeniert in [Crno Brdo](/crno-brdo/] (dt.: Schwarzer Berg) einen Hügel in dem Dorf Donje Biljane, der aus den gesundheitsgefährlichen Abfällen des früheren Šibeniker Betriebs TEF besteht. Mariana Pende verwendet Graphitstaub, den sie als Abfallprodukt der früheren Dubrovniker Firma T.U.P. kennengelernt hat, zur Überarbeitung natürlicher und künstlicher Oberflächen wie der des Schwamms von [Leave me in the shadow](leave-me-in-the-shadow).
+  Mariana Pende, Lana Stojićević und Bojan Mrđenović beschäftigen sich in den Arbeiten dieser Ausstellung mit Industrieabfällen im öffentlichen Raum. In den fast abstrakt wirkenden Fotos der Serie [Imported Desert](/ausstellungen/2023/grauzonen/imported-desert/) dokumentiert Bojan Mrđenović die Phosphorgips-Deponie des Düngemittel-Werks Ina-Petrokemija in Kutina. Lana Stojićević untersucht und inszeniert in [Crno Brdo](/ausstellungen/2023/grauzonen/crno-brdo/) (dt.: Schwarzer Berg) einen Hügel in dem Dorf Donje Biljane, der aus den gesundheitsgefährlichen Abfällen des früheren Šibeniker Betriebs TEF besteht. Mariana Pende verwendet Graphitstaub, den sie als Abfallprodukt der früheren Dubrovniker Firma T.U.P. kennengelernt hat, zur Überarbeitung natürlicher und künstlicher Oberflächen wie der des Schwamms von [Leave me in the shadow](/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/).
   
 
 
@@ -14,10 +23,21 @@ Wir fragen in der Ausstellung auch, welche Beziehungen zwischen der gestalterisc
 
 ## Material zur Ausstellung
 
-* [Zur Arbeit von Mariana Pende](leave-me-in-the-shadow)
-* [Zu den Arbeiten von Lana Stojićević](/crno-brdo/] 
-* [Zu den Arbeiten von  Bojan Mrđenović](/imported-desert/)
+<!--
+* [Zur Arbeit von Mariana Pende](/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/)
+* [Zu den Arbeiten von Lana Stojićević](/ausstellungen/2023/grauzonen/crno-brdo/)
+* [Zu den Arbeiten von  Bojan Mrđenović](/ausstellungen/2023/grauzonen/imported-desert/)
+-->
+
+
+---
   
+{%- for grauzone in collections.grauzonen  | reverse -%}
+<details>
+<summary>{{grauzone.data.title}}</summary>
+{{grauzone.content}}
+</details>
+{%- endfor -%}
 
 
 

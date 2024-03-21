@@ -1,5 +1,11 @@
 ---
-layout: article.njk
+
+layout: section.njk
+permalink: false
+tags: grauzonen
+title: Zu den Arbeiten von Mariana Pende
+date: 2024-08-09
+
 ---
 
 
@@ -15,7 +21,7 @@ layout: article.njk
 
 Für diese Arbeit wurde ein vor der kroatischen Küste gefundener Schwamm mit einer Schicht von Graphitstaub und mit Latex bearbeitet. Der Graphitstaub stammt aus den Abfällen der Firma T.U.P. Graphitstaub wurde oft einfach ins Meer ensorgt. 
 
-<!--
+
 
 ## 2006  T.U.P.
 

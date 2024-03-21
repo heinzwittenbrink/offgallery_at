@@ -1,8 +1,12 @@
 ---
-layout: article.njk
----
+layout: section.njk
+permalink: false
+tags: grauzonen
+title: Zu den Arbeiten von Lana Stojićević
+date: 2024-08-10
 
-## Zu den Arbeiten von Lana Stojićević
+
+---
 
 
 ## Kad ne dime tvornički dimnjaci <br/>(Wenn die Schlote nicht mehr rauchen)

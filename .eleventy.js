@@ -205,3 +205,14 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
+
+var md = require('markdown-it')({
+    html: true,
+    linkify: true
+})
+.use(require('markdown-it-replace-link'), {
+    processHTML: true, // defaults to false for backwards compatibility
+    replaceLink: function (link, env, token, htmlToken) {
+        return link + "?c=" + Date.now();
+    }
+})
