@@ -1,11 +1,14 @@
 ---
-layout: article.njk
+layout: ausstellung.njk
 
 title: |-
-  Mariana Pende / Lana Stojićević / Bojan Mrđenović: Grauzonen
+    Grauzonen
+artists: "Mariana Pende, Lana Stojićević, Bojan Mrđenović"
 permalink: /ausstellungen/2023/grauzonen/
 author: Heinz Wittenbrink
-tags: ausstellung
+tags: 
+- ausstellung
+- ausstellung2023
 date: "2023-09-23"
 teaser: |-
     Mariana Pende, Lana Stojićević und Bojan Mrđenović beschäftigen sich in den Arbeiten dieser Ausstellung mit Industrieabfällen im öffentlichen Raum. In fast abstrakt wirkenden Fotos dokumentiert Bojan Mrđenović die Phosphorgips-Deponie des Düngemittel-Werks Ina-Petrokemija in Kutina. Lana Stojićević untersucht und inszeniert in Crno Brdo (dt.: Schwarzer Berg) einen Hügel in dem Dorf Donje Biljane, der aus den gesundheitsgefährlichen Abfällen des früheren Šibeniker Betriebs TEF besteht. Mariana Pende verwendet Graphitstaub, den sie als Abfallprodukt der früheren Dubrovniker Firma TUP kennengelernt hat, zur Überarbeitung natürlicher und künstlicher Oberflächen wie der eines Schwamms.
@@ -21,7 +24,7 @@ image: ["cover-opening-grauzonen", "(c) Mariana Pende, Lana Stojićević und Boj
 
 Wir fragen in der Ausstellung auch, welche Beziehungen zwischen der gestalterischen Praxis dieser drei kroatischen Künstler:innen und der Industrialisierung und Modernisierung Kroatiens und Jugoslawiens im 20. Jahrhundert bestehen, in der selbstverwaltete Unternehmen wie Ina-Petrokemija, TEF und T.U.P. eine wichtige Rolle spielten. Die Projekte von Mariana Pende, Lana Stojićević und Bojan Mrđenović verweisen auf die Geschichte dieser Betriebe, mit der sich die drei Künstler:innen intensiv auseinandergesetzt haben. Sie reflektieren das Spannungsverhältnis zwichen ökologischen Perspektiven unserer postindustriellen Gegenwart und selbstverwaltungs-sozialistischen und postsozialistisch-turbokapitalistischen Blickwinkeln der Vergangenheit.
 
-## Material zur Ausstellung
+## Dokumentation:
 
 <!--
 * [Zur Arbeit von Mariana Pende](/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/)
@@ -30,7 +33,7 @@ Wir fragen in der Ausstellung auch, welche Beziehungen zwischen der gestalterisc
 -->
 
 
----
+
   
 {%- for grauzone in collections.grauzonen  | reverse -%}
 <details>

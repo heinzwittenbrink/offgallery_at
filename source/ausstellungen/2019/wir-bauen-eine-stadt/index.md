@@ -7,7 +7,10 @@ time: 20.3.-28.4.2019
 date: "2019-03-20"
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2019
+
 artists: Kinga Tóth
 slug: wir-bauen-eine-stadt
 teaser: Kinga Tóth hat 3 Monate auf der Platform 12 des Forschungscampus der Bosch GmbH in Renningen bei Stuttgart verbracht. Die Beschäftigung mit der deutschen Sprache als Fremdsprache und mit der Maschinensprache der Zukunft und der Drohnen resultierte in einem 3D-Projekt, einer audiovisuell-sprachlichen Komposition von Konturen, Maschinengeräuschen, Mangel- und Codesprache.

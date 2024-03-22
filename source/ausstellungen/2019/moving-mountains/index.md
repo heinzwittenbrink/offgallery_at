@@ -7,7 +7,9 @@ time: 3.5-14.6.2019 DI-DO 15-19
 date: "2019-06-14"
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2019
 artists: Ulrike Mayrhuber
 slug: moving-mountains
 teaser: Was passiert wenn eine Stadt siedelt? Die weltweit größte Eisenmine zwingt ihre Heimatstadt Kiruna in Nordschweden ihren Standort zu wechseln. Die fotografische Arbeit projiziert das heutige Kiruna an seinen neuen Platz, der 2016 zum Zeitpunkt der Aufnahmen noch eine einzige Brachfläche ist. Lediglich das Rathaus ist schon im Bau. Der Umzug soll bis 2033 erfolgt sein.

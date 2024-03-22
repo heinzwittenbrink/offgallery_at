@@ -338,6 +338,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/2023/bau_stoff_wechsel/</loc>
+            <lastmod>2023-01-24T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/2023/bau_stoff_wechsel/opening/</loc>
             <lastmod>2023-01-24T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -362,12 +368,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2023/bau_stoff_wechsel/</loc>
-            <lastmod>2023-01-24T14:55:59.508Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/blog/open-call-reininghaus/</loc>
             <lastmod>2023-02-23T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -376,7 +376,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/reininghaus/</loc>
             <lastmod>2023-03-29T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -460,7 +460,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/grauzonen/</loc>
             <lastmod>2023-09-23T00:00:00.000Z</lastmod>
-            <changefreq></changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -491,12 +491,6 @@
             <loc>https://offgallery.at/ausstellungen/2021/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
             <lastmod>2023-11-06T17:37:06.666Z</lastmod>
             <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2023-11-06T17:37:06.666Z</lastmod>
-            <changefreq>weekly</changefreq>
         </url>
     
         <url>
@@ -635,6 +629,12 @@
             <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
             <lastmod>2024-03-19T09:23:17.270Z</lastmod>
             <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/</loc>
+            <lastmod>2024-03-22T11:36:48.063Z</lastmod>
+            <changefreq>weekly</changefreq>
         </url>
     
         <url>

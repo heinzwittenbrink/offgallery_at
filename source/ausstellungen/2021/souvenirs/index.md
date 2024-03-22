@@ -7,7 +7,9 @@ date: 2021-10-23
 time: 23.10.11.-14.11.2021 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2021
 artists: Giovanna Silva
 slug: gegenverkehr
 image: ["teaser-giovanna-silva", "Rechte: Giovanna Silva"]

@@ -8,7 +8,9 @@ date: "2022-04-08"
 openingtime: Di–Do 15–18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2021
 artists: Ditz Fejer
 slug: inventar-der-gegend
 teaser: "Fotografische Bestandsaufnahme des Mürztals, begonnen während der Covid-Pandemie. Teil eines multimedialen Projekts"

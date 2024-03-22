@@ -6,6 +6,7 @@ author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
 - ausstellung
+- ausstellung2023
 date: "2023-04-14"
 teaser: |-
     Bei ihren neuen Objekten geht es Simona Reisch um die Inszenierung und Wahrnehmung von fotografierter Architektur, deren Wesen, Geschichte, Intention, Bedeutung, Zweifelhaftigkeit, Einbettung, Nachhaltigkeit, Materialität zu haptischen Portraits verdichtet werden.
@@ -38,3 +39,8 @@ Simona Reischs Website: <http://simonareisch.com/>
 <div>
 Bild: (c) Simona Reisch
 </div>
+
+<details>
+<summary>Ansichten der Ausstellung</summary>
+<div>{% gallery "source/ausstellungen/2023/arch_portraits/ansichten.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>
+</details>

@@ -345,6 +345,7 @@ figure.single_picture img {
 
 article,
 section,
+details,
 ul {
   padding: 2em;
   max-width: 45em;

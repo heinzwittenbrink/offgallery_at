@@ -8,7 +8,9 @@ date: "2022-07-09"
 openingtime: Di–Do 15–18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2022
 artists:  Eva Holts, Dmytro Zaiets, Olga Chekotovska, Eva Holts, Victoria Likholiot, Anton Malynovskyi
 slug: discontinuity
 teaser: Im Sommer 2022 bespielte Eva Fomitskih als Kuratorin unseren Galerieraum. Sie präsentierte in der Ausstellung "discontinuity" fünf Fotografinnen und Fotografen, die – wie sie selbst – aus der Ukraine kommen.

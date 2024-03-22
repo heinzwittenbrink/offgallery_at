@@ -6,6 +6,7 @@ permalink: /ausstellungen/2020/magistrala/
 topics:
 tags:
 - ausstellung
+- ausstellung2020
 
 date: "2020-09-18"
 place: off_gallery, Griesgasse 31

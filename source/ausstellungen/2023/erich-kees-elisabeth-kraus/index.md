@@ -6,6 +6,7 @@ author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
   - ausstellung
+  - ausstellung2023
 date: "2023-12-15"
 teaser: |-
   Am 15.Dezember 2023 um 18:00 und 19:00 eröffnen wir in der off_gallery und im raum (Griesgasse 26) zwei Ausstellungen zu Erich Kees und Elisabeth Kraus.

@@ -8,7 +8,9 @@ date: "2021-05-12"
 openingtime: Di, Mi, Do 15-18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2021
 artists: Zita Oberwalder
 slug: vitrine-en-cours
 teaser: "Die Architektur der Pariser Peripherie und die Biografien deutschsprachiger Autorinnen, die in Paris lebten, spielen in den neuen Fotografien Zita Oberwalders eine wichtige Rolle. Die Bilder gehören zu einem als Buch publizierten Fotoessay (in Zusammenarbeit mit Hannes Mitterberger), der bei der Vernissage präsentiert wird. Als Fortsetzung des work in progress *Hotel Europa* thematisieren sie Grenzen, Territorien, Nachbarschaften und Fluchtlinien."

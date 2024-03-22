@@ -7,7 +7,9 @@ time: 13.9.–15.10.2019
 date: "2019-09-13"
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2019
 changeFreq: yearly
 artists: Martin Grabner
 slug: the-promise-of-the-city

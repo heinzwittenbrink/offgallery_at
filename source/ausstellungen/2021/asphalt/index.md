@@ -7,7 +7,9 @@ date: 2021-10-09
 time: 9.10.-22.10.2021 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2021
 artists: 46 Teilnehmer und Teilnehmerinnen an unserem Open Call
 slug: asphalt
 image: ["wolfgang-kuehnelt-asphalt-griesgasse", ""]

@@ -7,7 +7,9 @@ date: 2020-01-17
 time: 17.1.-6.2.2020 DI-DO 15-19
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2020
 artists: Saimir Kristo, Sonia Jojic
 slug: liminal
 image: ["liminal", "Bunker in Nordalbanien"]

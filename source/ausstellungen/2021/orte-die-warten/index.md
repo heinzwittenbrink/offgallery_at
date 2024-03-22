@@ -6,8 +6,10 @@ date: 2021-06-21
 time: 22.6.2021.-22.7.2021 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
-artists: Giovanna Silva
+tags: 
+ - ausstellung
+ - ausstellung2021
+artists: Ana Opalić
 slug: orte-die-warten
 image: ["ana-opalic-pag-schwimmbecken-januar-2019", "Ana Opalić: Pag, Schwimmbecken, Januar 2019"]
 teaser: Ana Opalić zeigt, wie Plätze auf der Insel Pag, die jetzt, im Sommer, von Touristen überlaufen werden, im Winter aussehen. Sie dokumentiert die Spannungen zwischen einer fast unbewohnten Landschaft am Rande des Meeres und einer Architektur für Gäste von auswärts.

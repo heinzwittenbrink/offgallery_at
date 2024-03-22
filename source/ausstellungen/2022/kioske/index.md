@@ -8,7 +8,9 @@ date: "2022-09-17"
 openingtime: Di–Do 15–18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2022
 artists: Robert Pichler
 slug: Kioske
 teaser:  Die Bauten, die an noch nicht erschlossenen Küstenabschnitten zu touristischen Zwecken errichtet wurden (albanisch kioske genannt), repräsentieren eine vielschichtige Improvisationskultur, die auf den Übergang vom stalinistischen Überwachungsstaat zu ungezügelter Marktwirtschaft verweist.

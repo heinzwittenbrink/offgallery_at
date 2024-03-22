@@ -6,6 +6,7 @@ author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
   - ausstellung
+  - ausstellung2023
 date: "2023-11-16"
 teaser: |-
   Am 16. November 2023 um 18:00 eröffnen wir die Ausstellung „Eine Ahnung von Wildnis / A Notion of The Wild“ mit Fotografien von Christoph Grill. 

@@ -6,6 +6,7 @@ author: Heinz Wittenbrink
 eventtype: "Eröffnung"
 tags:
 - ausstellung
+- ausstellung2023
 date: "2023-07-15"
 teaser: |-
     Host-Month in der off_gallery: Im Sommer bespielt Franziska Nuber unseren Galerieraum. Die Ausstellung ist aus ihrer Diplomarbeit entstanden, in der sie eine Umgestaltung von drei kleinen Gebäuden vor dem A1-Hochhaus vorschlägt. Bei der Eröffnung stellt sie ihr Projekt vor.

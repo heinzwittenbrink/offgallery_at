@@ -8,7 +8,9 @@ date: "2019-12-03"
 openingtime: Mo–Fr 11–13 14–17 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+- ausstellung
+- ausstellung2019
 artists: Stefano Graziani
 slug: the-erratic-universe-of-yona-friedman
 teaser: "Ein Foto-Essay über die Pariser Wohnung, die Yona Friedman seit 1968 bewohnt – ein unmittelbarer Einblick in das persönliche erratische Universum des berühmten Architekten."

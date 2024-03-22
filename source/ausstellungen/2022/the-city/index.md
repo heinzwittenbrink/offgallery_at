@@ -4,7 +4,8 @@ title: |-
 permalink: /ausstellungen/2022/the-city/
 author: Heinz Wittenbrink
 tags:
-- ausstellung
+ - ausstellung
+ - ausstellung2022
 date: "2022-11-12"
 teaser: |-
     Paolo Rosselli beschäftigt sich seit etwa 40 Jahren explorativ mit dem Verhältnis von Fotografie und Stadt.

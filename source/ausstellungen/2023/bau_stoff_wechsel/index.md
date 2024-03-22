@@ -1,3 +1,22 @@
+---
+title: |-
+  Bau_Stoff_Wechsel: Bilder regenerativer Architektur
+permalink: /ausstellungen/2023/bau_stoff_wechsel/
+author: Heinz Wittenbrink
+tags:
+- ausstellung
+- ausstellung2023
+date: "2023-01-24"
+teaser: |-
+    Eine Architekturfotografie, die Gebautes nicht nur abbilden, sondern erfahrbar machen und mitgestalten will, muss in der beginnenden Realität des klimagerechten und regenerativen Bauens auch ihre Praktiken und ihre Ästhetik verändern. Wir fragen danach, ob sich schon etwas von diesen Veränderungen abzeichnet und wie sie aussehen können.
+layout: blog.njk
+teaser_image: ["iwan_baan_tambacounda_1", "(c) Iwan Baan"]
+image: ["iwan_baan_tambacounda_1", "(c) Iwan Baan"]
+quote:
+
+
+---
+
 <head>
  <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
     <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">

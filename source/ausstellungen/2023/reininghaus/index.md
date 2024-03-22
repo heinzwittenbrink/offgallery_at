@@ -3,12 +3,13 @@ title: |-
   Graz Reininghaus – Materialflüsse und Stadtlandschaft
 permalink: /ausstellungen/2023/reininghaus/
 author: Heinz Wittenbrink
-eventtype: "Eröffnung"
 tags:
+ - ausstellung
+ - ausstellung2023
 date: "2023-03-29"
 teaser: |-
     Am 29.3. um 19:00 eröffnen wir die Ausstellung "Graz Reininghaus – Materialflüsse und Stadtlandschaft". Gut 20 Fotograf:innen haben sich an unserem Open Call für die Ausstellung beteiligt. Wir präsentieren die Arbeiten digital. Einige Bilder zeigen wir gedruckt als einen mehrstimmigen fotografischen Essay über das neue Viertel. Bei der Auswahl der gedruckten Bilder haben wir darauf geachtet, unterschiedliche Perspektiven hervozuheben. Die digitale Präsentation macht deutlich, dass viele Alternativen dazu möglich wären. 
-layout: blog.njk
+layout: ausstellung.njk
 teaser_image: ["ilse-hollerer-reininghaus-beschnitten", "(c) Ilse Hollerer"]
 image: ["ilse-hollerer-reininghaus-beschnitten", "(c) Ilse Hollerer"]
 quote:

@@ -8,11 +8,63 @@ changeFreq: weekly
   <h2>Ausstellungen</h2>
 </section>
 
+<details>
+<summary>2023: Material Flows</summary>
+<section>
+<p>Das Jahresprogramm 2023 war vor allem der fotografischen Darstellung von Räumen und Zonen gewidmet, in denen sich die gebaute Umwelt im Zusammenhang mit terrestrischen Prozesse (Erhöhung des Meeresspiegels, Auftauen des Permafrosts, Eintrag neuer Substanzen in ökologische Systeme) verändert. Diese Transformationen stellen – anders als die Modernisierungsprozesse der beiden letzten Jahrhunderte – die gewohnten Abgrenzungen von Kultur, Technik und Gesellschaft auf der einen Seite und Natur auf der anderen Seite in Frage.</p> 
 
-{%- for ausstellung in collections.ausstellung  | reverse -%}
+<p>Die Natur selbst erweist sich als historisch, sie ist dabei von Vorgängen in der Technosphäre wie den Emissionen von Treibhausgasen abhängig. Historische und soziale, “menschliche” Prozesse werden als Komponenten planetarer Veränderungen erkennbar, die das ganze Erdsystem betreffen. Uns interessierten (und interessieren) Möglichkeiten der ästhetischen Verarbeitung und damit auch neuer sozialer Erfahrungen dieser Transformationen – von der Wahrnehmung und Bestandsaufnahme bis hin zu einer Bildung von Kollektiven ausgehend von der gemeinsamen Betroffenheit von regionalen und ökologischen Gegebenheiten.</p>
+</section>
+
+{%- for ausstellung in collections.ausstellung2023  | reverse -%}
 <section>
 {{ ausstellung.data.image | renderPicture() | safe }}
 <a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
 <p>{{ ausstellung.data.teaser }} </p>
 </section>
 {%- endfor -%}
+</details>
+
+<details>
+<summary>2022: Discontinuities</summary>
+{%- for ausstellung in collections.ausstellung2022  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+</details>
+
+<details>
+<summary>2021: Peripherien</summary>
+{%- for ausstellung in collections.ausstellung2021  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+</details>
+
+<details>
+<summary>2020: Everyday</summary>
+{%- for ausstellung in collections.ausstellung2020  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+</details>
+
+<details>
+<summary>2019: „Wir bauen eine Stadt“</summary>
+{%- for ausstellung in collections.ausstellung2019  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+</details>

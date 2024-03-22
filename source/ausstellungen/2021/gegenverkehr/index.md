@@ -7,7 +7,9 @@ date: 2021-11-16
 time: 16.11.-12.12.2021 DI-DO 15-18
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2021
 artists: Eva Mohringer
 slug: gegenverkehr
 image: ["eva_mohringer_deja_vu", "Déja Vu"]

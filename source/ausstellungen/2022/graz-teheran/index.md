@@ -8,7 +8,9 @@ date: "2022-06-14"
 openingtime: Di–Do 15–18 Uhr
 layout: ausstellung.njk
 changeFreq: yearly
-tags: ausstellung
+tags: 
+ - ausstellung
+ - ausstellung2022
 artists: Azam Shadpour
 slug: graz-teheran
 teaser: |+
