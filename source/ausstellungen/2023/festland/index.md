@@ -40,4 +40,13 @@ Bild: (c) Michael Goldgruber
 </div>
 
 
-<div>{% gallery "source/ausstellungen/2023/festland/panorama.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>
+
+  
+{%- for festland in collections.festland  | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{festland.data.title}}</summary>
+{{festland.content}}
+</details>
+</section>
+{%- endfor -%}

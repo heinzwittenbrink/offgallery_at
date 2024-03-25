@@ -38,3 +38,14 @@ Eine Architekturfotografie, die Gebautes nicht nur abbilden, sondern erfahrbar m
 
 Die Bilder der Ausstellung gehören zu Projekten ökologisch und sozial regenerativer Architektur. Die fotografische Erforschung von Materialien und Konstruktionen findet Eingang in die Entwicklung architektonischer Lösungen. Sie ist nicht nur Dokumentation abgeschlossener Projekte, sondern Teil der gestalterischen Praxis von Architekturteams. Ein Schwerpunkt aller drei Arbeiten ist die Erschließung der Qualitäten von Materialien – Stein und Lehm oder aber aus einem Abbruchgebäude gerettete Bauelemente. Manche der Arbeiten beziehen über die Präsentation der Materialqualitäten hinaus den sozialen und ökologischen Kontext der Projekte ein.
 </body>
+
+
+  
+{%- for bau_stoff_wechsel in collections.bau_stoff_wechsel  | reverse -%}
+<section id="{{bau_stoff_wechsel.data.id}}">
+<details>
+<summary>{{bau_stoff_wechsel.data.title}}</summary>
+{{bau_stoff_wechsel.content}}
+</details>
+</section>
+{%- endfor -%}

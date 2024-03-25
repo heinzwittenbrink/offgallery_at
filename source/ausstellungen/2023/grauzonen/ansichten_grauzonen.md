@@ -1,0 +1,9 @@
+---
+permalink: false
+id: ansichten_arc_portraits
+tags: grauzonen
+title: "Ansichten der Ausstellung"
+date: 2024-05-10
+--- 
+  
+<div>{% gallery "source/ausstellungen/2023/grauzonen/ansichten.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>

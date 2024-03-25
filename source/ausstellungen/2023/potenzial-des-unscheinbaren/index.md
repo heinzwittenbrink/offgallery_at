@@ -41,3 +41,14 @@ quote:
 > Unter Wertschätzung des Vorhandenen setzt der Entwurf die Improvisation der Perfektion entgegen und zielt eine einfach umzusetzende Reparatur der in den zahlreichen Griesplatz-Studien meist unbeachteten städtischen Unschärfe an. Die Ausstellung in direkter Nähe zum Planungsgebiet soll auf diese Thematik aufmerksam machen und zur Diskussion anregen.“
 <br/>
 *Franziska Nuber*
+
+
+  
+{%- for unscheinbares in collections.potenzial_des_unscheinbaren  | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{unscheinbares.data.title}}</summary>
+{{unscheinbares.content}}
+</details>
+</section>
+{%- endfor -%}

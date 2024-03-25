@@ -30,3 +30,14 @@ Die Ausstellung nimmt unser Jahresthema "Material flows" auf. Sie ist zugleich e
 ## Über Christoph Grill
 
 Christoph Grill (*1965) studierte Biologie und lebt als Fotograf und Archäozoologe in Graz. Seine Arbeiten wurden in zahlreichen Einzel- und Gruppenausstellungen gezeigt, u.a. in Jerusalem, Prag, Deauville, Krasnodar und Charkiv. 2012 erschien bei Hatje/Cantz der Band "Short Stalks at Distant Shores" mit Grills Fotografien des postsowjetischen Raums. Die Neue Galerie Graz, die Kunstsammlungen des Landes Vorarlberg und die Fotosammlung der Stadt Deauville haben Arbeiten Grills angekauft. Website des Künstlers: http://www.christophgrill.com/.
+
+
+  
+{%- for ahnung in collections.ahnung_von_wildnis  | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{ahnung.data.title}}</summary>
+{{ahnung.content}}
+</details>
+</section>
+{%- endfor -%}

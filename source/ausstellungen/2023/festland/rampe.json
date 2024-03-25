@@ -1,0 +1,20 @@
+{
+  "media": [
+    {
+      "src": "./assets/pics/2023/festland/objekte/rampe-2.jpg",
+      "alt": "Ramp, Bild 1",
+      "caption": "Ramp, Bild 1 (c) Michael Goldgruber"
+    },
+    {
+      "src":  "./assets/pics/2023/festland/objekte/rampe-3v.jpg",
+      "alt": "Ramp, Bild 2",
+      "caption": "Ramp, Bild 2 (c) Michael Goldgruber"
+    },
+    {
+      "src":  "./assets/pics/2023/festland/objekte/rampe-4.jpg",
+      "alt": "Ramp, Bild 3",
+      "caption": "Ramp, Bild 3 (c) Michael Goldgruber"
+    }
+    
+  ]
+}

@@ -44,3 +44,14 @@ Licht und Schatten, Perspektive und Proportion sind die wesentliche Parameter
 der fotografischen Welt von Erich Kees und Elisabeth Kraus. Der raum eröffnet einen Einblick in diese subjektive Bildwelt, die – ausgehend von der Mitte des 20. Jahrhunderts – im fotografischen Umfeld von Kees und Kraus entstanden ist. Diese Auseinandersetzung mit optischen Medien zeigt eine klare visuelle Verbindung zur zeitgenössischen Fotografie und der fortschrittlichen Haltung, die bereits in frühen Jahren von den beiden ausging und so den Weg ebnete,
 der Graz rund um die 1980er Jahre zu einem Zentrum europäischer Fotografie
 machte. (Kuratiert von Peter Rieser)
+
+
+  
+{%- for kees_kraus in collections.kees_kraus | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{kees_kraus.data.title}}</summary>
+{{kees_kraus.content}}
+</details>
+</section>
+{%- endfor -%}

@@ -36,10 +36,12 @@ Wir fragen in der Ausstellung auch, welche Beziehungen zwischen der gestalterisc
 
   
 {%- for grauzone in collections.grauzonen  | reverse -%}
+<section>
 <details>
 <summary>{{grauzone.data.title}}</summary>
 {{grauzone.content}}
 </details>
+</section>
 {%- endfor -%}
 
 

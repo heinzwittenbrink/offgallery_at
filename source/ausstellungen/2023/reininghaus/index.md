@@ -9,6 +9,7 @@ tags:
 date: "2023-03-29"
 teaser: |-
     Am 29.3. um 19:00 eröffnen wir die Ausstellung "Graz Reininghaus – Materialflüsse und Stadtlandschaft". Gut 20 Fotograf:innen haben sich an unserem Open Call für die Ausstellung beteiligt. Wir präsentieren die Arbeiten digital. Einige Bilder zeigen wir gedruckt als einen mehrstimmigen fotografischen Essay über das neue Viertel. Bei der Auswahl der gedruckten Bilder haben wir darauf geachtet, unterschiedliche Perspektiven hervozuheben. Die digitale Präsentation macht deutlich, dass viele Alternativen dazu möglich wären. 
+artists: Open Call
 layout: ausstellung.njk
 teaser_image: ["ilse-hollerer-reininghaus-beschnitten", "(c) Ilse Hollerer"]
 image: ["ilse-hollerer-reininghaus-beschnitten", "(c) Ilse Hollerer"]
@@ -33,3 +34,14 @@ Die Ausstellung ist eine visuelle Zwischenbilanz der Entwicklung des neuen Viert
 <div>
 Bild: (c) Ilse Hollerer (Ausschnitt),
 </div>
+
+
+  
+{%- for reininghaus in collections.reininghaus  | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{reininghaus.data.title}}</summary>
+{{reininghaus.content}}
+</details>
+</section>
+{%- endfor -%}

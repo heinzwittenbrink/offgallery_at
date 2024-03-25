@@ -40,7 +40,12 @@ Simona Reischs Website: <http://simonareisch.com/>
 Bild: (c) Simona Reisch
 </div>
 
+  
+{%- for ansicht in collections.ansichten  | reverse -%}
+<section id="{{festland.data.id}}" class="ausstellungs_details">
 <details>
-<summary>Ansichten der Ausstellung</summary>
-<div>{% gallery "source/ausstellungen/2023/arch_portraits/ansichten.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>
+<summary>{{ansicht.data.title}}</summary>
+{{ansicht.content}}
 </details>
+</section>
+{%- endfor -%}
