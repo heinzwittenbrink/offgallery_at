@@ -47,7 +47,7 @@ machte. (Kuratiert von Peter Rieser)
 
 
   
-{%- for kees_kraus in collections.kees_kraus | reverse -%}
+{%- for kees_kraus in collections.erich-kees-elisabeth-kraus | reverse -%}
 <section id="{{festland.data.id}}" class="ausstellungs_details">
 <details>
 <summary>{{kees_kraus.data.title}}</summary>
