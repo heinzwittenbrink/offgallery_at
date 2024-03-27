@@ -1,0 +1,27 @@
+---
+tags: rueckblick2023
+date: "2024-03-27"
+---
+
+2023 haben wir expliziter als in den Vorjahren versucht, unser Ausstellungsprogramm in eine Beziehung zur Klimakrise und der „Polykrisis“ zu bringen, deren Teil die Klimakrise ist. Wir wollten diese Verbindung nicht durch einen Kurzschluss von Kunst und Aktivismus herstellen. Ausstellungen können selbst kein Ersatz für Aktivismus sein, und wirksame aktivistische Kunst gehört vor allem in öffentliche Räume jenseits des Ausstellungsbetriebs.  Wir suchten und suchen stattdessen nach fotografischen und künstlerischen Projekten und Verfahren, die auf die krisenhaften Veränderungen in den gebauten und nicht gebauten Räumen unserer Umgebung reagieren und den Besucherinnen und Besuchern eine affektive wie analytische Erfahrung dieser Veränderungen ermöglichen. 
+
+Zur Situation des Anthropozäns gehört es dabei, dass wir mit Prozessen und Objekten konfrontiert sind, bei denen einerseits  „soziale“, „kulturelle“ oder „menschliche“ und andererseits „natürliche“ oder „ökologische“ Komponenten miteinander verbunden sind. 
+
+In der Fotografie spiegelt sich die Veränderung der Ausgangssituationen von der Moderne zum Anthropozän oft im Verhältnis stofflicher, materieller Prozesse oder Flüsse zu geometrischen, konstruierten Räumen – ein Gegensatz, der an den alten Gegensatz zwischen colore und disegno in der Malerei erinnert. Die geometrische Abgrenzung des Bildraums wie die Geometrie der
+Artefakte der “Technosphäre” stehen im Gegensatz zu materiellen Flüssen von oft enormem quantitativen Ausmaß, die vielfach langsam sind, aber letztlich die konstruierten, geometrischen Formen überborden, zu zerstören drohen oder tatsächlich zerstören.
+
+Sichtbar werden solche materiellen Flüsse in 
+
+- den neu entstehenden Raum des Grazer Reininghaus-Viertels, dessen Erfahrung auch von der Masse des in ihm verarbeiteten mineralischen Materials bestimmt wird ([Reininghaus](/ausstellungen/2023/reininghaus/)),
+- architektonischen Situationen, die durch ihre Materialen charakterisiert sind und in  Collagen porträtiert  werden, die diese Materialien enthalten ([arch_portraits](/ausstellungen/2023/arch_portraits/), 
+- ins Rutschen kommenden Randzonen von Wasser und Festland, die aus exponierten Kamerasituationen erfasst werden ([Festland](/ausstellungen/2023/festland/)),
+- von Industrieabfällen bestimmten Räumen, in denen die historisch oder archäologisch erfassbare Spuren industrieller Arbeits- und Lebensverhältnisse zu Ausgangsbedingungen des postindustriellens Lebens werden ([Grauzonen](/ausstellungen/2023/grauzonen/)),
+- wilden Zonen und Einbrüchen von Wildnis in die gebaute Umwelt, durch die die Fremdartigkeit und Nichtassimilierbarkeit des Wilden erfahrbar wird ([Eine Ahnung von Wildnis](/ausstellungen/2023/eine-ahnung-von-wildnis/)). 
+
+
+Für viele der Projekte, die wir 2023  gezeigt haben, ist charakteristisch, dass in ihnen irreversible Übergänge von niedriger zu höherer Entropie aufgegriffen werden: der Übergang einer vorstädtischen Landschaft zur Monotonie hochverdichteter Architektur in den Darstellungen der Reininghaus-Ausstellung, Verfallsprozesse in den *arch_portraits* Simona Reischs,  das Abschmelzen eines Gletschers und die Überflutung einer Küstenzone in „Festland“, die Produktion industrieller Abfälle und Schlacken in „Grauzonen“. Die Wildnis in den Aufnahmen Christoph Grills ist dagegen um so weniger entropisch, je mehr sie ökonomischen Prozessen entzogen ist. Die entropischen Prozesse, am deutlichsten im „Grauzonen“, sind irreversibel. Die geordneten Ausgangszustände lassen sich in ihren Ergebnissen nicht mehr erkennen sondern nur durch eine dokumentarisch vorgehende Rekonstruktion erfassen. 
+
+Die Irreversibilität der Erzeugung von Entropie durch wirtschaftliche, auch durch architektonische Prozesse gehört zu den fundamentalen Einsichten der ökologischen Ökonomik. Eine auf grenzenloses Wachstum ausgerichtete Wirtschaft erzeugt letztlich eine Höchstmaß von Entropie und zerstört damit ihre eigenen Grundlagen. Die Ausstellungen zu *material flows*, die wir im letzten Jahr gezeigt haben, bilden diese Erzeugung von Entropie nicht einfach ab, sondern präsentieren ihre Ergebnisse. Die Konfrontation mit diesen Ergebnissen, die den Weg zu ihnen nicht direkt zeigt, führt zu einer Aufmerksamkeit für im Kern destruktive  Erschöpfungsprozesse. Diese Herangehensweisen unterscheiden sich von einem romantischen Zugang, der die Umkehrung irreversibler historischer Prozesse ästhetisch imaginiert. 
+
+Die Ausstellung zur Erich Kees und Elisabeth Kraus bildete einen Kontrast zu den Ausstellungen, die *material flows* gewidmet waren. Kees und Kraus bezogen z.T. explizit und programmatisch moderne Positionen, auch wenn sich z.B. in den Pflanzendarstellungen von Elisabeth Kraus der Abschied von der betonten und gelegentlich gefeierten Moderne schon erkennen lässt und Kees und Kraus die Grazer Szene für Entwicklungen wie die *New Topographics* öffneten, die bereits auf eine nachmoderne Situation reagieren. In unserem Programm sorgte diese Ausstellung für eine bessere Verbindung zwischen aktuellen Positionen und der Grazer fotografischen Tradition. 
+

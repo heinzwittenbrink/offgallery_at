@@ -1,5 +1,10 @@
 {
-  "media": [
+    "media": [
+	 {
+      "src": "./assets/pics/2023/reininghaus/ansichten/reininghaus-2479.jpg",
+      "alt": "Ansicht der Ausstellung",
+      "caption": "Hauswand gegenüber dem Ausstellungsraum"
+    },
     {
       "src": "./assets/pics/2023/reininghaus/ansichten/_MG_7968_(c)_martin_grabner.jpg",
       "alt": "Ansicht der Ausstellung",

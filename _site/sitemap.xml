@@ -388,7 +388,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/arch_portraits/</loc>
             <lastmod>2023-04-14T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -502,7 +502,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/eine-ahnung-von-wildnis/</loc>
             <lastmod>2023-11-16T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -626,9 +626,33 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/2023/rueckblick/</loc>
+            <lastmod>2024-03-27T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2024-03-22T11:36:48.063Z</lastmod>
+            <lastmod>2024-03-27T07:37:14.879Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/rueckblick2023/</loc>
+            <lastmod>2024-03-27T10:52:10.397Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-04-10T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-04-15T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
         </url>
     
         <url>
@@ -663,7 +687,13 @@
     
         <url>
             <loc>https://offgallery.at.</loc>
-            <lastmod>2024-05-10T00:00:00.000Z</lastmod>
+            <lastmod>2024-05-15T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-05-15T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
         </url>
     

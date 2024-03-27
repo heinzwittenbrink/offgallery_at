@@ -1,6 +1,7 @@
 ---
 title: |-
-  Michael Goldgruber: Festland
+  Festland
+artists: Michael Goldgruber
 permalink: /ausstellungen/2023/festland/
 author: Heinz Wittenbrink
 eventtype: "Eröffnung"
@@ -20,20 +21,23 @@ quote:
 </br>
 
 
-**Michael Goldgruber: Festland**
+**Fotograf: Michael Goldgruber**
 
-**Vernissage: 13.05.2023 um 19 Uhr**
+**Laufzeit: 13.05.2023**
 
-**Geöffnet: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
+**Gestaltung Michael Goldgruber**
 
 **Griesgasse 31, 8020 Graz**
 
 </br>
-Die Installation besteht aus einem Video und zwei begleitenden Fotoserien.
+ „Festland“ war eine Installation zu Veränderungen des Erdsystems. Ihre Ursachen – fossile Brennstoffe und Intensivlandwirtschaft – bleiben meist verborgen. Die Veränderungen vollziehen sich scheinbar langsam und weit entfernt von uns. In Michael Goldgrubers Installation kamen sie uns nah – als Meer, dass sich auf unaufhaltsam auf uns zubewegt, sowie als topografisches Bildmaterial über die Gletscherschmelze. Sie wurden als Prozesse spürbar, die sich auch in uns und mit uns abspielen. 
 
-Die Veranstaltung gehört zum Programm der Galerientage Graz. Am 12.5. von 17:30-19:30 gibt es Gelegenheit zu einem Preview mit Improvisationen von Stefan Heckel und Studierenden der Kunstuniversität Graz.
 
-Michael Goldgrubers Website: <https://www.goldgruber.at/>
+Die Installation bestand aus einem Video und zwei begleitenden Fotoserien. 
+Die Veranstaltung gehört zum Programm der Galerientage Graz. Am 12.5. von 17:30-19:30 gab es Gelegenheit zu einem Preview mit Improvisationen von Stefan Heckel und Studierenden der Kunstuniversität Graz. Am 22.6. fand ein Künstlergespräch mit Michael Goldgruber statt.
+
+
+Bei den Arbeiten Michael Goldgrubers besteht ein direkter Bezug der Bilder zur globalen Erhitzung und den durch sie ausgelösten Veränderungen im Erdsystem (Gletscherschmelze, Anstieg des Meeresspiegels). Dabei ist für diese Arbeiten eine besondere Perspektive charakteristisch. Der Fotografierende verschafft sich Zugang zu ungewöhnlichen Positionen, und diese Positionen setzen – wie auch die Aufnahmen selbst –  oft aufwändige Technik voraus. Die Ausstellung ermöglicht die Erfahrung von Prozessen, die ihrer Größe und Langsamkeit kaum zu erfassen sind. Gegenüber dem Publikum nimmt der Fotografierende hier die Rolle eines Vermittlers ein. 
 
 <div>
 Bild: (c) Michael Goldgruber

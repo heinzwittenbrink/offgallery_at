@@ -16,14 +16,26 @@ changeFreq: weekly
 <p>Die Natur selbst erweist sich als historisch, sie ist dabei von Vorgängen in der Technosphäre wie den Emissionen von Treibhausgasen abhängig. Historische und soziale, “menschliche” Prozesse werden als Komponenten planetarer Veränderungen erkennbar, die das ganze Erdsystem betreffen. Uns interessierten (und interessieren) Möglichkeiten der ästhetischen Verarbeitung und damit auch neuer sozialer Erfahrungen dieser Transformationen – von der Wahrnehmung und Bestandsaufnahme bis hin zu einer Bildung von Kollektiven ausgehend von der gemeinsamen Betroffenheit von regionalen und ökologischen Gegebenheiten.</p>
 </section>
 
-{%- for ausstellung in collections.ausstellung2023  | reverse -%}
-<section>
+{%- for ausstellung in collections.ausstellung2023 -%}
+<section id="ausstellung.data.title">
 {{ ausstellung.data.image | renderPicture() | safe }}
 <a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
 <p>{{ ausstellung.data.teaser }} </p>
 </section>
 {%- endfor -%}
+<details>
+<summary>Rückblick</summary>
+
+{%- for rueckblick in collections.rueckblick2023 -%}
+<section>
+{{ rueckblick.content | safe }}
+</section>
+{%- endfor -%}
+
 </details>
+</details>
+
+
 
 <details>
 <summary>2022: Discontinuities</summary>
