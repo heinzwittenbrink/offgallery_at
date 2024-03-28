@@ -1,16 +1,16 @@
 ---
 title: |-
-  Franziska Nuber: Das Potenzial des Unscheinbaren
+  Franziska Nuber: Das Potenzial des Unscheinbaren – ein stück stadt und seine transformation
 permalink: /ausstellungen/2023/potenzial-des-unscheinbaren/
+artists: Franziska Nuber
 author: Heinz Wittenbrink
-eventtype: "Eröffnung"
 tags:
 - ausstellung
 - ausstellung2023
 date: "2023-07-15"
 teaser: |-
     Host-Month in der off_gallery: Im Sommer bespielt Franziska Nuber unseren Galerieraum. Die Ausstellung ist aus ihrer Diplomarbeit entstanden, in der sie eine Umgestaltung von drei kleinen Gebäuden vor dem A1-Hochhaus vorschlägt. Bei der Eröffnung stellt sie ihr Projekt vor.
-layout: blog.njk
+layout: ausstellung.njk
 teaser_image: ["franziska_nuber_plakat_landscape", "(c) Franziska Nuber"]
 image: ["franziska_nuber_plakat_landscape", "(c) Franziska Nuber"]
 
@@ -20,19 +20,12 @@ quote:
 </br>
 
 
-**Das Potenzial des Unscheinbaren**
-</br>
-**ein stück stadt und seine transformation**
-</br>
-</br>
+**Projekt und Gestaltung: Franziska Nuber**
 
-**Vernissage: 15.07.2023 um 19 Uhr**
-</br>
-**Geöffnet: Samstags 10-13 Uhr und nach Vereinbarung**
-</br>
-**Griesgasse 31, 8020 Graz**
+**Laufzeit: 15.7.–5.9.2023**
 
-</br>
+Im Host Month im Sommer bespielte Franziska Nuber unseren Galerieraum. Die Ausstellung ist aus ihrer Diplomarbeit entstanden, in der sie eine Umgestaltung von drei kleinen Gebäuden vor dem A1-Hochhaus am Griesplatz in der Nähe der Galerie vorschlägt. Bei der Eröffnung stellte sie ihr Projekt vor.
+
 
 > „Mitunter Kernaufgabe von uns Architekt:innen ist es und wird es auch in Zukunft verstärkt sein, Bestand neu zu denken, zu reaktivieren und zu wandeln. Dabei sollten wir uns nicht nur auf das Geschichtsträchtige und anmutig Gebaute konzentrieren; gerade jetzt ist es essenziell unseren Blick auf die zahlreich vorhandenen unscheinbaren Objekte zu richten.
 

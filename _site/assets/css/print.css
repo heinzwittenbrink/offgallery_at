@@ -63,6 +63,21 @@
        url('/assets/fonts/pt-sans-v11-latin-700italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
+@page {
+  size: A4;
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+
+h1, h2, h3, h4, h5 {
+  page-break-after: avoid;
+}
+
+
+
+
+
 body {
 
   --baseline: 0.7rem;
@@ -72,17 +87,26 @@ body {
   font-family: 'PT Sans', Arial, sans-serif;
 }
 
+picture {width: 10cm;}
+
 h1, h2, h3, h4, h5, h6 {
 
     font-family:  'PT Sans', Arial, sans-serif;
-    padding-top: 14pt;
+    
 }
 
 footer, header {display: none;}
 
-p {font-size: 11pt; line-height: 1.3;}
+p, li {font-size: 11pt; line-height: 1.3;}
 
+section {padding: 0; margin: 0;}
 
+section.ausstellungs_details, details {visibility: hidden; padding:0; margin: 0; bottom: 0;}
+
+li, li:not(:first-child) {margin-top: 0;}
+main ul li:not(:first-child) {
+  margin-top: 0px;
+}
 
 /* Versuch für Ausstellungstexte
 

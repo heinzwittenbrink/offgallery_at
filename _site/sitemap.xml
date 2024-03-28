@@ -448,7 +448,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/potenzial-des-unscheinbaren/</loc>
             <lastmod>2023-07-15T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -520,7 +520,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/erich-kees-elisabeth-kraus/</loc>
             <lastmod>2023-12-15T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -640,6 +640,12 @@
         <url>
             <loc>https://offgallery.at/allgemein/rueckblick2023/</loc>
             <lastmod>2024-03-27T10:52:10.397Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2023/zur-wirkung-unserer-arbeit/</loc>
+            <lastmod>2024-03-28T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
         </url>
     
