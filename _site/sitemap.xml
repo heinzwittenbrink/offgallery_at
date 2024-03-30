@@ -436,7 +436,7 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/festland/</loc>
             <lastmod>2023-05-13T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
@@ -651,6 +651,12 @@
     
         <url>
             <loc>https://offgallery.at.</loc>
+            <lastmod>2024-04-09T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
             <lastmod>2024-04-10T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
         </url>
@@ -688,6 +694,12 @@
         <url>
             <loc>https://offgallery.at.</loc>
             <lastmod>2024-05-10T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-05-11T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
         </url>
     

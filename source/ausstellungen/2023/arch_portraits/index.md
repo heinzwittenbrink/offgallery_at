@@ -16,8 +16,6 @@ image: ["simona_reisch_eisenbilder_3-11_fly", "(c) Simona Reisch"]
 quote:
 
 ---
-</br>
-
 
 **Künstlerin: Simona_Reisch**
 
@@ -32,18 +30,15 @@ quote:
 In vielen ihrer Werke arbeitet Simona Reisch ausgehend von Fotografien skulptural. Dabei steht die Materialität der Objekte in spannungsvoller Beziehung zu architektonischen Materialien. 
 
 
-In arch_portraits wurde die Grenze des traditionellen Bildes in Richtung auf Objekte überschritten, deren Materialität selbst in einem Bezug zur Materialität der architektonischen/urbanistischen Objekte stehen, auf die sie sich beziehen. Sie stellen die Frage der Ähnlichkeit/Unähnlichkeit von Abbildung und architektonischer Situation. 
+In arch_portraits wurde die Grenze des traditionellen Bildes in Richtung auf Objekte überschritten, deren Materialität selbst in einem Bezug zur Materialität der architektonischen/urbanistischen Situationen stehen, auf die sie sich beziehen. Sie stellen die Frage der Ähnlichkeit/Unähnlichkeit von Abbildung und architektonischer Situation. 
 
-Diese Objekte selbst sind in der Ausstellungssituation unmittelbar erfahrbar, ihre Präsenz tritt an die Stelle der architektonischen Situationen, auf die sie sich beziehen. 
+Die Objekte selbst sind in der Ausstellungssituation unmittelbar erfahrbar, ihre Präsenz tritt an die Stelle der architektonischen Situationen, auf die sie sich beziehen. 
 
 Der Ausstellungsraum war anders als vielen Fotoausstellungen nur mittelbar durchsichtig auf Räume außerhalb, sondern eine dreidimensionale Szenerie für die Besuchenden, in der auch die  Materialität von Baumaterialien, vor allem des Metalls Eisen erfahren wurde. 
 
 Simona Reischs Arbeiten sind kommentarbedürftig. Sie sind nur mittelbar auf ihre Genese oder eine künstlerische Intention hin durchsichtig und demonstrierten damit&mdash;wie auch andere 2023 gezeigte Arbeiten&mdash;dass „material flows“ sich nur über verschiedene Rezeptionsebenen erschließen, dass sie nur als Fragmente von&mdash;möglicherweise unabgeschlossenen&mdash;Zusammenhängen zugänglich sind.
 
 
-<div>
-Bild: (c) Simona Reisch
-</div>
 
   
 {%- for portrait in collections.arch_portraits  | reverse -%}

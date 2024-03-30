@@ -27,7 +27,7 @@ Was ist „Wildnis“? Gibt es angesichts der den ganzen Planeten überziehenden
 
 Die Bilder der Ausstellung gehörten zu einer aktuellen, noch nicht abgeschlossenen Werkgruppe Grills.
 
-In Christoph Grills Arbeiten geht es unter anderem um das Verhältnis von Lebendigem und Stofflichem, auch im Sinne des Toten. Dabei steht hier die Wildheit des Lebendigem im Gegensatz zu Massen toten Stoffs und auch zur Verwandlung des Lebendigen in tote Objekte. Die Ausstellung ermöglicht hier eine wegen der enormen Detaigenauigkeit und Schärfe nur vor dem Originaldruck mögliche Wahrnehmung von Bildern. Für das Publikum kann das desorientierend sein. 
+In Christoph Grills Arbeiten geht es unter anderem um das Verhältnis von Lebendigem und Stofflichem, auch im Sinne des Toten. Dabei steht hier die Wildheit des Lebendigem im Gegensatz zu Massen toten Stoffs und auch zur Verwandlung des Lebendigen in tote Objekte. Die Ausstellung ermöglichte eine wegen der enormen Detaigenauigkeit und Schärfe der Originaldrucke sonst nicht mögliche Wahrnehmung der Bilder Christoph Grills. Diese Schärfe betont die materielle Struktur des Abgebildeten in einer gelegentlich für das Publikum desorientierenden Weise.
 
 Die Ausstellung nahm unser Jahresthema „Material flows“ auf und war zugleich ein Prolog unseres nächsten Jahresthemas „Sehnsucht nach Wildnis".
 

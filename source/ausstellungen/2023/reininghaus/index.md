@@ -17,10 +17,6 @@ image: ["ilse-hollerer-reininghaus-beschnitten", "(c) Ilse Hollerer"]
 quote:
 
 ---
-</br>
-
-
-**Graz Reininghaus – Materialflüsse und Stadtlandschaft**
 
 **Laufzeit: 29.3.–8.4.2023**
 
@@ -35,11 +31,9 @@ Die Ausstellung war eine visuelle Zwischenbilanz der Entwicklung des neuen Viert
 
 Gut 20 Fotograf:innen haben sich an unserem Open Call für die Ausstellung beteiligt. Wir präsentierten die Arbeiten digital im Ausstellungsraum. Einige Bilder zeigten wir gedruckt als einen mehrstimmigen fotografischen Essay über das neue Viertel. Bei der Auswahl der gedruckten Bilder haben wir darauf geachtet, unterschiedliche Perspektiven hervozuheben. Die digitale Präsentation machte deutlich, dass viele Alternativen dazu möglich gewesen wären. 
 
-Bei der Reininghaus-Ausstellung stand die Massivität der Materialflüsse in diesem neuen Viertel in einem Spannungsverhältnis zu vielen und unterschiedlichen fotografischen Perspektiven, die oft auf bildnerische Ensembles ausgerichtet waren, die von der Entwicklung des urbanistischen Projekts schnell überholt werden. Durch die unterschiedlichen Perspektiven in der Ausstellung wurden fotografischen Zugangsmöglichkeiten problematisiert. An der Ausstellung haben sich einige Fotografierende beteilit, die zur Community unserer Galerie gehören. Wir haben mit em Projekt auch versucht, die Perspektive der Materialflüsse und ihrer ökologisch-ökonomischen Bedeutung in dieser Community bekannter zu machen. 
+Bei der Reininghaus-Ausstellung stand die Massivität der Materialflüsse in diesem neuen Viertel in einem Spannungsverhältnis zu vielen und unterschiedlichen fotografischen Perspektiven, die oft auf bildnerische Ensembles ausgerichtet waren, die von der Entwicklung des urbanistischen Projekts schnell überholt werden. Auch durch die unterschiedlichen Perspektiven in der Ausstellung wurden die fotografischen Zugangsmöglichkeiten problematisiert. An der Ausstellung haben sich einige Fotografierende beteiligt, die zur Community unserer Galerie gehören. Wir haben mit dem Projekt auch versucht, die Bedeutung der Materialflüsse als ökologisch-ökonomisches und als ästhetisches Phänomen in dieser Community bekannter zu machen. 
 
-<div>
-Bild: (c) Ilse Hollerer (Ausschnitt),
-</div>
+
 
 
   
