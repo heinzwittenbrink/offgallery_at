@@ -614,12 +614,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2024-03-27T07:37:14.879Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/allgemein/rueckblick2023/</loc>
             <lastmod>2024-03-27T10:52:10.397Z</lastmod>
             <changefreq></changefreq>
@@ -638,6 +632,18 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/ausstellungen/</loc>
+            <lastmod>2024-04-03T09:06:04.021Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-04-09T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at.</loc>
             <lastmod>2024-04-09T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
@@ -646,6 +652,12 @@
         <url>
             <loc>https://offgallery.at.</loc>
             <lastmod>2024-04-10T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2024-04-11T00:00:00.000Z</lastmod>
             <changefreq></changefreq>
         </url>
     

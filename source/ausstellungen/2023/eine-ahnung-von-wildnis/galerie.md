@@ -14,8 +14,6 @@ Aus: Yenisey 2
 
 Testudo hermanni . Turkey . 2022
 
-Capra nubica . Israel . 2021
-
 Aus: On the True Semblance of the Eight-Thousander
 
 ### Rückwand: 
@@ -26,7 +24,7 @@ Hochschwab Mountains . Austria . 2021
 
 Hochschwab Mountains . Austria . 2021
 
-Bilbo bubo . Austria . 2021
+Bubo bubo . Austria . 2021
 
 Seckau Alps . Austria . 2020
 
