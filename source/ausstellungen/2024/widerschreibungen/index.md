@@ -25,7 +25,7 @@ quote:
 
 **Alfred Resch-Díaz: Widerschreibungen**
 
-**17.4.–6.5.2024** 
+**17.4.–7.5.2024** 
 
 **Di, Mi, Do 15:00-18:00 und nach Vereinbarung**
 
