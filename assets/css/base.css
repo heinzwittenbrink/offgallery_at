@@ -272,9 +272,13 @@ footer li img {
   margin-right: 8px;
 }
 
+footer li img.logo { width: 10em;
+}
 footer a {
   color: white;
 }
+
+footer ul#logos li {margin-top: 0px;}
 
 footer ul#subscribe {
   display: flex;

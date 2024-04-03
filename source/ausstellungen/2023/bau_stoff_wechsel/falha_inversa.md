@@ -1,14 +1,14 @@
-<head>
- <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
-    <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">
-
-
-</head>
-<body>
+---
+permalink: false
+id: falha_inversa
+tags: bau_stoff_wechsel
+title: "Zu Lara Jacinto: Atelier Gørvell, Falha Inversa"
+date: 2024-08-11
+---
 
 **Lara Jacinto**
 
-***Atelier Gørvell, Falha Inversa*** *(Umkehrverwerfung)*
+**Atelier Gørvell, Falha Inversa** *(Umkehrverwerfung)*
 
 **2022**
 
@@ -18,4 +18,6 @@ In der Ausstellung Falha Inversa (Espaço São Victor, Porto, 2022) treten die A
 
 Die Fotografie von Lara Jacinto zeigt die Materialien, die bei der Renovierung eines Apartments durch Atelier Gørvell gewonnen, neu geordnet und wieder verwendet wurden. Die Loslösung aus ihrem Kontext und Umdeutung in Objekte einer Ausstellung verweist auf die Allgemeingültigkeit der spezifischen Beobachtung. Die puristische Präsentation in einem einfachen Regal ist die ästhetische Entsprechung der Konzentration auf das Wesentliche: den materiellen Fußabdruck des Bauens.
 
-</body>
+Text: Martin Grabner
+
+

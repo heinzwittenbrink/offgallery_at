@@ -1,14 +1,14 @@
-<head>
- <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
-    <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">
-
-
-</head>
-<body>
+---
+permalink: false
+id: tambacounda
+tags: bau_stoff_wechsel
+title: "Zu Iwans Baans Aufnahmen des Tambacounda-Hospitals von Manuel Herz"
+date: 2024-08-12
+---
 
 **Iwan Baan**
 
-***Manuel Herz, Tambacounda Hospital, Senegal***
+**Manuel Herz, Tambacounda Hospital, Senegal**
 
 **2021**
 
@@ -20,4 +20,4 @@ Iwan Baan zeigt Architektur im Kontext ihrer Entstehung, ihres sozialen, ökonom
 
 Text: Martin Grabner
 
-</body>
+

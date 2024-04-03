@@ -1,0 +1,30 @@
+{
+  "media": [
+    {
+      "src": "./assets/pics/2023/arch_portraits/off_g_doku_1.jpg",
+      "alt": "Panorama: Detail",
+      "caption": "(c) Simona Reisch"
+    },
+    {
+      "src":  "./assets/pics/2023/arch_portraits/off_g_doku_2.jpg",
+      "alt": "Panorama: Detail",
+      "caption": "(c) Simona Reisch"
+    },
+    {
+      "src": "./assets/pics/2023/arch_portraits/off_g_doku_3.jpg",
+      "alt": "Panorama: Detail",
+      "caption": "(c) Simona Reisch"
+    },
+    {
+      "src":  "./assets/pics/2023/arch_portraits/off_g_doku_4.jpg",
+      "alt": "Panorama: Detail",
+      "caption": "(c) Simona Reisch"
+    },
+    {
+      "src": "./assets/pics/2023/arch_portraits/off_g_doku_5.jpg",
+      "alt": "Panorama: Detail",
+      "caption": "(c) Simona Reisch"
+    }
+    
+  ]
+}

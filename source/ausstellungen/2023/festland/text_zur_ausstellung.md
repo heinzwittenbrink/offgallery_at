@@ -3,7 +3,7 @@ permalink: false
 id: biographie_michael_goldgruber
 tags: festland
 title: |
-  Heinz Wittenbrink: Zu Michael Goldgrubers Installation „Festland“
+  Zu Michael Goldgrubers Installation „Festland“
 
 date: 2024-05-15
 --- 
@@ -27,4 +27,4 @@ Natur außerhalb der menschlichen Gesellschaft. Die Natur, der wir in Michael Go
 Dass diese Aufzeichnungen erkennbar technisch produziert wurden, macht sie nicht zu etwas Subjektivem. Die Sorgfalt der Aufzeichnungen und der Reproduktion ermöglicht vielmehr Bilder, die unseren subjektiven Vorstellungen von natürlichen Phänomenen und ihrer Ordnung widersprechen. Die Bilder lassen sich mit Präparaten oder Experimenten vergleichen, die Gegenstände besser erfassbar machen, weil sie sie aus ihren
 Zusammenhängen lösen und verfremden. Wie bei Präparaten und Experimenten nehmen wir nicht das ganze Phänomen wahr. Wenn wir über die Bilder und ihre Wahrnehmung reflektieren, erkennen wir, wie groß die Bereiche des Nicht-Sichtbaren, nicht Erfassbaren und auch nicht Beherrschbaren sind.
 
-*Heinz Wittenbrink*
+Text: Heinz Wittenbrink

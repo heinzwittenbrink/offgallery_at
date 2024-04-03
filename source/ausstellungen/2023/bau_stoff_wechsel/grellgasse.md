@@ -1,3 +1,12 @@
+---
+permalink: false
+id: grellgasse
+tags: bau_stoff_wechsel
+title: "Zu Grellgasse, Wien"
+date: 2024-08-14
+---
+
+
 **Benedikt Novak, HarvestMAP eGen, Daniel Hawelka**
 
 ***materialnomaden, Grellgasse, Wien***
@@ -11,3 +20,5 @@ Als Pioniere für zirkuläres Design verstehen die materialnomaden die gebaute U
 Die Fotografien zeigen die Bauteile als Ressource in verschiedenen Phasen eines werthaltigen Materialkreislaufs – beim „urban mining“ auf der Rückbaustelle und in neuen Verwendungen mit architektonischem und gestalterischem Mehrwert. Die dokumentarische Bildsprache entspricht den Anforderungen des Prozesses: als Vermessung des Vorgefundenen, Kategorisierung und neutrale Präsentation in einem Bauteilkatalog, wie er für auch neue Produkte üblich ist.
 
 Text: Martin Grabner
+
+
