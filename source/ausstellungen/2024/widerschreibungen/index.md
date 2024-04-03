@@ -1,5 +1,5 @@
 ---
-title: "Alfred Resch: Widerschreibungen"
+title: "Alfred Resch-Díaz: Widerschreibungen"
 permalink: /ausstellungen/2024/widerschreibungen/
 author: Heinz Wittenbrink
 tags:
@@ -9,7 +9,7 @@ tags:
 date: "2024-04-16"
 teaser: |-
     Alfred Resch-Díaz beschäftigt sich in seiner Arbeit oft mit den Beziehungen von künstlerischer und architektonischer Intervention und Natur. In Widerschreibungen gehen wir Geschichte und Kontext der Landschaftstastatur nach, die er 2002 im Lechtaler Gebirge installiert hat. 
-artists: Alfred Resch
+artists: Alfred Resch-Díaz
 layout: event.njk
 eventtype: Vernissage
 teaser_image: ["2024/widerschreibungen/werke/alfred-resch-landschaftstastatur-2002-bild-helene-keller-2023", "Alfred Resch: Landschaftstastatur (2002). Bild: Helene Keller (2023)"]

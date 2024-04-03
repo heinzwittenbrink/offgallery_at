@@ -272,72 +272,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/README/</loc>
-            <lastmod>2023-01-17T16:07:42.019Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/allgemein/impressum/</loc>
-            <lastmod>2023-01-17T16:07:54.603Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/allgemein/mitglied-werden/</loc>
-            <lastmod>2023-01-17T16:07:54.603Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/allgemein/ueber_uns/</loc>
-            <lastmod>2023-01-17T16:07:54.603Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/zur-ausstellung/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2021/orte-die-warten/ueber-orte-die-warten/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/betonicus/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/fassade/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/villa-rosa/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/</loc>
-            <lastmod>2023-01-17T16:07:57.491Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/partner/landsteiermark/</loc>
-            <lastmod>2023-01-17T16:07:57.495Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2023/bau_stoff_wechsel/</loc>
             <lastmod>2023-01-24T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -377,42 +311,6 @@
             <loc>https://offgallery.at/ausstellungen/2023/arch_portraits/opening/</loc>
             <lastmod>2023-04-14T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/discontinuity/galerie/eva_holts_naked_and_homeless_help_each_other/</loc>
-            <lastmod>2023-04-30T16:06:54.798Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2021/discontinuity/my_reflection_about_the_war_in_ukraine/</loc>
-            <lastmod>2023-04-30T17:50:16.394Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/discontinuity/galerie/victoria_likholiot_2022_03_04/</loc>
-            <lastmod>2023-05-01T14:04:24.810Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wartime-diary/</loc>
-            <lastmod>2023-05-01T14:08:47.291Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/discontinuity/galerie/anton_malynovskyi_1_month/</loc>
-            <lastmod>2023-05-01T15:34:54.273Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wind_of_change/</loc>
-            <lastmod>2023-05-01T15:51:19.203Z</lastmod>
-            <changefreq>yearly</changefreq>
         </url>
     
         <url>
@@ -464,24 +362,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/index-english/</loc>
-            <lastmod>2023-09-23T10:06:26.541Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2021/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
-            <lastmod>2023-11-06T17:37:06.666Z</lastmod>
-            <changefreq>monthly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/blog/</loc>
-            <lastmod>2023-11-06T17:37:06.666Z</lastmod>
-            <changefreq>daily</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2023/eine-ahnung-von-wildnis/</loc>
             <lastmod>2023-11-16T00:00:00.000Z</lastmod>
             <changefreq>monthly</changefreq>
@@ -491,12 +371,6 @@
             <loc>https://offgallery.at/ausstellungen/2023/eine-ahnung-von-wildnis/opening/</loc>
             <lastmod>2023-11-16T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2023/eine-ahnung-von-wildnis/galerie/</loc>
-            <lastmod>2023-11-16T15:01:53.040Z</lastmod>
-            <changefreq></changefreq>
         </url>
     
         <url>
@@ -512,110 +386,8 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
-            <lastmod>2024-03-18T12:42:10.182Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/moving-mountains/materialien/</loc>
-            <lastmod>2024-03-18T12:45:28.149Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-living-with-the-wall/</loc>
-            <lastmod>2024-03-18T12:50:29.966Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-markets-mercat-dels-enchants/</loc>
-            <lastmod>2024-03-18T13:01:36.704Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-real-estate-nationalism-under-occupation/</loc>
-            <lastmod>2024-03-18T13:03:30.214Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-transformation-ldn/</loc>
-            <lastmod>2024-03-18T13:04:46.664Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-view-from-a-hill-philopappos/</loc>
-            <lastmod>2024-03-18T13:06:05.757Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-behind-the-white-city/</loc>
-            <lastmod>2024-03-18T13:08:00.118Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-white-noise-white-voice/</loc>
-            <lastmod>2024-03-18T13:08:55.335Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
-            <lastmod>2024-03-19T09:18:13.797Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
-            <lastmod>2024-03-19T09:18:31.005Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
-            <lastmod>2024-03-19T09:19:08.585Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
-            <lastmod>2024-03-19T09:20:38.017Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
-            <lastmod>2024-03-19T09:21:30.146Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
-            <lastmod>2024-03-19T09:22:11.166Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
-            <lastmod>2024-03-19T09:23:17.270Z</lastmod>
-            <changefreq>yearly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2023/rueckblick/</loc>
             <lastmod>2024-03-27T00:00:00.000Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/allgemein/rueckblick2023/</loc>
-            <lastmod>2024-03-27T10:52:10.397Z</lastmod>
             <changefreq></changefreq>
         </url>
     
@@ -626,15 +398,243 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at/README/</loc>
+            <lastmod>2024-04-03T15:03:57.613Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/impressum/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/rueckblick2023/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/mitglied-werden/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/ueber_uns/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/moving-mountains/galerie/ulrike-mayrhuber-moving-mountains-01/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/moving-mountains/materialien/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-erratic-universe-of-yona-friedman/galerie/stefano-graziani-the-erratic-universe-of-yona-friedman-1/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-behind-the-white-city/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-living-with-the-wall/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-markets-mercat-dels-enchants/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-real-estate-nationalism-under-occupation/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-transformation-ldn/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-view-from-a-hill-philopappos/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/the-promise-of-the-city/martin-grabner-white-noise-white-voice/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/galerie/kinga-toth-wir-bauen-eine-stadt-auf-bakterien-fokussiert/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2019/wir-bauen-eine-stadt/kuenstlergespraech_kinga_toth/</loc>
+            <lastmod>2024-04-03T15:03:57.617Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/galerie/ditz-fejer-fressnitz-bar/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/zur-ausstellung/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/orte-die-warten/ueber-orte-die-warten/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/vitrine-en-cours/galerie/bibliotheque-nationale/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>monthly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/discontinuity/galerie/eva_holts_naked_and_homeless_help_each_other/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2021/discontinuity/my_reflection_about_the_war_in_ukraine/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/discontinuity/galerie/victoria_likholiot_2022_03_04/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wartime-diary/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/discontinuity/galerie/anton_malynovskyi_1_month/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/discontinuity/wind_of_change/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-betonicus-01/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/betonicus/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-facade-1/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/fassade/</loc>
+            <lastmod>2024-04-03T15:03:57.621Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/galerie/lana-stojicevic-villa-roza-1/</loc>
+            <lastmod>2024-04-03T15:03:57.625Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2022/mises-en-scene/villa-rosa/</loc>
+            <lastmod>2024-04-03T15:03:57.625Z</lastmod>
+            <changefreq>yearly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2023/eine-ahnung-von-wildnis/galerie/</loc>
+            <lastmod>2024-04-03T15:03:57.629Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/index-english/</loc>
+            <lastmod>2024-04-03T15:03:57.645Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/2024/widerschreibungen/opening/</loc>
-            <lastmod>2024-04-02T07:11:32.432Z</lastmod>
+            <lastmod>2024-04-03T15:03:57.649Z</lastmod>
             <changefreq></changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/ausstellungen/</loc>
-            <lastmod>2024-04-03T09:06:04.021Z</lastmod>
+            <lastmod>2024-04-03T15:03:57.649Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/blog/</loc>
+            <lastmod>2024-04-03T15:03:57.653Z</lastmod>
+            <changefreq>daily</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/</loc>
+            <lastmod>2024-04-03T15:03:57.653Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/partner/landsteiermark/</loc>
+            <lastmod>2024-04-03T15:03:57.653Z</lastmod>
+            <changefreq>monthly</changefreq>
         </url>
     
         <url>
