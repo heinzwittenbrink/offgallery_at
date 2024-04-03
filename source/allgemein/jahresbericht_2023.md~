@@ -1,0 +1,38 @@
+---
+layout: base_nofollow.njk
+permalink: /allgemein/rueckblick2023/
+---
+
+# off_gallery graz – Projektbericht 2023
+
+{%- for rueckblick in collections.rueckblick2023 -%}
+<section>
+{{ rueckblick.content }}
+</section>
+{%- endfor -%}
+
+<br/>
+
+## Ausstellungen und Veranstaltungen im Jahr 2023
+
+
+{%- for ausstellung in collections.ausstellung2023 -%}
+
+
+{% if ausstellung.data.permalink != "/ausstellungen/2023/bau_stoff_wechsel/" %}
+{% if ausstellung.data.permalink != "/ausstellungen/2023/potenzial-des-unscheinbaren/" %}
+
+<section>
+
+{{ ausstellung.content }}
+</section>
+{% endif %}
+{% endif %}
+
+{%- endfor -%}
+
+
+
+## Zusätzliche Veranstaltungen / Host Month
+
+### Veränderungen gegenüber der Planung für 2021 (Korrigierte Version der “Beilage zum Jahresprogramm 2022” vom Main 2022”)

@@ -1,0 +1,49 @@
+---
+title: |-
+  Bau_Stoff_Wechsel: Bilder regenerativer Architektur
+permalink: /ausstellungen/2023/bau_stoff_wechsel/opening/
+redirectFrom: /events/opening-baustoffwechsel/
+author: Heinz Wittenbrink
+eventtype: "Eröffnung"
+tags:
+- ausstellung
+date: "2023-01-24"
+teaser: |-
+    Eine Architekturfotografie, die Gebautes nicht nur abbilden, sondern erfahrbar machen und mitgestalten will, muss in der beginnenden Realität des klimagerechten und regenerativen Bauens auch ihre Praktiken und ihre Ästhetik verändern. Wir fragen danach, ob sich schon etwas von diesen Veränderungen abzeichnet und wie sie aussehen können.
+layout: blog.njk
+teaser_image: ["iwan_baan_tambacounda_1", "(c) Iwan Baan"]
+image: ["iwan_baan_tambacounda_1", "(c) Iwan Baan"]
+quote:
+
+---
+</br>
+
+
+**Bau_Stoff_Wechsel – Bilder regenerativer Architektur**
+
+**Vernissage: 24.01.2023 um 19:30 Uhr**
+
+**Geöffnet: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
+
+**Griesgasse 31, 8020 Graz**
+
+</br>
+
+Verändert sich die Architekturfotografie, weil sich die Architektur verändern muss?
+
+Das Bauen, an das wir gewöhnt sind, ist ein Beitrag zum Ökozid. So formuliert es Pedro Gadanho in seinem Buch “Climax Change!” Die Bauwirtschaft trägt rund 40% zum Ausstoß an Treibhausgasen bei, einen erheblichen Teil davon durch Zement und andere energieintensive Baustoffe wie Stahl. Die Versiegelung von Boden durch neue Gebäude und Infrastruktur erschwert die Anpassung an ein immer heißeres Klima. Bauen, das mit den planetaren Grenzen vereinbar ist, wird ganz anders aussehen.
+
+Immer mehr Architektinnen und Architekten beziehen diese Tatsachen in ihre Entwürfe und Planungen mit ein. Es wird mit anderen Baustoffen gebaut, die Beziehungen von Architektur, Stadt und Landschaft werden neu definiert. 
+
+Wir haben für die Ausstellung **Bau_Stoff_Wechsel** nach Praktiken in der Architekturfotografie gesucht, die auf diesen Paradigmenwechsel antworten. Wir zeigen drei ganz unterschiedliche Zugänge:
+
+* **Iwan Baan** hat einen Hospitalbau im Senegal fotografiert, der mit vor Ort produzierten Ziegeln auskommt und ohne energiefressende Technik vor Sonne und Hitze schützt. Dabei funktioniert er in Entwicklung und Nutzung gemeinschaftsbildend und ist der Bauhaustradition verpflichtet.
+* **Lara Jacinto** hat Baumaterialien des portugiesischen Atelier Gorvell fotografiert, das sich einem radikalen on-site-recycling verschrieben hat und sich in einer Ausstellung mit dem Material Stein als konkretem und abstraktem Material beschäftigt hat. Jacinto macht Material als eine wesentliche Komponente nachhaltiger Architektur erfahrbar.
+* Die Wiener **materialnomaden** verstehen als Pioniere für zirkuläres Design die gebaute Umwelt als Ressource. Im Rückbau “ernten” sie Bauteile, die dann in neuer – oft überraschender – Form weitere werthaltige Verwendung finden. Die Fotos sind nicht nur Dokumente, sondern auch Entwürfe regenerierter und regenerativer architektonischerRäume.
+
+Die Ausstellung soll Anlass für Diskussionen und weitere Recherchen sein. Wir freuen uns auf die Anregungen und Überlegungen unserer Gäste. 
+
+Kuratiert haben die Ausstellung Martin Grabner und Heinz Wittenbrink.
+<div>
+Bild: (c) Iwan Baan
+</div>

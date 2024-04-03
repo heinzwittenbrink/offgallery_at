@@ -1,0 +1,19 @@
+{
+  "media": [
+    {
+      "src": "./assets/pics/2023/erich-kees-elisabeth-kraus/ansichten/kees-kraus-galerie-1.jpg",
+      "alt": "Ausstellung Erich Kees – Elisabeth Kraus: Detail",
+      "caption": "Foto: Heinz Wittenbrink"
+    },
+    {
+      "src":  "./assets/pics/2023/erich-kees-elisabeth-kraus/ansichten/kees-kraus-galerie-2.jpg",
+      "alt": "Ausstellung Erich Kees – Elisabeth Kraus: Detail",
+      "caption": "Foto: Heinz Wittenbrink"
+    },
+    {
+      "src": "./assets/pics/2023/erich-kees-elisabeth-kraus/ansichten/kees-kraus-galerie-3.jpg",
+      "alt": "Ausstellung Erich Kees – Elisabeth Kraus: Detail",
+      "caption": "Foto: Heinz Wittenbrink"
+    }    
+  ]
+}

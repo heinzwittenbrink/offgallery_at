@@ -20,6 +20,18 @@ const html = (strings, ...expressions) => {
 };
 
 module.exports = function (eleventyConfig) {
+
+
+    eleventyConfig.addPassthroughCopy("assets/css");
+    eleventyConfig.addPassthroughCopy("assets/fonts");
+    eleventyConfig.addPassthroughCopy("assets/svg");
+
+
+
+
+
+
+    
   eleventyConfig.addPlugin(rollupPlugin, {
     rollupOptions: {
       output: {
@@ -51,6 +63,11 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromISO(dateString).toFormat(formatString);
   });
 
+
+    eleventyConfig.addFilter('is_string', function(obj) {
+    return typeof obj == 'string'
+  })
+    
   eleventyConfig.addFilter("renderPicture", async (imageName) => {
     // throw if imageName is not an array where the first two elements are strings:
     if (
@@ -183,7 +200,19 @@ module.exports = function (eleventyConfig) {
       "svg",
     ],
     dir: {
-      output: "_site",
+	output: "_site",
+	input: "source"
     },
   };
 };
+
+var md = require('markdown-it')({
+    html: true,
+    linkify: true
+})
+.use(require('markdown-it-replace-link'), {
+    processHTML: true, // defaults to false for backwards compatibility
+    replaceLink: function (link, env, token, htmlToken) {
+        return link + "?c=" + Date.now();
+    }
+})
