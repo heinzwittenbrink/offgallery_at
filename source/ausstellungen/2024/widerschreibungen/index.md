@@ -31,7 +31,7 @@ quote:
 
 **Eröffnung: Di, 16.4.2024, 19 Uhr; Einführung: Tanja Gurke; Musikalischer Beitrag: Matthias Forenbacher**
 
-**Künstlergespräch: 7.5.2024, 19 Uhr**
+**Künstlergespräch: 4.5.2024, 19 Uhr**
 
 
 <br/>
