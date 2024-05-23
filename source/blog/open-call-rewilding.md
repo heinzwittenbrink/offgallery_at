@@ -25,7 +25,7 @@ quote:
 **Jury:** Zita Oberwalder, Martin Grabner, Paolo Rosselli, Anastasija Georgi
 <br/>
 <br/>
-(English version [below](#english_version))
+(English version below)
 </br>
 </br>
 Durch das freiwillige oder unfreiwillige Zulassen von Wildnis in der Stadt verändern sich öffentliche Räume. Pflanzen, Tiere und Ökosysteme gestalten diese Räume mit. Von Rewilding, also „Wiederverwilderung“, kann man sprechen, wenn dabei auf planerische Eingriffe wenigstens teilweise verzichtet wird.
