@@ -1,6 +1,6 @@
 ---
 title: |-
-  Einsendefrist bis zum 5.3: Rewilding the city
+  Einsendefrist bis zum 5.3: Rewilding the City
 author: Heinz Wittenbrink
 eventtype: "Open Call"
 permalink: /ausstellungen/2024/rewilding-the-city/open-call
@@ -9,7 +9,7 @@ tags:
 - featured
 date: "2024-05-23"
 teaser: |-
-  Wir laden dazu ein, uns für unsere nächste Ausstellung Fotos und Fotoserien zum Thema „Rewilding the city” zu schicken. Uns interessieren fotografische Recherchen zur Wildnis in städtischen Räumen. Dabei kann es genauso um die menschlichen wie um die nichtmenschlichen Beteiligten gehen, um lange anhaltende Entwicklungen wie um kurze Begegnungen, um Harmonie wie um Konflikte.
+  Wir laden dazu ein, uns für unsere nächste Ausstellung Fotos und Fotoserien zum Thema „Rewilding the City” zu schicken. 
 
 layout: blog.njk
 teaser_image: ["between_the_lines", "(c): off_gallery"]
@@ -21,7 +21,7 @@ quote:
 
 **Einsende-Adresse:** <rewilding@offgallery.at>
 
-**Abgabedatum:** **30.6.2024*
+**Abgabedatum:** **30.6.2024**
 
 **Jury:** Zita Oberwalder, Martin Grabner, Paolo Rosselli, Anastasija Georgi
 <br/>
@@ -56,10 +56,13 @@ Anastasija Georgi – Martin Grabner – Paolo Rosselli – Heinz Wittenbrink
 
 </br>
 </br>
-<p id="english_version">Dear friends of off_gallery,</p>
+---
 </br>
 </br>
-We would like to invite you to send us photos and photo series on the subject of "Rewilding the city" for an exhibition.
+<p id="english_version"></p>
+</br>
+</br>
+We would like to invite you to send us photos and photo series on the subject of "Rewilding the City" for an exhibition.
 </br>
 </br>
 By voluntarily or involuntarily allowing wilderness in the city, public spaces change. Plants, animals and ecosystems help to shape these spaces. We can speak of rewilding when planning interventions are at least partially avoided.
@@ -81,7 +84,7 @@ Graz, 23.5.2024
 
 </br>
 </br>
-Anastasija Gerorgi - Martin Grabner - Paolo Rosselli - Heinz Wittenbrink
+Anastasija Georgi - Martin Grabner - Paolo Rosselli - Heinz Wittenbrink
 
 </br>
 </br>
