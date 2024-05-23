@@ -3,7 +3,6 @@ title: |-
   Einsendefrist bis zum 5.3: Rewilding the City
 author: Heinz Wittenbrink
 eventtype: "Open Call"
-permalink: /ausstellungen/2024/rewilding-the-city/open-call
 tags:
 - blog
 - featured
