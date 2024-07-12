@@ -1,5 +1,5 @@
 ---
-title: "Open Call: Rewilding the City"
+title: "Eröffnung: Rewilding the City"
 permalink: /ausstellungen/2024/rewilding-the-city/
 author: Heinz Wittenbrink
 tags:
@@ -23,7 +23,7 @@ quote:
 <br/>
 
 
-(English version <a href="#english version">below</a>)
+*(English version below)*
 
 <br/>
 
@@ -72,7 +72,7 @@ Wir freuen uns auf die Ausstellung und eine sommerliche Vernissage am kommenden 
 
 <br/>
 
-<p id="english_version">English version</p>
+*English version*
 
 <br/>
 
