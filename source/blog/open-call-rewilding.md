@@ -4,18 +4,18 @@ title: |-
 author: Heinz Wittenbrink
 eventtype: "Open Call"
 tags:
-- blog
-- featured
+  - blog
+  - featured
 date: "2024-05-23"
 teaser: |-
-  Wir laden dazu ein, uns für unsere nächste Ausstellung Fotos und Fotoserien zum Thema „Rewilding the City” zu schicken. 
+  Wir laden dazu ein, uns für unsere nächste Ausstellung Fotos und Fotoserien zum Thema „Rewilding the City” zu schicken.
 
 layout: blog.njk
 teaser_image: ["between_the_lines", "(c): off_gallery"]
-image:  ["between_the_lines", "(c): off_gallery"]
+image: ["between_the_lines", "(c): off_gallery"]
 quote:
-
 ---
+
 <br/>
 
 **Einsende-Adresse:** <rewilding@offgallery.at>
@@ -25,7 +25,7 @@ quote:
 **Jury:** Zita Oberwalder, Martin Grabner, Paolo Rosselli, Anastasija Georgi
 <br/>
 <br/>
-(English version below)
+<a href="#english_version">English version below</a>
 </br>
 </br>
 Durch das freiwillige oder unfreiwillige Zulassen von Wildnis in der Stadt verändern sich öffentliche Räume. Pflanzen, Tiere und Ökosysteme gestalten diese Räume mit. Von Rewilding, also „Wiederverwilderung“, kann man sprechen, wenn dabei auf planerische Eingriffe wenigstens teilweise verzichtet wird.
@@ -37,10 +37,10 @@ Uns interessieren fotografische Recherchen zur Wildnis in städtischen Räumen. 
 Wir bitten um Einsendung von maximal drei Einzelbildern und/oder einer Serie von maximal acht Bildern. Wir werden alle eingesendeten Bilder digital zeigen. Eine Jury (Martin Grabner, Zita Oberwalder, Anastasija Georgi, Paolo Rosselli) wird Bilder auswählen, die wir gedruckt in der Galerie präsentieren.
 </br>
 </br>
-Wir bitten alle an der Teilnahme Interessierten, Links zu den Bilddateien oder die Bilder selbst bis zum 30.6.2024 an rewilding@offgallery.at zu schicken. Nach der Entscheidung der Jury werden wir per Mail  mitteilen, welche Bilder für die analoge Ausstellung ausgewählt wurden.  Wir werden dann alle Urheber*innen bitten, die Erlaubnis zur analogen  bzw. digitalen Ausstellung zu erteilen.  
+Wir bitten alle an der Teilnahme Interessierten, Links zu den Bilddateien oder die Bilder selbst bis zum 30.6.2024 an rewilding@offgallery.at zu schicken. Nach der Entscheidung der Jury werden wir per Mail mitteilen, welche Bilder für die analoge Ausstellung ausgewählt wurden. Wir werden dann alle Urheber\*innen bitten, die Erlaubnis zur analogen bzw. digitalen Ausstellung zu erteilen.  
 </br>
 </br>
-Die Bilder sollten mit einer Auflösung von 240dpi eine Druckversion  von mindestens 50 cm für die längere Seite erlauben, d.h. dass die  längere Seite mindestens 4700 Pixel breit oder hoch sein sollte.  
+Die Bilder sollten mit einer Auflösung von 240dpi eine Druckversion von mindestens 50 cm für die längere Seite erlauben, d.h. dass die längere Seite mindestens 4700 Pixel breit oder hoch sein sollte.  
 </br>
 </br>
 Graz, 23.5.2024
@@ -55,7 +55,10 @@ Anastasija Georgi – Martin Grabner – Paolo Rosselli – Heinz Wittenbrink
 
 </br>
 </br>
+
 ---
+
+<div lang="en">
 </br>
 </br>
 <p id="english_version"></p>
@@ -88,3 +91,5 @@ Anastasija Georgi - Martin Grabner - Paolo Rosselli - Heinz Wittenbrink
 </br>
 </br>
 (The attached image is intended as a symbolic image and should not limit your creativity).
+
+</div>
