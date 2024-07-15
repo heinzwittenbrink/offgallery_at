@@ -887,7 +887,7 @@ quote:
     <h3>slide-show Images (smaller slides, smaller gap, snap to center)</h2>
     <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px;--slide-show-slide-height: 100%;">
       <slide-show>
-        <ul class="slide-show" style="--slide-show-gap:1rem; --slide-show-slide-width: calc(50% - 1rem); --slide-show-slide-snap-align: center;">
+        <ul class="slide-show" style="--slide-show-gap:1rem; : calc(50% - 1rem); --slide-show-slide-snap-align: center;">
           <li class="slide-show__slide">
             {% image "./assets/pics/grauzonen-opening/grauzonen-opening-4.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Phosphor-Schlamm bei Kutina. Aus „Imported Desert“ von Bojan Mrđenović. (c) Bojan Mrđenović" %}
           </li>

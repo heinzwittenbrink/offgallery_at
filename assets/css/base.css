@@ -1,91 +1,78 @@
 /* Lora: specify static fallbacks for old browsers that don't do variable fonts */
- 
-@font-face
-{
-    font-family: Lora;
-    src: url('static/Lora-Regular.woff2') format('woff2'),
-         url('static/Lora-Regular.woff')  format('woff');
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-}
- 
-@font-face
-{
-    font-family: Lora;
-    src: url('static/Lora-Italic.woff2') format('woff2'),
-         url('static/Lora-Italic.woff')  format('woff');
-    font-weight: 400;
-    font-style: italic;
-    font-display: swap;
-}
- 
-@font-face
-{
-    font-family: Lora;
-    src: url('static/Lora-Bold.woff2') format('woff2'),
-         url('static/Lora-Bold.woff')  format('woff');
-    font-weight: 700;
-    font-style: normal;
-    font-display: swap;
-}
- 
-@font-face
-{
-    font-family: Lora;
-    src: url('static/Lora-BoldItalic.woff2') format('woff2'),
-         url('static/Lora-BoldItalic.woff')  format('woff');
-    font-weight: 700;
-    font-style: italic;
-    font-display: swap;
+
+@font-face {
+  font-family: Lora;
+  src: url("static/Lora-Regular.woff2") format("woff2"),
+    url("static/Lora-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
+@font-face {
+  font-family: Lora;
+  src: url("static/Lora-Italic.woff2") format("woff2"),
+    url("static/Lora-Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lora;
+  src: url("static/Lora-Bold.woff2") format("woff2"),
+    url("static/Lora-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lora;
+  src: url("static/Lora-BoldItalic.woff2") format("woff2"),
+    url("static/Lora-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
 
 /* override with the variable font for modern browsers, using ALL of the style combos above */
- 
-@supports (font-variation-settings : normal)
-{
- 
-    @font-face
-    {
-        font-family: Lora;
-        src: url('Lora-VariableFont_wght.woff2') format('woff2');
-        font-weight: 400;
-        font-style: normal;
-        font-display: swap;
-    }
- 
-    @font-face
-    {
-        font-family: Lora;
-        src: url('Lora-Italic-VariableFont_wght.woff2') format('woff2');
-        font-weight: 400;
-        font-style: italic;
-        font-display: swap;
-    }
- 
-    @font-face
-    {
-        font-family: Lora;
-        src: url('Lora-VariableFont_wght.woff2') format('woff2');
-        font-weight: 700;
-        font-style: normal;
-        font-display: swap;
-    }
- 
-    @font-face
-    {
-        font-family: Lora;
-        src: url('Lora-Italic-VariableFont_wght.woff2') format('woff2');
-        font-weight: 700;
-        font-style: italic;
-        font-display: swap;
-    }
- 
+
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-family: Lora;
+    src: url("Lora-VariableFont_wght.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: Lora;
+    src: url("Lora-Italic-VariableFont_wght.woff2") format("woff2");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: Lora;
+    src: url("Lora-VariableFont_wght.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: Lora;
+    src: url("Lora-Italic-VariableFont_wght.woff2") format("woff2");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
 }
 
 /* Bis hierhin aus: https://snippets.webaware.com.au/snippets/variable-fonts-legacy-fallback/ */
-
 
 /* arvo-regular - latin */
 @font-face {
@@ -171,12 +158,15 @@ body {
   font-family: "Lora", serif;
 }
 
-p.strong
-{
-    font-variation-settings: "wght" 650;
+p.strong {
+  font-variation-settings: "wght" 650;
 }
 
-footer, nav ul li {font-family: "PT Sans", sans-serif; font-weight: 500;}
+footer,
+nav ul li {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 500;
+}
 
 h1,
 h2,
@@ -214,6 +204,10 @@ section > ul > li strong {
 
 main {
   flex: 1;
+}
+
+main > * {
+  margin: 0 auto;
 }
 
 main ul {
@@ -349,6 +343,12 @@ header ul {
   justify-content: space-between;
 }
 
+@media screen and (min-width: 60em) {
+  header ul {
+    justify-content: start;
+  }
+}
+
 /* footer */
 
 footer {
@@ -368,13 +368,16 @@ footer li img {
   margin-right: 8px;
 }
 
-footer li img.logo { width: 10em;
+footer li img.logo {
+  width: 10em;
 }
 footer a {
   color: white;
 }
 
-footer ul#logos li {margin-top: 0px;}
+footer ul#logos li {
+  margin-top: 0px;
+}
 
 footer ul#subscribe {
   display: flex;
@@ -397,12 +400,11 @@ footer ul#subscribe {
 
   header ul {
     display: flex;
-    justify-content: flex-end;
     align-items: center;
   }
 
-  header ul li {
-    margin-left: 7em;
+  header ul li:not(:first-child) {
+    margin-left: 2em;
   }
 
   header ul li a {
@@ -412,8 +414,8 @@ footer ul#subscribe {
   }
 
   header ul > li:first-of-type {
-    margin-right: auto;
-    margin-left: none;
+    /* margin-right: auto;
+    margin-left: none; */
   }
 
   header li img {
@@ -449,6 +451,10 @@ details,
 ul {
   padding: 2em;
   max-width: 45em;
+}
+
+header > nav > ul {
+  margin: 0 auto;
 }
 
 header ul,

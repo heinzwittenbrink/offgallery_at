@@ -1,0 +1,981 @@
+{
+  "media": [
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/01_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/02_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/03_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/04_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/05_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/06_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/07_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/08_eva_durovec_rewilder.jpg",
+      "alt": "Bild: Eva Durovec",
+      "caption": "Bild: Eva Durovec"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/C_Kipper_1.jpg",
+      "alt": "Bild: C Kipper",
+      "caption": "Bild: C Kipper"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/C_Kipper_2.jpg",
+      "alt": "Bild: C Kipper",
+      "caption": "Bild: C Kipper"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/C_Kipper_3.jpg",
+      "alt": "Bild: C Kipper",
+      "caption": "Bild: C Kipper"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Closer_Aleksandra_Kolodziejczyk_Karl_Wratschko.jpg",
+      "alt": "Bild: Aleksandra Kolodziejczyk and Karl Wratschko",
+      "caption": "Bild: Aleksandra Kolodziejczyk and Karl Wratschko"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-01.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-02.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-03.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-04.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-06.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic-Rewilding_the_City-07.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_Inside.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_Outside.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLAHerderbergWeidenpflStadtpark2005swInitiatorinPetraReinhart.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_WeidenpflStadtpark2005_Akteurin_&_Initiatorin_Petra_Reinhart.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_Weidenpflanzung_Stadtpark05_-_Akteurin_&_Initiatorin_Petra_Reinhart.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_WeidenpflanzungRösslmühl05_Akteurin_&_Initiatorin_Petra_Reinhart.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_WeidenpflanzungRösslmühlpark_05sw_Akteurin_&_Initiatorin_Petra_Reinhart.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_-_Wild_City.jpg",
+      "alt": "Bild: LiLA Herderberg",
+      "caption": "Bild: LiLA Herderberg"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-1.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-2.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-3.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-4.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-5.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-6.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-7.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Maksym_Romenskyi-Festa-8.jpg",
+      "alt": "Bild: Maksym Romenskyi",
+      "caption": "Bild: Maksym Romenskyi"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mara_Koschar_Rewilding_the_City.jpg",
+      "alt": "Bild: Mara Koschar",
+      "caption": "Bild: Mara Koschar"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_2.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_4.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_5.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_6.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_7.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_8.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/OffGallery_2024_Foto_1_Antonia_Friedl.jpg",
+      "alt": "Bild: Antonia Friedl",
+      "caption": "Bild: Antonia Friedl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/OffGallery_2024_Foto_3_Antonia_Friedl.jpg",
+      "alt": "Bild: Antonia Friedl",
+      "caption": "Bild: Antonia Friedl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_01.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_03.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_04.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_05.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_06.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_08.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Veronika_de_La-Mol_1.jpg",
+      "alt": "Bild: Veronika de La-Mol",
+      "caption": "Bild: Veronika de La-Mol"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Veronika_de_La-Mol_5.jpg",
+      "alt": "Bild: Veronika de La-Mol",
+      "caption": "Bild: Veronika de La-Mol"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Veronika_de_La-Mol_7.jpg",
+      "alt": "Bild: Veronika de La-Mol",
+      "caption": "Bild: Veronika de La-Mol"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/angelika_thon_rewilding_the_city_01_2023©_an.thon.jpg",
+      "alt": "Bild: Angelika Thon",
+      "caption": "Bild: Angelika Thon"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/angelika_thon_rewilding_the_city_02_2023©_an.thon.jpg",
+      "alt": "Bild: Angelika Thon",
+      "caption": "Bild: Angelika Thon"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/angelika_thon_rewilding_the_city_03_2023©_an.thon.jpg",
+      "alt": "Bild: Angelika Thon",
+      "caption": "Bild: Angelika Thon"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/beate_katschnig_rewilding1.jpg",
+      "alt": "Bild: Beate Katschnig",
+      "caption": "Bild: Beate Katschnig"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/beate_katschnig_rewilding2.jpg",
+      "alt": "Bild: Beate Katschnig",
+      "caption": "Bild: Beate Katschnig"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/beate_katschnig_rewilding3.jpg",
+      "alt": "Bild: Beate Katschnig",
+      "caption": "Bild: Beate Katschnig"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/borys_tetana_IMG_T_BORYS_KAINDORF.jpg",
+      "alt": "Bild: Borys Tetana",
+      "caption": "Bild: Borys Tetana"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/borys_tetana_IMG_T_BORYS_KAINDORF_.jpg",
+      "alt": "Bild: Borys Tetana",
+      "caption": "Bild: Borys Tetana"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/borys_tetana_IMG_T_BORYS_KAINDORF__.jpg",
+      "alt": "Bild: Borys Tetana",
+      "caption": "Bild: Borys Tetana"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_Das_Flüstern_der_Bäume_001.jpg",
+      "alt": "Bild: Christian Strobl",
+      "caption": "Bild: Christian Strobl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_Das_Flüstern_der_Bäume_002.jpg",
+      "alt": "Bild: Christian Strobl",
+      "caption": "Bild: Christian Strobl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_Rewilding_Christian_Strobl.jpg",
+      "alt": "Bild: Christian Strobl",
+      "caption": "Bild: Christian Strobl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._1.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._2.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._3.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._4.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._5..jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._6.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._7.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/claudia_reinhardt_Claudia_R._8.jpg",
+      "alt": "Bild: Claudia Reinhardt",
+      "caption": "Bild: Claudia Reinhardt"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daniel_hermes_Graz,_Austria_(2020).jpg",
+      "alt": "Bild: Daniel Hermes",
+      "caption": "Bild: Daniel Hermes"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daniel_hermes_Trieste,_Italy_(2023).jpg",
+      "alt": "Bild: Daniel Hermes",
+      "caption": "Bild: Daniel Hermes"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls02.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls03.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls04.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls05.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls06.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls07.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/egor_guschin_1.jpg",
+      "alt": "Bild: Egor Guschin",
+      "caption": "Bild: Egor Guschin"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/egor_guschin_11.jpg",
+      "alt": "Bild: Egor Guschin",
+      "caption": "Bild: Egor Guschin"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/egor_guschin_2.jpg",
+      "alt": "Bild: Egor Guschin",
+      "caption": "Bild: Egor Guschin"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/egor_guschin_6.jpg",
+      "alt": "Bild: Egor Guschin",
+      "caption": "Bild: Egor Guschin"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/egor_guschin_8.jpg",
+      "alt": "Bild: Egor Guschin",
+      "caption": "Bild: Egor Guschin"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-1.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-2.jpg.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-3.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-4.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-5.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-6.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-7.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstaller_Rewildering-Serie-8.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V-02-304-022.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V-02-328-021.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V-03-848-020.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V-03-857-032.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V-03-857-036.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_EOS300-025.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_DSCF1125.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_DSCF1375.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_DSCF1594.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_1.DSCF1163.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_2.DSCF1177.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_3.DSCF1172.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_4.DSCF1168.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_5.DSCF1147.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_6.DSCF1148.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_7.DSCF1154.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_serie_8.L1049211.JPG",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/georg_enzinger_wild_wieder_wild_(2).jpg",
+      "alt": "Bild: Georg Enzinger",
+      "caption": "Bild: Georg Enzinger"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/gertraud_enzinger_reptiles_-_back_in_town.jpg",
+      "alt": "Bild: Gertraud Enzinger",
+      "caption": "Bild: Gertraud Enzinger"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/gertrud_Fischbacher_1.jpeg",
+      "alt": "Bild: Gertrud Fischbacher",
+      "caption": "Bild: Gertrud Fischbacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/gertrud_Fischbacher_2.jpeg",
+      "alt": "Bild: Gertrud Fischbacher",
+      "caption": "Bild: Gertrud Fischbacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/helga_chibidziura_taking_back.jpg",
+      "alt": "Bild: Helga Chibidziura",
+      "caption": "Bild: Helga Chibidziura"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ilse_hollerer_DSC05370_vf.jpg",
+      "alt": "Bild: Ilse Hollerer",
+      "caption": "Bild: Ilse Hollerer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/josef_hofer_DSC_3523_Gtraz_Daungasse_.jpg",
+      "alt": "Bild: Josef Hofer",
+      "caption": "Bild: Josef Hofer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/josef_hofer_DSC_3526_Graz_Asperngasse_.jpg",
+      "alt": "Bild: Josef Hofer",
+      "caption": "Bild: Josef Hofer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/josef_hofer_DSC_3557_Graz_Burenstrasse_.jpg",
+      "alt": "Bild: Josef Hofer",
+      "caption": "Bild: Josef Hofer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/jutta_raslag_image0.jpeg",
+      "alt": "Bild: Jutta Raslag",
+      "caption": "Bild: Jutta Raslag"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/karl_zenz_Graz_Bahnhofgürtel_01.jpg",
+      "alt": "Bild: Karl Zenz",
+      "caption": "Bild: Karl Zenz"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/karl_zenz_Graz_Bahnhofgürtel_02.jpg",
+      "alt": "Bild: Karl Zenz",
+      "caption": "Bild: Karl Zenz"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/karl_zenz_Graz_Bahnhofgürtel_03.jpg",
+      "alt": "Bild: Karl Zenz",
+      "caption": "Bild: Karl Zenz"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/karl_zenz_Graz_Bahnhofgürtel_04.jpg",
+      "alt": "Bild: Karl Zenz",
+      "caption": "Bild: Karl Zenz"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/karl_zenz_Graz_Bahnhofgürtel_05.jpg",
+      "alt": "Bild: Karl Zenz",
+      "caption": "Bild: Karl Zenz"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/livia_weidl_open_call_.jpg",
+      "alt": "Bild: Livia Weidl",
+      "caption": "Bild: Livia Weidl"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE1.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE2.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE3.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE4.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE5.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE6.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE7.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/lukas_meixner_L-Meixner-PAULASGASSE8.jpg",
+      "alt": "Bild: Lukas Meixner",
+      "caption": "Bild: Lukas Meixner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_001.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_002.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_003.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_Serie01.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_Serie02.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_Serie03.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/margit_sommer_Serie04.jpg",
+      "alt": "Bild: Margit Sommer",
+      "caption": "Bild: Margit Sommer"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_1_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_3_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_4_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_5_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_6_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_7_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_8_von_Marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_2.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_3.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_4.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_6.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_7.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_8.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_120-14.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_120-16.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_120-6.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_135-01.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_4x5-2.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_4x5-3.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_1.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_2.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_3.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_4.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_5.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_6.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_7.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/peter_wagner_Am_Leonhardbach_8.jpg",
+      "alt": "Bild: Peter Wagner",
+      "caption": "Bild: Peter Wagner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/polina_shumacher_1.jpg",
+      "alt": "Bild: Polina Shumacher",
+      "caption": "Bild: Polina Shumacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/polina_shumacher_4ai.jpg",
+      "alt": "Bild: Polina Shumacher",
+      "caption": "Bild: Polina Shumacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/polina_shumacher_6.jpg",
+      "alt": "Bild: Polina Shumacher",
+      "caption": "Bild: Polina Shumacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/polina_shumacher_8.JPG",
+      "alt": "Bild: Polina Shumacher",
+      "caption": "Bild: Polina Shumacher"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reinhard_sock_0001_Rewilding_The_City_Reinhard_Sock.jpg",
+      "alt": "Bild: Reinhard Sock",
+      "caption": "Bild: Reinhard Sock"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reinhard_sock_0002_Rewilding_The_City_Reinhard_Sock.jpg",
+      "alt": "Bild: Reinhard Sock",
+      "caption": "Bild: Reinhard Sock"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reinhard_sock_0003_Rewilding_The_City_Reinhard_Sock.jpg",
+      "alt": "Bild: Reinhard Sock",
+      "caption": "Bild: Reinhard Sock"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reinhard_sock_0004_Rewilding_The_City_Reinhard_Sock.jpg",
+      "alt": "Bild: Reinhard Sock",
+      "caption": "Bild: Reinhard Sock"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reinhard_sock_0005_Rewilding_The_City_Reinhard_Sock.jpg",
+      "alt": "Bild: Reinhard Sock",
+      "caption": "Bild: Reinhard Sock"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reza_kellner_As_Far_As.jpg",
+      "alt": "Bild: Reza Kellner",
+      "caption": "Bild: Reza Kellner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reza_kellner_I_Heard_Shimmer.jpg",
+      "alt": "Bild: Reza Kellner",
+      "caption": "Bild: Reza Kellner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/reza_kellner_Passed_Immensly.jpg",
+      "alt": "Bild: Reza Kellner",
+      "caption": "Bild: Reza Kellner"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_01_Stadtstrand_verlandet_DSC_0910.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_02_Boje_verlandet_DSC_0898.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_03_Stadtstrand_verlandet_DSC_0902.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_04_Floß_verlandet_DSC_0920.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_04.06.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_05_Murgondel_verlandet_DSC_0913.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_06_Murufer_Seifenfabrik_verlandet_DSC_0894.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_07_Murufer_Seifenfabrik_DSC_0877.jpg",
+      "alt": "Bild: Sigrid Schoenfelder",
+      "caption": "Bild: Sigrid Schoenfelder"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_10.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_2_.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_3_.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_4_.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_6.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_7_.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_8.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
+    }
+  ]
+}
