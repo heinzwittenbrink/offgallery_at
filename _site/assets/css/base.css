@@ -519,7 +519,7 @@ address {
   scroll-snap-type: var(--slide-show-scroll-snap-type, x mandatory);
   margin: 0;
   padding-block-end: 0.75rem; /* space for scrollbar */
-  overscroll-behavior: contain;
+  overscroll-behavior-x: contain;
 }
 .slide-show__slide {
   display: flex;
