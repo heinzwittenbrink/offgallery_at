@@ -1,5 +1,35 @@
 {
-  "media": [
+    "media": [
+	 {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_01.s1bv.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_02.sr23.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_03.bbje.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_04.d363.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_06.wwii.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_07.lskl.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/01_eva_durovec_rewilder.3h6y.jpg",
       "alt": "Bild: Eva Durovec",
@@ -60,36 +90,7 @@
       "alt": "Bild: Aleksandra Kolodziejczyk and Karl Wratschko",
       "caption": "Bild: Aleksandra Kolodziejczyk and Karl Wratschko"
     },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_01.s1bv.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_02.sr23.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_03.bbje.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_04.d363.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_06.wwii.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
-    {
-      "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_07.lskl.jpg",
-      "alt": "Bild: Josip Artukovic",
-      "caption": "Bild: Josip Artukovic"
-    },
+   
     {
       "src": "./assets/pics/2024/rewilding-the-city/LiLA_Herderberg_Inside.qi9j.jpg",
       "alt": "Bild: LiLA Herderberg",
