@@ -106,8 +106,15 @@ export class SlideShow extends LitElement {
       const nextVisibleSlideIndex = visibleSlideIndex + 1;
       if (nextVisibleSlideIndex < this.#slides.length) {
         const nextVisibleSlide = this.#slides[nextVisibleSlideIndex];
+        const slideRect = nextVisibleSlide.getBoundingClientRect();
+        const wrapperRect = slidesWrapper.getBoundingClientRect();
+
+        // Calculate the offset of the next slide relative to the wrapper
+        const offsetLeft =
+          slideRect.left - wrapperRect.left + slidesWrapper.scrollLeft;
+
         slidesWrapper.scrollTo({
-          left: nextVisibleSlide.offsetLeft,
+          left: offsetLeft,
           behavior: "smooth",
         });
       }
@@ -125,8 +132,15 @@ export class SlideShow extends LitElement {
         visibleSlideIndex - Math.max(1, slidesPerPage);
       if (previousVisibleSlideIndex >= 0) {
         const previousVisibleSlide = this.#slides[previousVisibleSlideIndex];
+        const slideRect = previousVisibleSlide.getBoundingClientRect();
+        const wrapperRect = slidesWrapper.getBoundingClientRect();
+
+        // Calculate the offset of the previous slide relative to the wrapper
+        const offsetLeft =
+          slideRect.left - wrapperRect.left + slidesWrapper.scrollLeft;
+
         slidesWrapper.scrollTo({
-          left: previousVisibleSlide.offsetLeft,
+          left: offsetLeft,
           behavior: "smooth",
         });
       }
