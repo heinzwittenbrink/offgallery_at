@@ -80,6 +80,11 @@
       "alt": "Bild: Josip Artukovic",
       "caption": "Bild: Josip Artukovic"
     },
+       {
+      "src": "./assets/pics/2024/rewilding-the-city/josip_artukovic_rewilding_the_city_05.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_06.wwii.jpg",
       "alt": "Bild: Josip Artukovic",
@@ -87,6 +92,11 @@
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/Josip_Artukovic_Rewilding_the_City_07.lskl.jpg",
+      "alt": "Bild: Josip Artukovic",
+      "caption": "Bild: Josip Artukovic"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/josip_artukovic_rewilding_the_city_08.jpg",
       "alt": "Bild: Josip Artukovic",
       "caption": "Bild: Josip Artukovic"
     },
@@ -175,8 +185,20 @@
       "alt": "Bild: Mara Koschar",
       "caption": "Bild: Mara Koschar"
     },
+      
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/mariia_horshkova_1.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/Mariia_Horshkova_2.ws0c.jpg",
+      "alt": "Bild: Mariia Horshkova",
+      "caption": "Bild: Mariia Horshkova"
+    },
+
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/mariia_horshkova_3.jpg",
       "alt": "Bild: Mariia Horshkova",
       "caption": "Bild: Mariia Horshkova"
     },
@@ -210,6 +232,11 @@
       "alt": "Bild: Antonia Friedl",
       "caption": "Bild: Antonia Friedl"
     },
+       {
+      "src": "./assets/pics/2024/rewilding-the-city/foto_2_antonia_friedl.jpg",
+      "alt": "Bild: Antonia Friedl",
+      "caption": "Bild: Antonia Friedl"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/OffGallery_2024_Foto_3_Antonia_Friedl.cmad.jpg",
       "alt": "Bild: Antonia Friedl",
@@ -217,6 +244,11 @@
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_01.dhc1.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    },
+        {
+      "src": "./assets/pics/2024/rewilding-the-city/sieber_bernd_stadtnatur_02.jpg",
       "alt": "Bild: Bernd Sieber",
       "caption": "Bild: Bernd Sieber"
     },
@@ -237,6 +269,11 @@
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/Sieber_Bernd_Stadtnatur_06.466w.jpg",
+      "alt": "Bild: Bernd Sieber",
+      "caption": "Bild: Bernd Sieber"
+    }, 
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/sieber_bernd_stadtnatur_07.jpg",
       "alt": "Bild: Bernd Sieber",
       "caption": "Bild: Bernd Sieber"
     },
@@ -310,6 +347,15 @@
       "alt": "Bild: Christian Strobl",
       "caption": "Bild: Christian Strobl"
     },
+       {
+      "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_das_fluestern_der_baeume_003.jpg",
+      "alt": "Bild: Christian Strobl",
+      "caption": "Bild: Christian Strobl"
+    }, {
+      "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_das_fluestern_der_baeume_004.jpg",
+      "alt": "Bild: Christian Strobl",
+      "caption": "Bild: Christian Strobl"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/christian_strobl_Das_Flustern_der_Baume_002.c5vq.jpg",
       "alt": "Bild: Christian Strobl",
@@ -365,10 +411,20 @@
       "alt": "Bild: Daniel Hermes",
       "caption": "Bild: Daniel Hermes"
     },
+      {
+      "src": "./assets/pics/2024/rewilding-the-city/daniel_hermes_berlin_germany_2019.jpg",
+      "alt": "Bild: Daniel Hermes",
+      "caption": "Bild: Daniel Hermes"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/daniel_hermes_Trieste_Italy_2023.rrs5.jpg",
       "alt": "Bild: Daniel Hermes",
       "caption": "Bild: Daniel Hermes"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls01.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls02.7pxl.jpg",
@@ -397,6 +453,11 @@
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls07.v1oj.jpg",
+      "alt": "Bild: Daria Balova",
+      "caption": "Bild: Daria Balova"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/daria_balova_deafwalls08.jpg",
       "alt": "Bild: Daria Balova",
       "caption": "Bild: Daria Balova"
     },
@@ -489,6 +550,11 @@
       "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_C_1V_03_857_036.kvfr.jpg",
       "alt": "Bild: Erwin Burgstaller",
       "caption": "Bild: Erwin Burgstaller"
+    },  
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_eos300_024.jpg",
+      "alt": "Bild: Erwin Burgstaller",
+      "caption": "Bild: Erwin Burgstaller"
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/erwin_burgstalller_EOS300_025.bf3v.jpg",
@@ -505,6 +571,11 @@
       "alt": "Bild: Eva Mohringer",
       "caption": "Bild: Eva Mohringer"
     },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/eva-mohringer_dsc_1375.jpg",
+      "alt": "Bild: Eva Mohringer",
+      "caption": "Bild: Eva Mohringer"
+    },  
     {
       "src": "./assets/pics/2024/rewilding-the-city/eva_mohringer_DSCF1594.lmzw.JPG",
       "alt": "Bild: Eva Mohringer",
@@ -550,6 +621,17 @@
       "alt": "Bild: Eva Mohringer",
       "caption": "Bild: Eva Mohringer"
     },
+      
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/georg_enzinger_etwa_planlos_wild.jpg",
+      "alt": "Bild: Georg Enzinger",
+      "caption": "Bild: Georg Enzinger"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/georg_enzinger_wild_wider_wild_1.jpg",
+      "alt": "Bild: Georg Enzinger",
+      "caption": "Bild: Georg Enzinger"
+    }, 
     {
       "src": "./assets/pics/2024/rewilding-the-city/georg_enzinger_wild_wieder_wild_2.p80u.jpg",
       "alt": "Bild: Georg Enzinger",
@@ -710,6 +792,11 @@
       "alt": "Bild: Marike",
       "caption": "Bild: Marike"
     },
+       {
+      "src": "./assets/pics/2024/rewilding-the-city/marike_natural_drawings_serie_foto_2_von_marike.jpg",
+      "alt": "Bild: Marike",
+      "caption": "Bild: Marike"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/marike_Natural_Drawings_Serie_Foto_3_von_Marike.byyx.jpg",
       "alt": "Bild: Marike",
@@ -740,6 +827,11 @@
       "alt": "Bild: Marike",
       "caption": "Bild: Marike"
     },
+      {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_1.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
     {
       "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_2.uwck.jpg",
       "alt": "Bild: Nick Gladkiy",
@@ -752,6 +844,11 @@
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_4.92h0.jpg",
+      "alt": "Bild: Nick Gladkiy",
+      "caption": "Bild: Nick Gladkiy"
+    },
+        {
+      "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_5.jpg",
       "alt": "Bild: Nick Gladkiy",
       "caption": "Bild: Nick Gladkiy"
     },
@@ -769,6 +866,11 @@
       "src": "./assets/pics/2024/rewilding-the-city/nick_gladkiy_8.thq7.jpg",
       "alt": "Bild: Nick Gladkiy",
       "caption": "Bild: Nick Gladkiy"
+    },
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/28_01_ognjen_persoglio_4_5_2.jpg",
+      "alt": "Bild: Ognjen Persoglio",
+      "caption": "Bild: Ognjen Persoglio"
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/ognjen_persoglio_120_14.5nbh.jpg",
@@ -939,6 +1041,11 @@
       "src": "./assets/pics/2024/rewilding-the-city/sigrid_schoenfelder_07_Murufer_Seifenfabrik_DSC_0877.9g9r.jpg",
       "alt": "Bild: Sigrid Schoenfelder",
       "caption": "Bild: Sigrid Schoenfelder"
+    },  
+    {
+      "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_1.jpg",
+      "alt": "Bild: Yurii Naumovych",
+      "caption": "Bild: Yurii Naumovych"
     },
     {
       "src": "./assets/pics/2024/rewilding-the-city/yurii_naumovych_10.x4xb.jpg",
