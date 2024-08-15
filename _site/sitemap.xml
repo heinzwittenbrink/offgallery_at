@@ -799,4 +799,10 @@
             <changefreq></changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2024/ghosts-of-memory/</loc>
+            <lastmod>2024-08-23T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
