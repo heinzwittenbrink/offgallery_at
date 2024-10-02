@@ -50,7 +50,7 @@ Andrew Phelps wuchs in Arizona, USA auf und lebt seit 1990 als Fotograf und Kura
 <br/>
 
 <br/>
-Website von Andrew Phelps: <https://andrew-phelps.com/de/>
+Website von Andrew Phelps: <a href="https://andrew-phelps.com/" title="Andrew Phelps">https://andrew-phelps.com/</a>
 
 
 
