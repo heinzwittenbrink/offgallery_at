@@ -6,7 +6,7 @@ tags:
 - ausstellung
 - ausstellung2024
 - featured
-date: "2024-11-16"
+date: "2024-11-06"
 teaser: |-
      Am 6. November um 19:00 eröffnen wir die Ausstellung „Wald“ mit neuen Arbeiten von Heinz Pöschko. Damit setzen wir unseren Zyklus „Sehnsucht nach Wildnis“ fort.
 layout: event.njk
