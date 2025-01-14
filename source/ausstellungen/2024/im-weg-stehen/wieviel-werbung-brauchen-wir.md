@@ -58,11 +58,11 @@ Die Diskussion findet am
 
 <br/>
 statt. Sie wird von Radio Helsinki aufgezeichnet und ausgestrahlt werden.
-
 <br/>
-Mehr Informationen zur Ausstellung: <https://offgallery.at/ausstellungen/2024/im-weg-stehen>
-
 <br/>
+
+Mehr Informationen zur Ausstellung [hier](https://offgallery.at/ausstellungen/2024/im-weg-stehen/ "Leonhard Rabensteiner: Im Weg stehen").
+
 <br/>
 Bild: (c) Leonhard Rabensteiner
 <br/>
