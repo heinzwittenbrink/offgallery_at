@@ -19,8 +19,6 @@ image:  ["2024/im-weg-stehen/wieviel_werbung_brauchen_wir", "(c): Leonhard Raben
 quote:
 
 ---
-<br/>
-
 Im Rahmen der Ausstellung „Im Weg stehen“ laden wir herzlich zu einer Diskussion ein:
 <br/>
 <br/>
