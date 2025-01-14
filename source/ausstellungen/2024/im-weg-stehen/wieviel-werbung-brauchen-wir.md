@@ -1,11 +1,9 @@
 ---
-title: "Wieviel Werbung brauchen wir"
-permalink: /ausstellungen/2024/im-weg-stehen/wieviel-werbung-brauchen-wir
+title: |-
+    Wieviel Werbung brauchen wir?
+permalink: /ausstellungen/2024/im-weg-stehen/wieviel-werbung-brauchen-wir/
 author: Heinz Wittenbrink
 tags:
-- diskussion
-- veranstaltungen
-- ausstellung2024
 - featured
 date: "2025-01-21"
 teaser: |-
