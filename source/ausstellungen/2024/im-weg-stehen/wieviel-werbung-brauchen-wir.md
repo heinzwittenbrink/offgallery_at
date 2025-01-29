@@ -4,7 +4,7 @@ title: |-
 permalink: /ausstellungen/2024/im-weg-stehen/wieviel-werbung-brauchen-wir/
 author: Heinz Wittenbrink
 tags:
-- featured
+
 date: "2025-01-21"
 teaser: |-
     Im Rahmen der Ausstellung „Im Weg stehen“ laden wir am 21.1.2025 herzlich zu einer Diskussion ein: Wieviel Werbung brauchen wir? – Zur Werbung im öffentlichen Raum.

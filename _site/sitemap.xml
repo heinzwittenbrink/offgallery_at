@@ -752,12 +752,6 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/blog/artist-talk-workshop-getting-close/</loc>
-            <lastmod>2024-06-20T00:00:00.000Z</lastmod>
-            <changefreq>weekly</changefreq>
-        </url>
-    
-        <url>
             <loc>https://offgallery.at/ausstellungen/2024/rewilding-the-city/</loc>
             <lastmod>2024-07-17T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -838,6 +832,12 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2024/im-weg-stehen/wieviel-werbung-brauchen-wir/</loc>
             <lastmod>2025-01-21T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/blog/verlaengerung-im-weg-stehen/</loc>
+            <lastmod>2025-02-13T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
     
