@@ -36,6 +36,10 @@ quote:
 **Winterpause: 23.12.2024–6.1.2025**
 <br/>
 <br/>
+
+Eine Aufzeichnung der Diskussion *Wieviel Werbung brauchen wir?* findet sich hier: <https://cba.media/695431>. Danke [Radio Helsinki](https://helsinki.at/ "Radio Helsinki")!
+
+<br/>
 Im Alltag blenden wir Werbung meist aus. Sie wird uns dutzende Male am Tag aufgedrängt, ohne dass wir je Zustimmung dafür gegeben hätten. Durch das antrainierte Wegschauen werden viele Orte zu austauschbaren Nicht-Orten: Wir müssen sie durchqueren, aber wollen nicht an ihnen bleiben.
 <br/>
 <br/>

@@ -57,6 +57,13 @@ statt. Sie wird von Radio Helsinki aufgezeichnet und ausgestrahlt werden.
 <br/>
 <br/>
 
+Eine Aufzeichnung der Diskussion *Wieviel Werbung brauchen wir?* findet sich hier: <https://cba.media/695431>. Danke [Radio Helsinki](https://helsinki.at/ "Radio Helsinki")!
+
+</br>
+</br>
+
+
+
 Mehr Informationen zur Ausstellung [hier](https://offgallery.at/ausstellungen/2024/im-weg-stehen/ "Leonhard Rabensteiner: Im Weg stehen").
 
 <br/>
