@@ -5,7 +5,6 @@ author: Heinz Wittenbrink
 eventtype: "Open Call"
 tags:
   - blog
-  - featured
 date: "2024-05-23"
 teaser: |-
   Wir laden dazu ein, uns für unsere nächste Ausstellung Fotos und Fotoserien zum Thema „Rewilding the City” zu schicken.

@@ -4,7 +4,6 @@ permalink: /ausstellungen/2024/widerschreibungen/artist-talk/
 author: Heinz Wittenbrink
 tags:
 - artist_talk
-- featured
 date: "2024-05-04"
 teaser: |-
     Wir laden herzlich zu einem Künstlergespräch mit Alfred Resch-Díaz am Samstag, dem 4. Mai um 19:00 in die off_gallery ein. 
