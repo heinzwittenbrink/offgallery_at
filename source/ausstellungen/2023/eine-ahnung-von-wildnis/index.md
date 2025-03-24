@@ -18,7 +18,7 @@ image: ["christoph-grill-testudo-hermanni", "(c) Christoph Grill"]
 
 **Fotograf: Christoph Grill** 
 
-**Laufzeit: 15.11.–8.12.2924**
+**Laufzeit: 15.11.–8.12.2023**
 
 **Gestaltung: Christoph Grill, Martin Grabner**
 

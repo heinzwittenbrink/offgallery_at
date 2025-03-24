@@ -19,7 +19,7 @@ quote:
 
 **Künstlerin: Simona_Reisch**
 
-**Laufzeit: 14.4.–8.5.2024**
+**Laufzeit: 14.4.–8.5.2023**
 
 **Gestaltung: Simona Reisch, Anastasija Georgi**
 

@@ -17,7 +17,7 @@ image: ["cover-opening-grauzonen", "(c) Mariana Pende, Lana Stojićević und Boj
 ---
 **Künstler:innen: Mariana Pende, Lana Stojićević, Bojan Mrđenović**
 
-**Laufzeit: 23.9.–10.11.2024**
+**Laufzeit: 23.9.–10.11.2023**
 
 **Gestaltung: Anastasija Georgi**
 

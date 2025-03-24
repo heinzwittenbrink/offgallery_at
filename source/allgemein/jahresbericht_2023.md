@@ -68,5 +68,5 @@ Die Ausstellung „Eine Ahnung von Wildnis – A Notion of the Wild“ haben wir
 
 ### Ansichten der Ausstellungen im Web
 
-Ansichten aller Ausstellungen des Jahres 2023 sowie vieler der gezeigten Werke sind auf unserer Website (jeweils in den Abschnitten „Ansichten“ und „Werke“ zu den einzelnem Ausstellungen) publiziert. URL: <https://offgallery.at/ansichten>
+Ansichten aller Ausstellungen des Jahres 2023 sowie vieler der gezeigten Werke sind auf unserer Website (jeweils in den Abschnitten „Ansichten“ und „Werke“ zu den einzelnem Ausstellungen) publiziert. URL: <https://offgallery.at/ausstellungen>
 
