@@ -19,7 +19,7 @@ quote:
 
 **Fotograf:innen: Erich Kees und Elisabeth Kraus**
 
-**Laufzeit: 15.12.23–21.1.24**
+**Laufzeit: 15.12.2023–21.1.2024**
 
 **Kuratierung und Gestaltung: Martin Grabner**
 
