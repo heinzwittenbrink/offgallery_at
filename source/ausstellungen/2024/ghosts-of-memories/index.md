@@ -1,6 +1,7 @@
 ---
 title: "Eröffnung: Geister der Erinnerungen / Erinnerungen an die Geister"
-permalink: /ausstellungen/2024/ghosts-of-memory/
+permalink: /ausstellungen/2024/ghosts-of-memories/
+redirectFrom: /ausstellungen/2024/ghosts-of-memory/
 author: Heinz Wittenbrink
 tags:
   - ausstellung

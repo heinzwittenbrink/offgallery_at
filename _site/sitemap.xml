@@ -800,7 +800,7 @@
         </url>
     
         <url>
-            <loc>https://offgallery.at/ausstellungen/2024/ghosts-of-memory/</loc>
+            <loc>https://offgallery.at/ausstellungen/2024/ghosts-of-memories/</loc>
             <lastmod>2024-08-23T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
@@ -845,6 +845,24 @@
             <loc>https://offgallery.at/ausstellungen/2025/erika-petric/</loc>
             <lastmod>2025-03-21T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2024/rueckblick/</loc>
+            <lastmod>2025-03-25T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/allgemein/rueckblick2024/</loc>
+            <lastmod>2025-03-25T10:28:22.808Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2024/zur-wirkung-unserer-arbeit/</loc>
+            <lastmod>2025-03-28T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
         </url>
     
 </urlset>

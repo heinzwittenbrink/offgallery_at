@@ -1,0 +1,37 @@
+---
+tags: rueckblick2023
+date: "2024-03-27"
+---
+
+2023 haben wir konsequenter als in den Vorjahren versucht, unser Ausstellungsprogramm in eine Beziehung zur Klimakrise und den mit ihr verbundenen ökologisch-sozialen Krisen zu bringen. Wir haben auf diesen Zusammenhang bei den Eröffnungen und in den Einladungen hingeweisen. Wir wollten diese Verbindung aber nicht durch eine Konzentration auf aktivistische Kunst im Ausstellungsprogamm herstellen. Ausstellungen können selbst kein Ersatz für Aktivismus sein, und wirksame aktivistische Kunst gehört vor allem in öffentliche Räume jenseits des Ausstellungsbetriebs. Wir suchten und suchen stattdessen nach künstlerischen, vor allem fotografischen Projekten und Verfahren, die auf die krisenhaften Veränderungen in den gebauten und nicht gebauten Räumen unserer Umgebung reagieren und Besucherinnen und Besuchern eine gemeinsame affektive wie analytische Erfahrung dieser Veränderungen ermöglichen. 
+
+Wir sehen es als eine unserer Hauptaufgaben an, solche Projekte und Verfahren zu entdecken und ihr Veränderungspotenzial sichtbar zu machen. Dadurch hoffen wir, den lokalen Diskurs über die Zusammenhänge von gebauter Umwelt, ästhetischer Wahrnehmung und ökologisch-sozialer Krisensituation zu verändern und künstlerische Positionen zu stärken, die diese Zusammenhänge aufgreifen. 
+
+
+Zur Situation des Anthropozäns gehört es dabei, dass wir mit Prozessen und Objekten konfrontiert sind, bei denen einerseits „soziale“, „kulturelle“ oder „menschliche“ und andererseits „natürliche“ oder „ökologische“ Komponenten miteinander verbunden sind. 
+
+### Materialflüsse und architektonische Ordnung
+
+In der Fotografie spiegelt sich die Veränderung der Ausgangssituationen von der Moderne zum Anthropozän oft im Verhältnis stofflicher, materieller Prozesse oder Flüsse zu geometrischen, konstruierten Räumen – ein Gegensatz, der an den alten Gegensatz zwischen *colore* und *disegno* in der Malerei erinnert. Die geometrische Abgrenzung des Bildraums wie die Geometrie der Artefakte der „Technosphäre“ stehen im Gegensatz zu materiellen Flüssen von oft enormem quantitativen Ausmaß, die vielfach langsam sind, aber letztlich die konstruierten, geometrischen Formen überborden, zu zerstören drohen oder tatsächlich zerstören.
+
+### Materialflüsse in unseren Ausstellungen
+
+Sichtbar werden solche materiellen Flüsse in: 
+
+- &mdash;den neu entstehenden Raum des Grazer Reininghaus-Viertels, dessen Erfahrung auch von der Masse des in ihm verarbeiteten mineralischen Materials bestimmt wird (Ausstellung [Reininghaus](/ausstellungen/2023/reininghaus/)),
+- &mdash;architektonischen Situationen, die auch durch ihre Materialien charakterisiert sind und in  Collagen porträtiert  werden, die diese Materialien enthalten (Ausstellung [arch_portraits](/ausstellungen/2023/arch_portraits/)), 
+- &mdash;ins Rutschen kommenden Randzonen von Wasser und Festland, die aus exponierten Kamerasituationen erfasst werden (Ausstellung [Festland](/ausstellungen/2023/festland/)),
+- &mdash;von Industrieabfällen bestimmten Räumen, in denen die historisch oder archäologisch erfassbaren Spuren industrieller Arbeits- und Lebensverhältnisse zu Ausgangsbedingungen des postindustriellens Lebens werden (Ausstellung [Grauzonen](/ausstellungen/2023/grauzonen/)),
+- &mdash; wilden Zonen und Einbrüchen von Wildnis in die gebaute Umwelt, durch die die Fremdartigkeit und Nichtassimilierbarkeit des Wilden erfahrbar wird (Ausstellung [Eine Ahnung von Wildnis](/ausstellungen/2023/eine-ahnung-von-wildnis/)). 
+
+### Material Flows und Entropie
+
+Für viele der Projekte, die wir 2023  gezeigt haben, ist charakteristisch, dass in ihnen irreversible Übergänge von niedriger zu höherer Entropie aufgegriffen werden: der Übergang einer vorstädtischen Landschaft zur Monotonie hochverdichteter Architektur in den Darstellungen der Reininghaus-Ausstellung, Verfallsprozesse in den *arch_portraits* Simona Reischs,  das Abschmelzen eines Gletschers und die Überflutung einer Küstenzone in „Festland“, die Produktion industrieller Abfälle und Schlacken in „Grauzonen“. Die Wildnis in den Aufnahmen Christoph Grills ist dagegen um so weniger entropisch, je mehr sie ökonomischen Prozessen entzogen ist. Die entropischen Prozesse, am deutlichsten in „Grauzonen“, sind irreversibel. Die geordneten Ausgangszustände lassen sich in ihren Ergebnissen nicht mehr erkennen, sondern nur durch eine dokumentarisch vorgehende Rekonstruktion erfassen. 
+
+### Ästhetik der Erschöpfung und Entropie durch wirtschaftliches Wachstum
+
+Die Irreversibilität der Erzeugung von Entropie durch wirtschaftliche, auch durch architektonische, Prozesse gehört zu den fundamentalen Einsichten der ökologischen Ökonomik. Eine auf grenzenloses Wachstum ausgerichtete Wirtschaft erzeugt letztlich eine Höchstmaß von Entropie und zerstört damit ihre eigenen Grundlagen. Die Ausstellungen zu *material flows*, die wir im letzten Jahr gezeigt haben, bilden diese Erzeugung von Entropie nicht einfach ab, sondern präsentieren ihre Ergebnisse. Eine Konfrontation mit diesen Ergebnissen, die den Weg zu ihnen nur indirekt zeigt, führt zu einer Aufmerksamkeit für destruktive  Erschöpfungsprozesse, die sich nicht umkehren lassen. Diese Herangehensweisen unterscheiden sich von einem romantischen Zugang, der die Umkehrung irreversibler historischer Prozesse ästhetisch imaginiert. 
+
+### Erich Kees und Elisabeth Kraus am Übergang zur Postmoderne
+
+Die Ausstellung zur Erich Kees und Elisabeth Kraus bildete einen Kontrast zu den Ausstellungen der off_gallery, die *material flows* gewidmet waren. Kees und Kraus bezogen z.T. explizit und programmatisch moderne Positionen, auch wenn sich z.B. in den Pflanzendarstellungen von Elisabeth Kraus der Abschied von der betonten und gelegentlich gefeierten Moderne schon erkennen lässt und Kees und Kraus die Grazer Szene für Entwicklungen wie die *New Topographics* öffneten, die kritisch auf das Wachstum und die Beschleunigung der Moderne reagieren. In unserem Programm sorgte diese Ausstellung für eine bessere Verbindung zwischen aktuellen Positionen und der Grazer fotografischen Tradition. 
