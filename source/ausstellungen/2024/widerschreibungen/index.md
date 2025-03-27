@@ -23,11 +23,13 @@ quote:
 
 <br/>
 
+**Künstler: Alfred Resch-Diaz**
+
+**Laufzeit: 17.04.–7.5.2024**
+
+**Gestaltung: Alfred Resch-Díaz**
+
 **Alfred Resch-Díaz: Widerschreibungen**
-
-**17.4.–7.5.2024** 
-
-**Di, Mi, Do 15:00-18:00 und nach Vereinbarung**
 
 **Eröffnung: Di, 16.4.2024, 19 Uhr; Einführung: Tanja Gurke; Musikalischer Beitrag: Matthias Forenbacher**
 
