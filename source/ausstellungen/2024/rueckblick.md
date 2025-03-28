@@ -3,9 +3,9 @@ tags: rueckblick2024
 date: 2025-03-25
 ---
 
-Unser Jahresprogramm 2024 hatte das Motto *Sehnsucht nach Wildnis*. Wir haben visuelle Recherchen zur Wildnis und ihren Bildern in öffentlichen und privaten Räumen präsentiert. Im Mittelpunkt sollte dabei das Verhältnis der Bilder des Wilden zu den Konflikten und Aushandlungsprozessen über die Kontrolle von Räumen und Ressourcen stehen. „Kontrolle“ lässt sich dabei als komplementär zu „Wildnis“ verstehen. 
+Unser Jahresprogramm 2024 hatte das Motto *Sehnsucht nach Wildnis*. Wir haben vor allem visuelle Recherchen zur Wildnis und ihren Bildern in öffentlichen und halböffentlichen, städtischen und ländlichen Räumen präsentiert. Im Mittelpunkt sollte dabei das Verhältnis der Bilder des Wilden zu den Konflikten und Aushandlungsprozessen über die Kontrolle von Räumen und Ressourcen stehen. „Kontrolle“ lässt sich dabei als komplementär zu „Wildnis“ verstehen. 
 
-Relevante Konflikte um die Kontrolle von Räumen und Ressourcen sind heute nicht nur ökonomisch/soziale Konflikte im traditionellen Sinn (die immer auch Konflikte um den Zugang zu Ressourcen und den Umgang mit Abfall waren und sind), sondern mit diesen Konflikten verwobene Konflikte und Interaktionen zwischen verschiedenen Arten oder zwischen komplexen Akteur-Netzwerken wie Wäldern, Flüssen oder Bächen und Straßen oder Unternehmen andererseits. Diese Konflikte werden oft als Konflikte um öffentliche Räume und öffentliche Themen (public issues)
+Relevante Konflikte um die Kontrolle von Räumen und Ressourcen sind heute nicht nur ökonomisch/soziale Konflikte im traditionellen Sinn (die immer auch Konflikte um den Zugang zu Ressourcen und den Umgang mit Abfall waren und sind), sondern mit diesen Konflikten verwobene Konflikte und Interaktionen zwischen verschiedenen Arten oder zwischen komplexen Akteur-Netzwerken wie Wäldern, Flüssen oder Bächen einerseits und Straßen oder Unternehmen andererseits. Diese Konflikte werden oft als Konflikte um öffentliche Räume und öffentliche Themen (public issues)
 ausgetragen.
 
 Wir wollten Fragen stellen wie:
@@ -26,9 +26,9 @@ Wir haben uns mit dieser Thematik in den Ausstellungen und in begleitenden Küns
 * – eine Finissage mit Artist-Talk mit Heinz Poeschko
 * – eine Panel-Diskussion im Rahmen der Ausstellung *Im Weg stehen*
 
-Künstlerischen Projekte, für die das Wilde nicht im Einzelbild fixiert und sichtbar gemacht werden kann (Getting close, Wald) standen 2024 neben Dekonstruktionen und Rekonstruktionen von ikonisch Wildem (*Widerschreibungen*, *Nature de Luxe*).
+Künstlerischen Projekte, für die das Wilde nicht im Einzelbild fixiert und sichtbar gemacht werden kann (*Getting close*, *Wald*) standen 2024 neben Dekonstruktionen und Rekonstruktionen von ikonisch Wildem (*Widerschreibungen*, *Nature de Luxe*).
 
-So enthalten die Arbeiten einer Liz Nicol Spuren einer Wildnis (der Lagune Venedigs), die sich nicht in den städtischen Raum integrieren lässt, auf die der städtische Raum aber angewiesen ist. Die Ausstellung ihrer Recherchen selbst ist eine Form der Anwesenheit des Wilden, die dessen
+So enthalten die Arbeiten Liz Nicols Spuren einer Wildnis (der Lagune Venedigs), die sich nicht in den städtischen Raum integrieren lässt, auf die der städtische Raum aber angewiesen ist. Die Ausstellung ihrer Recherchen selbst ist eine Form der Anwesenheit des Wilden, die dessen
 Wildnischarakter nicht aufhebt. Dagegen zeigt die Werbung im städtischen Raum (*Im Weg stehen*) Trugbilder angeblicher Wildnis oder Wildheit, so als wäre Wildnis in der industriellen Zivilisation als Ware erwerbbar. 
 
 Ausgangspunkte unserer kuratorischen Arbeit waren sowohl die Skepsis gegenüber der Möglichkeit einer nicht konflikthaften Harmonie von urbaner Kultur und Wildnis als auch das Wissen darum, dass beide aufeinander angewiesen sind.

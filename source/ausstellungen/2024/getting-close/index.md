@@ -1,17 +1,15 @@
 ---
-title: "Liz Nicol: Getting Close – Notes from the Venice Lagoon"
+title: "Getting Close – Notes from the Venice Lagoon"
 permalink: /ausstellungen/2024/getting-close/
 author: Heinz Wittenbrink
 tags:
 - ausstellung
 - ausstellung2024
-- featured
 date: "2024-05-10"
 teaser: |-
     Am 10.5.2024 eröffnen wir im Rahmen der Galerientage die zweite Ausstellung unseres Jahresprogramms 2024 unter dem Motto *Sehnsucht nach Wildnis*. Wir stellen ein Langzeitprojekt der englischen Fotografin Liz Nicol zur Lagune von Venedig vor.
 artists: Liz Nicol
-layout: event.njk
-eventtype: Vernissage
+layout: ausstellung.njk
 teaser_image: ["2024/getting-close/werke/liz-nicol-barena-003", "(c): Liz Nicol"]
 image:  ["2024/getting-close/werke/liz-nicol-barena-003", "(c): Liz Nicol"]
 
@@ -28,9 +26,6 @@ quote:
 **Laufzeit: 10.5.–16.6.2024**
 
 **Gestaltung: Liz Nicol, Martin Grabner**
-
-Ein Küntlerinnengespräch mit Liz Nicol (moderiert von Martin Grabner) fand am 12.5.2024 um 16 Uhr statt.
-
 </br>
 Die Fotografien und Cyanotypien  der Ausstellung dokumentierten das bedrohte Ökosystem der Lagune, vor allem die Salzwiesen. Liz Nicol schrieb in einem Text zu ihrem Projekt:
 

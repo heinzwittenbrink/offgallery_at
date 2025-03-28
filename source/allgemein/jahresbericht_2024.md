@@ -3,7 +3,7 @@ layout: base_nofollow.njk
 permalink: /allgemein/rueckblick2024/
 ---
 
-# off_gallery graz – Projektbericht 2023
+# off_gallery graz – Projektbericht 2024
 
       {% image "./assets/pics/2024/nature-de-luxe/opening/andrew-opening-nature-de-luxe.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Andrew Phelps bei der Eröffnung der  Ausstellung Nature de Luxe, Bild: Peter Rieser" %}
 	  
@@ -19,10 +19,9 @@ permalink: /allgemein/rueckblick2024/
 </section>
 {%- endfor -%}
 
-
+<br/>
 
 ## Ausstellungen und Veranstaltungen im Jahr 2024
-
 
 {%- for ausstellung in collections.ausstellung2024 -%}
 
