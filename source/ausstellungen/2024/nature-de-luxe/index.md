@@ -1,5 +1,5 @@
 ---
-title: "Andrew Phelps"
+title: "Andrew Phelps: Nature de Luxe"
 permalink: /ausstellungen/2024/nature-de-luxe/
 author: Heinz Wittenbrink
 tags:
@@ -22,21 +22,11 @@ quote:
 
 <br/>
 
-**Andrew Phelps**
-<br/>
+**Fotograf: Andrew Phelps**
 
-**Nature De-Luxe**
-<br/>
+**Laufzeit: 17.9.–17.10.2024**
 
-**17.9.–17.10.2024**
-<br/>
-
-**Eröffnung: Mo, 16.9.2024, 19 Uhr**
-<br/>
-
-**Öffnungszeiten: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
-<br/>
-<br/>
+**Gestaltung: Martin Grabner, Andrew Phelps**
 
 
 „Eine Erfahrung in der Wildnis hatte viel mit Abenteuer zu tun, mit Herausforderung, Angst und Unruhe.“ beschreibt Andrew Phelps die Campingausflüge seiner Jugend in Arizona. Als er 1990 nach Salzburg zog wurde ihm schnell klar, dass die Wildnis in Europa hingegen durch Jahrhunderte der Geschichte und Tradition gefiltert wurde; die hiesige Campingkultur weit von einem unvorhersehbaren und direkten Austausch mit der Natur entfernt ist. Auf der Suche nach der „wahren Wildnis“ verbrachte er für Nature De-Luxe (2004) vier Sommer lang auf alpinen Campingplätzen und erforschte eine Welt des Komforts, der Vorhersehbarkeit und des Versuchs, ein Zuhause fern von zu Hause zu finden. Wildnis wird hier um jeden Preis vermieden.
@@ -52,13 +42,14 @@ Andrew Phelps wuchs in Arizona, USA auf und lebt seit 1990 als Fotograf und Kura
 <br/>
 Website von Andrew Phelps: <a href="https://andrew-phelps.com/" title="Andrew Phelps">https://andrew-phelps.com/</a>
 
+<br/>
 
+<br/>
+
+Im Rahmen einer Finissage am 17.10. blickte Andrew Phelps in einem Vortrag auf 30 Jahre Arbeit als Fotograf zurück und stellte dabei seine wichtigsten Projekte vor. Danach war Gelegenheit zum Gespräch.
+
+Der Vortrag fand aus Platzgründen im raum, Griesgasse 26, statt. Wir danken unseren Freundinnen und Freunden vom raum für die Unterstützung.
 
 <br/>
 
 <br/>
- 
- 
-
-<br/>
-Abbildung: Andrew Phelps: Aus „Overland“. (c) Andrew Phelps

@@ -29,25 +29,13 @@ quote:
 
 **Gestaltung: Alfred Resch-Díaz**
 
-**Alfred Resch-Díaz: Widerschreibungen**
-
-**Eröffnung: Di, 16.4.2024, 19 Uhr; Einführung: Tanja Gurke; Musikalischer Beitrag: Matthias Forenbacher**
-
-**Künstlergespräch: 4.5.2024, 19 Uhr**
-
 
 <br/>
 
 <br/>
 
- Alfred Resch-Díaz beschäftigt sich in seiner Arbeit oft mit den Beziehungen von künstlerischer und architektonischer Intervention und Natur. In *Widerschreibungen* gehen wir Geschichte und Kontext der *Landschaftstastatur* nach, die er 2002 im Lechtaler Gebirge installiert hat. 
+Alfred Resch-Díaz beschäftigt sich in seiner Arbeit oft mit den Beziehungen von künstlerischer und architektonischer Intervention und Natur. In *Widerschreibungen* gehen wir Geschichte und Kontext der *Landschaftstastatur* nach, die er 2002 im Lechtaler Gebirge installiert hat. 
  
 Wir fragen nach dem Zugang zu einer wilden Realität, die ein zivilisatorisches Konstrukt ist. Die Kontinuität der Natur steht im Gegensatz zur Diskontinuität von kulturellen Codes, die uns auf der Tastatur als schwer zu entziffernde zweite Natur begegnen. Dabei ist es von unserer Situation abhängig, wie wir die Intervention interpretieren. Sie bekommt unkontrollierbare Kontexte – durch Eingriffe von Menschen, die sie vorgefunden haben, aber auch durch spätere Werke ihres Urhebers und Veränderungen unserer Beziehungen zur Natur in der Epoche der Klimakrise.
 
-
-<br/>
-Im Sommer ist eine Wanderung mit Alfred Resch-Díaz zur Muttekopfhütte bei Imst im Lechtaler Gebirge geplant.
-<br/>
-
-<br/>
-Abbildung: Alfred Resch-Díaz, Landschaftstastatur, 2002 © Alfred Resch-Díaz, Foto: Helene Keller, 2023
+Bei der Eröffnung am 16.4.2024 führte Tanja Gurke in die Ausstellung ein. Matthias Forenbacher spielte eigene Kompositionen. Am 4.5. fand ein Künstlergespräch statt. 

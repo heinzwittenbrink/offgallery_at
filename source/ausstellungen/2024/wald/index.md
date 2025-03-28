@@ -19,19 +19,11 @@ quote:
 ---
 <br/>
 
-**Heinz Pöschko**
-<br/>
+**Fotograf: Heinz Pöschko**
 
-**Wald**
-<br/>
+**Laufzeit: 7.11.–6.12.2024**
 
-**7.11.–6.12.2024**
-<br/>
-
-**Eröffnung: Mi, 6.11.2024, 19 Uhr**
-<br/>
-
-**Öffnungszeiten: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
+**Gestaltung: Heinz Pöschko, Anastasija Georgi**
 <br/>
 <br/>
 Heinz Pöschkos Arbeiten entstanden in urwaldähnlichen Landschaften, die weitgehend dem menschlichen Einfluss entzogen bleiben, sowie – als Gegenüberstellung dazu – in forstwirtschaftlich genutzten Wäldern. Pöschko positioniert sich in ihnen mit Mitteln der digitalen wie der analogen Fotografie gegen die in den Medien übliche idealisierte und von Romantizismen geprägte Sicht auf die Natur.
@@ -43,8 +35,7 @@ Pöschko entwickelt Verfahren, um die nicht an der Oberfläche sichtbaren Aspekt
 <strong>Heinz Poeschko</strong> arbeitete als Sonderpädagoge in Graz und begann schon in den 1990er Jahren, sich intensiv mit dem Medium Fotografie auseinanderzusetzen. Er analysiert und hinterfragt den Wirklichkeitsbezug der Fotografie und entwickelt so Strategien, das fotografische Bild von der Realität zu emanzipieren. Seine Bilder wurden in Einzel- und Gruppenausstellungen in Graz, Innsbruck, Leibnitz, Neumarkt, Pischelsdorf; Wien, Radkersburg und Gleisdorf gezeigt. Er erhielt den Landesförderungspreises des Landes Steiermark für Fotografie 1992 (3.) und 1993 (1.) und das Österreichische Staatsstipendium für Fotografie 1993. Website: https://www.heinz-poeschko.at/
 
 <br/>
-<br/>
 
-Bild: (c) Heinz Pöschko
+Bei der Finissage der Ausstellung am 6.12. war Gelegenheit zu einem ausführlichen Künstlergespräch. 
 
 

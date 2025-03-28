@@ -23,29 +23,16 @@ quote:
 
 <br/>
 
-**Liz Nicol: Getting Close – Notes from the Venice Lagoon**
+**Fotografin: Liz Nicol**
 
-**10.5.–16.6.2024**
+**Laufzeit: 10.5.–16.6.2024**
 
-**Eröffnung: Fr. 10.5.2024, 17 Uhr**
+**Gestaltung: Liz Nicol, Martin Grabner**
 
-**Gespräch mit Liz Nicol (moderiert von Martin Grabner): 12.5.2024, 16 Uhr**
-
-**Öffnungszeiten:**
-
-**Freitag, 10.5.: 17.00 – 22:00**
-
-**Samstag, 11.5.: 11:00 – 19:00**
-
-**Sonntag, 12.5.: 11:00 – 18:00**
-
-**Danach: Di, Mi, Do 15:00 – 18:00 und nach Vereinbarung**
-<br/>
-<br/>
-**Zu einem Artist Talk und einem kollaborativen Workshop mit Liz Nicol werden wir  gegen Ende der Ausstellungszeit einladen.**
+Ein Küntlerinnengespräch mit Liz Nicol (moderiert von Martin Grabner) fand am 12.5.2024 um 16 Uhr statt.
 
 </br>
-Die Fotografien und Cyanotypien  der Ausstellung dokumentieren das bedrohte Ökosystem der Lagune, vor allem die Salzwiesen. Liz Nicol schreibt in einem Text zu ihrem Projekt:
+Die Fotografien und Cyanotypien  der Ausstellung dokumentierten das bedrohte Ökosystem der Lagune, vor allem die Salzwiesen. Liz Nicol schrieb in einem Text zu ihrem Projekt:
 
 > „Dem schlammigen Lebensraum der Salzwiesen körperlich nahekommen, der Intimität dieses weiten offenen Raums nahekommen. Im Bewusstsein, dass wir einem Ungleichgewicht zwischen menschlicher Stärke und Umweltveränderungen schon zu nahe sind.
 
@@ -53,15 +40,4 @@ Die Fotografien und Cyanotypien  der Ausstellung dokumentieren das bedrohte Öko
 
 > Es gibt viele Gründe, sich draußen in der Lagune aufzuhalten. Sie wird von Menschen jeden Alters besucht, in Booten aller Art, vom lächerlich großen Kreuzfahrtschiff bis zu traditionellen venezianischen Ruderbooten. Vögel rufen, Fische sind zu sehen, Krebse huschen vorbei, während sich Quallen von der Strömung treiben lassen. Der Lärm landender und startender Flugzeuge unterbricht jede Serenissima-Stimmung, während die Blicke der Menschen die Lagunenlandschaft erkunden, eine flüchtige Umgebung. Wir sind nicht allein.“
 
-Liz Nicol lebt und arbeitet als Fotografin in Exeter und Venedig. Zu ihren neueren Projekten gehört – außer der fotografischen Langzeitbeobachtung der bedrohten Umwelt der Lagune von Venedig – die Erforschung von Stätten der Erinnerung an den Ersten Weltkrieg.  Liz Nicol war lange als Professorin für Fotografie an der Universität von Plymouth und als Leiterin der dortigen School of Art & Media und des Masterprogramms für Fotografie tätig. Ihre Arbeiten wurden bisher in Großbritannien, Italien, Dänemark und Norwegen ausgestellt. Liz Nicols Website: https://www.liznicol.co.uk/
-
-
-
-<br/>
-
-<br/>
- 
- 
-
-<br/>
-Abbildung: Liz Nicol: Aus „Getting Close“. (c) Liz Nicol
+Liz Nicol lebt und arbeitet als Fotografin in Exeter und Venedig. Zu ihren neueren Projekten gehört – außer der fotografischen Langzeitbeobachtung der bedrohten Umwelt der Lagune von Venedig – die Erforschung von Stätten der Erinnerung an den Ersten Weltkrieg.  Liz Nicol war lange als Professorin für Fotografie an der Universität von Plymouth und als Leiterin der dortigen School of Art & Media und des Masterprogramms für Fotografie tätig. Ihre Arbeiten wurden bisher in Großbritannien, Italien, Dänemark und Norwegen ausgestellt. Liz Nicols Website: <https://www.liznicol.co.uk/>
