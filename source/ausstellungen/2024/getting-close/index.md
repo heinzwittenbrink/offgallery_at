@@ -17,16 +17,12 @@ quote:
 
 ---
 
-<br/>
-
-<br/>
-
 **Fotografin: Liz Nicol**
 
 **Laufzeit: 10.5.–16.6.2024**
 
 **Gestaltung: Liz Nicol, Martin Grabner**
-</br>
+
 Die Fotografien und Cyanotypien  der Ausstellung dokumentierten das bedrohte Ökosystem der Lagune, vor allem die Salzwiesen. Liz Nicol schrieb in einem Text zu ihrem Projekt:
 
 > „Dem schlammigen Lebensraum der Salzwiesen körperlich nahekommen, der Intimität dieses weiten offenen Raums nahekommen. Im Bewusstsein, dass wir einem Ungleichgewicht zwischen menschlicher Stärke und Umweltveränderungen schon zu nahe sind.

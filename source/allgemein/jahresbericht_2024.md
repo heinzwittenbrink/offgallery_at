@@ -7,7 +7,7 @@ permalink: /allgemein/rueckblick2024/
 
       {% image "./assets/pics/2024/nature-de-luxe/opening/andrew-opening-nature-de-luxe.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Andrew Phelps bei der Eröffnung der  Ausstellung Nature de Luxe, Bild: Peter Rieser" %}
 	  
-	   {% image "./assets/pics/2024/getting-close/workshop/cyanotype-workshop-1.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Zyanotypie-Workshop mit Liz Nicol, Bild: Heinz Wittenbrink" %}
+	   {% image "./assets/pics/2024/getting-close/workshop/cyanotype-workshop-1.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Cyanotypie-Workshop mit Liz Nicol, Bild: Heinz Wittenbrink" %}
 	  
 	 <br/>
 	 <br/>
@@ -64,7 +64,7 @@ permalink: /allgemein/rueckblick2024/
 
 ### Veränderungen gegenüber der Planung für 2024 
 
-Die Ausstellung „Im Weg stehen“ haben wir zusätzlich in das Programm aufgenommen. Ursprünglich vorgesehene Ausstellungen zu den Themen *Solar Punk* und *Architektur und Atmosphäre* möchten wir in modifizierter Form in den kommenden Jahren realisieren. 
+Die Ausstellung „Im Weg stehen“ haben wir zusätzlich in das Programm aufgenommen. Ursprünglich vorgesehene Ausstellungen zu den Themen *Solar Punk* und *Architektur und Atmosphäre* möchten wir in modifizierter Form in den kommenden Jahren realisieren. (Die Programmänderung wurde von der Abteilung A9 mit Nachricht vom 9.12.2024 in Ordnung befunden.)
 
 ### Ansichten der Ausstellungen im Web
 

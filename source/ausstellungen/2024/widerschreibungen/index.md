@@ -18,20 +18,11 @@ quote:
 
 ---
 
-<br/>
-
-<br/>
-
-**Künstler: Alfred Resch-Diaz**
+**Künstler: Alfred Resch-Díaz**
 
 **Laufzeit: 17.04.–7.5.2024**
 
 **Gestaltung: Alfred Resch-Díaz**
-
-
-<br/>
-
-<br/>
 
 Alfred Resch-Díaz beschäftigt sich in seiner Arbeit oft mit den Beziehungen von künstlerischer und architektonischer Intervention und Natur. In *Widerschreibungen* gingen wir Geschichte und Kontext der *Landschaftstastatur* nach, die er 2002 im Lechtaler Gebirge installiert hat. 
  
