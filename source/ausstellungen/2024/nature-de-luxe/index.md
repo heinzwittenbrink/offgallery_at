@@ -32,6 +32,8 @@ Andrew Phelps wuchs in Arizona, USA auf und lebt seit 1990 als Fotograf und Kura
 
 Website von Andrew Phelps: <a href="https://andrew-phelps.com/" title="Andrew Phelps">https://andrew-phelps.com/</a>
 
+Zur Eröffnung dieser Ausstellung konnten wir auch eine Klasse der Ortweinschule begrüßen. 
+
 Im Rahmen einer Finissage am 17.10. blickte Andrew Phelps in einem Vortrag auf 30 Jahre Arbeit als Fotograf zurück und stellte dabei seine wichtigsten Projekte vor. Danach war Gelegenheit zum Gespräch.
 
 Der Vortrag fand aus Platzgründen im raum, Griesgasse 26, statt. Wir danken unseren Freundinnen und Freunden vom raum für die Unterstützung.

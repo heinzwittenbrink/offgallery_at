@@ -35,9 +35,12 @@ Der Verein legt den Fokus seit 2023 verstärkt auf zwei Ziele: Die Reduktion von
 
 Website des Vereins: <https://www.werbe-frei.at/>
 
+
+Am 28. Jänner 2025 besuchten zwei Schulklassen der MMS Ferdinandeum (28 Kinder und 2 Begleitlehrerinnen) diese Ausstellung. Am 13. Februar war eine Gruppe des Stadtplanungsamtes mit insgesamt 7 Personen zu Besuch. 
+
 ### Diskussion: „Wie viel Werbung brauchen wir?
 
-Am 21.1. fand anlässlich der Ausstellung die Diskussion: „Wie viel Werbung brauchen wir?“ in der Galerie statt. 
+Am 21.1. fand anlässlich der Ausstellung die Diskussion: „Wie viel Werbung brauchen wir?“ in der Galerie statt. Dazu konnten wir etwa 30 Besucher:innen begrüßen. 
 
 ### Teilnehmer:innen:
 
