@@ -12,8 +12,8 @@ teaser: |-
 artists: Tom Biela
 layout: event.njk
 eventtype: Vernissage
-teaser_image: ["2025/strukturen-des-fliessens/Tegetthoffbrücke_Rohbau_72dpi_©Tom Biela", "Aus: Tegethoffbrücke. Bild: Tom Biela"]
-image: ["2025/strukturen-des-fliessens/Tegetthoffbrücke_Rohbau_72dpi_©Tom Biela", "Aus: Tegethoffbrücke. Bild: Tom Biela"]
+teaser_image: ["2025/strukturen-des-fliessens/tegetthoffbrücke_rohbau", "Aus: Tegethoffbrücke. Bild: Tom Biela"]
+image: ["2025/strukturen-des-fliessens/tegetthoffbrücke_rohbau", "Aus: Tegethoffbrücke. Bild: Tom Biela"]
 
 quote:
 
