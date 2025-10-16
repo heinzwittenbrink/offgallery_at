@@ -6,20 +6,16 @@ tags:
 - ausstellung
 - ausstellung2025
 - featured
-date: "2025-04-17"
+date: "2025-10-29"
 teaser: |-
-    Wir laden herzlich zur Eröffnung der Ausstellung „Terminal“ mit Werken von Markus Krottendorfer am 29.10.2025 um 18:00 ein. 
+    Wir laden setzen unsere Reihe zu Infrastrukturen  mit der Ausstellung „Terminal“ mit Bildern von Markus Krottendorfer fort. 
 artists: Tom Biela
 layout: event.njk
 eventtype: Vernissage
 teaser_image: ["2025/terminal/decke3_TER", "Aus: Terminal. Bild: Markus Krottendorefer"]
 image: ["2025/terminal/decke3_TER", "Aus: Terminal. Bild: Markus Krottendorefer"]
-
-quote:
-
 ---
 
-<br/>
 
 (English version [below](#english_version))
 
@@ -42,7 +38,7 @@ Am 29.10. um 18:00 eröffnen wir die Ausstellung
 
 **(Geöffnet: 30.10.–4.12.2025 Di, Mi und Do 15–18 Uhr und nach Vereinbarung**
 <br/>
-
+<br/>
 
 Am stillgelegten Athener Flughafen Ellinikon setzt er sich in „Terminal“ mit den der Architektur der 1960er-Jahre immanenten Ideologien der Moderne auseinander: einem ungebrochenen Glauben an die technische Entwicklung, Fortschritt und Wachstum. Die Ikonen der damals noch jungen Globalisierung wurden zu „Nicht-Orten“, wie sie Marc Augé beschreibt, und schließlich zu Zeugen einer Vergangenheit, die immer noch unsere Gegenwart bestimmt. Auch die sich noch in Betrieb befindenden Kraftwerke der Serie „Power Plant Stories“ vermitteln diese Dichotomien von Rationalität und Fiktion, Vergangenheit und Gegenwart.
 
@@ -55,6 +51,9 @@ Krottendorfers Arbeiten sind im Kern dokumentarisch. Durch die präzise, fast th
 Zu den gezeigten Arbeiten erschienen die beiden Künstlerbücher „Terminal“ (Fotohof Edition, 2024) und „Eyes of the Night“ mit Scott Clifford Evans (VfmK, 2025).
 
 <br/>
+
+**Markus Krottendorfer** (geb. 1976 in Wien), lebt und arbeitet in Wien. Nach der Ausbildung an der Schule Friedl Kubelka für künstlerische Fotografie Wien schloss er sein Diplomstudium an der Akademie der bildenden Künste Wien bei Eva Schlegel und Josephine Pryde ab. Seit 2001 wurden seine Arbeiten in Österreich und international in zahlreichen Einzel- und Gruppenausstellungen gezeigt und in mehreren Künstlerbüchern publiziert.
+
 
 <br/>
 Bild: (c) Markus Krottendorfer
@@ -78,7 +77,7 @@ On October 30 at 6 p.m. we open the exhibition
 <br/>
 <br/>
 
-**Structures of Flow**
+**Terminal**
 
 <br/>
 <br/>
@@ -99,13 +98,19 @@ and fiction, past and present.
 
 <br/>
 
-Krottendorfer's works are essentially documentary in nature. However, through their precise, almost theatrical photographic staging using exclusively analogue means, they also tap into the utopian
-potential of the places he has found, transforming them into illusionistic spaces that are as seductive as they are melancholic.
+Krottendorfer's works are essentially documentary in nature. However, through their precise, almost theatrical photographic staging using exclusively analogue means, they also tap into the utopian potential of the places he has found, transforming them into illusionistic spaces that are as seductive as they are melancholic.
 
 
 <br/>
 
 The two artist books ‘Terminal’ (Fotohof Edition, 2024) and ‘Eyes of the Night’ with Scott Clifford Evans (VfmK, 2025) were published to accompany the works on display.
+
+
+<br/>
+
+
+
+**Markus Krottendorfer** (born in Vienna in 1976) lives and works in Vienna. After studying at the Friedl Kubelka School of Artistic Photography in Vienna, he completed his diploma studies at the Academy of Fine Arts Vienna under Eva Schlegel and Josephine Pryde. Since 2001, his work has been shown in numerous solo and group exhibitions in Austria and internationally, and published in several artist books.
 
 
 <br/>
