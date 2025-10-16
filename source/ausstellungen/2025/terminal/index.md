@@ -36,7 +36,7 @@ Am 29.10. um 18:00 eröffnen wir die Ausstellung
 
 <br/>
 
-**(Geöffnet: 30.10.–4.12.2025 Di, Mi und Do 15–18 Uhr und nach Vereinbarung**
+**(Geöffnet: 30.10.–4.12.2025 Di, Mi und Do 15–18 Uhr und nach Vereinbarung)**
 <br/>
 <br/>
 
