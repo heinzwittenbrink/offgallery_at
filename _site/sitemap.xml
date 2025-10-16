@@ -919,4 +919,10 @@
             <changefreq>weekly</changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2025/terminal/</loc>
+            <lastmod>2025-04-17T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>
