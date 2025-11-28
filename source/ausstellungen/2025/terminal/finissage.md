@@ -8,7 +8,7 @@ tags:
 date: "2025-12-04"
 teaser: |-
 
-Wir laden herzlich zur Finissage der Ausstellung „Terminal“ und zu einem Künstlergespräch mit Markus Krottendorfer am Donnerstag, dem 4.11. um 18:00 ein. 
+    Wir laden herzlich zur Finissage der Ausstellung „Terminal“ und zu einem Künstlergespräch mit Markus Krottendorfer am Donnerstag, dem 4.12. um 18:00 ein. 
 
 artists: Markus Krottendorfer
 layout: event.njk
