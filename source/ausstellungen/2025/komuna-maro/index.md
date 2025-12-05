@@ -30,7 +30,7 @@ Am 10.12. um 19:00 eröffnen wir die Ausstellung
 
 <br/>
 
-**ein künstlerisches Rechercheprojekt von Ana Dana Beroš, Ana Jeinić, Ana Opalić und anderen**
+**ein künstlerisches Rechercheprojekt von Ana Dana Beroš, Ana Jeinić, Ana Opalić, Lucia Rebolino, Federica Pessotto und anderen**
 
 <br/>
 
