@@ -21,7 +21,7 @@ image: ["2025/komuna-maro/1962024_MUCILAZ_INA_NA_4009-1", "Aus: Bild: Ana Opali�
 
 <br/>
 
-Am 10.12. um 19:00 eröffnen wir die Ausstellung
+Am 10.12. um 18:00 eröffnen wir die Ausstellung
 <br/>
 
 <br/>
