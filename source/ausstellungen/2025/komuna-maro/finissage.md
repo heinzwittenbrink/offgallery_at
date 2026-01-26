@@ -9,7 +9,7 @@ teaser: |-
 
     Wir laden herzlich zu einer Kuratorinnenführung mit Ana Jeinić und zur Finissage der Ausstellung „Komuna Maro“ und am Mittwoch, dem 28.1. um 18:00 ein. 
 
-artists: Ana Jejnić
+artists: Ana Jeinić
 layout: event.njk
 eventtype: Finissage
 teaser_image: ["2025/komuna-maro/2162024_MONFALCONE_NA_4226", "Ana Opalić: Monfalcone"]
@@ -24,7 +24,7 @@ Wir laden herzlich zu einer
 
 <br/>
 
-**Kuratorinnenführung mit Ana Jejnić**
+**Kuratorinnenführung mit Ana Jeinić**
 
 <br/>
 und zur
