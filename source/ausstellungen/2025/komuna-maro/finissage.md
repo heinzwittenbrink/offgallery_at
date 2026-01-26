@@ -1,5 +1,5 @@
 ---
-title: "Komuna Maro: Kuratorinnenführung mit Ana Jejnić und Finissage"
+title: "Komuna Maro: Kuratorinnenführung mit Ana Jeinić und Finissage"
 permalink: /ausstellungen/2025/komuna-maro/finissage/
 author: Heinz Wittenbrink
 tags:
@@ -51,5 +51,5 @@ Die Ausstellung ist **bis zum 29.1.2026** am Dienstag, Mittwoch  und Donnerstag 
 
 <br/>
 
-**Bild:** Ana Opalić, Aus der Serien „Monfalcone“
+**Bild:** Ana Opalić, Aus der Serie „Monfalcone“
 
