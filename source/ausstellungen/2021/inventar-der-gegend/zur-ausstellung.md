@@ -1,6 +1,7 @@
 ---
 permalink: /ausstellungen/2021/inventar-der-gegend/zur-ausstellung/
 redirectFrom: /ausstellungen/inventar-der-gegend/zur-ausstellung/
+layout: blog.njk
 ---
 
 # Zur Ausstellung "Inventar der Gegend"

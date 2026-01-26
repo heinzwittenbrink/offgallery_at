@@ -4,6 +4,7 @@ title: |
 slug: ueber-orte-die-warten 
 permalink: /ausstellungen/2021/orte-die-warten/ueber-orte-die-warten/
 redirectFrom: /ausstellungen/orte-die-warten/ueber-orte-die-warten/
+layout: blog.njk
 
 ---
 

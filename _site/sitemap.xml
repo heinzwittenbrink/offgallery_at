@@ -508,13 +508,13 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2021/inventar-der-gegend/zur-ausstellung/</loc>
             <lastmod>2024-04-03T15:03:57.621Z</lastmod>
-            <changefreq></changefreq>
+            <changefreq>weekly</changefreq>
         </url>
     
         <url>
             <loc>https://offgallery.at/ausstellungen/2021/orte-die-warten/ueber-orte-die-warten/</loc>
             <lastmod>2024-04-03T15:03:57.621Z</lastmod>
-            <changefreq></changefreq>
+            <changefreq>weekly</changefreq>
         </url>
     
         <url>
@@ -604,12 +604,6 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2023/grauzonen/leave-me-in-the-shadow/index-english/</loc>
             <lastmod>2024-04-03T15:03:57.645Z</lastmod>
-            <changefreq></changefreq>
-        </url>
-    
-        <url>
-            <loc>https://offgallery.at/ausstellungen/2024/widerschreibungen/opening/</loc>
-            <lastmod>2024-04-03T15:03:57.649Z</lastmod>
             <changefreq></changefreq>
         </url>
     
@@ -934,6 +928,12 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2025/komuna-maro/</loc>
             <lastmod>2025-12-10T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2025/komuna-maro/finissage/</loc>
+            <lastmod>2026-01-28T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
     
