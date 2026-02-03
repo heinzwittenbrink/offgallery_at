@@ -196,6 +196,7 @@ blockquote {
   hyphens: auto;
   line-height: calc(2 * var(--baseline));
   font-size: 1rem;
+  margin-bottom: 1rem;
 }
 
 section > ul > li strong {
