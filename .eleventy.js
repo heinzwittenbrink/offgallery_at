@@ -25,6 +25,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("assets/css");
     eleventyConfig.addPassthroughCopy("assets/fonts");
     eleventyConfig.addPassthroughCopy("assets/svg");
+    eleventyConfig.addPassthroughCopy("assets/pdfs");
 
 
 
@@ -216,3 +217,5 @@ var md = require('markdown-it')({
         return link + "?c=" + Date.now();
     }
 })
+
+

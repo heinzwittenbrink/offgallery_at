@@ -902,6 +902,24 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-04-12T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-04-17T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-04-17T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/2025/beyond-lost-roads/</loc>
             <lastmod>2025-04-17T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -911,6 +929,18 @@
             <loc>https://offgallery.at/ausstellungen/2025/strukturen-des-fliessens/</loc>
             <lastmod>2025-04-17T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-06-07T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-10-29T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
         </url>
     
         <url>
@@ -932,6 +962,12 @@
         </url>
     
         <url>
+            <loc>https://offgallery.at.</loc>
+            <lastmod>2025-12-11T00:00:00.000Z</lastmod>
+            <changefreq></changefreq>
+        </url>
+    
+        <url>
             <loc>https://offgallery.at/ausstellungen/2025/komuna-maro/finissage/</loc>
             <lastmod>2026-01-28T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
@@ -940,6 +976,12 @@
         <url>
             <loc>https://offgallery.at/ausstellungen/2026/we-are-still-dreaming/</loc>
             <lastmod>2026-02-13T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
+        <url>
+            <loc>https://offgallery.at/blog/rueckblick-2025/</loc>
+            <lastmod>2026-03-30T00:00:00.000Z</lastmod>
             <changefreq>weekly</changefreq>
         </url>
     

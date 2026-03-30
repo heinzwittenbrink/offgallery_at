@@ -5,40 +5,55 @@ author: Heinz Wittenbrink
 tags:
 - ausstellung
 - ausstellung2025
-- featured
 date: "2025-12-10"
 teaser: |-
-    In dem Projekt „Komuna Maro“ (Esperanto für „gemeinsames Meer“) begleitet ein Team von Künstler:innen und Wissenschaftler:innen Menschen und nicht-menschliche Wesen, die an, in und mit der nördlichen Adria leben. Angesichts ökologischer und sozialer Krisen dokumentiert das Forschungsteam unterschiedliche Erfahrungen und Formen des Wissens über diesen gemeinsamen Lebensraum. Die Ausstellung präsentiert Ergebnisse dieses Projekts: Aufnahmen der kroatischen Fotografin Ana Opalić und große „Bücher“ mit wasserfesten Seekarten (Portolani). Die Fotografien zeigen Bewegungsmuster bekannter und neuartiger Wesen und  Gegenstände – von Menschen, Maschinen und Schiffen bis zu eingeschleppten Algen – in dieser besonderen Meereslandschaft. Die Portolani – jedes deckt einen Abschnitt der Adria-Küste ab – dienen als Forschungsarchiv und als Navigationsinstrumente und bieten eine neuartige Kartografie der Infrastrukturen dieses Raums.
+    „Komuna Maro“ (Esperanto für „gemeinsames Meer“) untersucht mit künstlerischen und wissenschaftlichen Methoden, wie in der nördlichen Adria soziale Räume und Wissen über diese Räume hergestellt und dargestellt werden. Durch die Zusammenführung von Erkenntnissen aus der experimentellen Geografie, Ozeanografie und visuellen Anthropologie mit kollaborativen künstlerischen Praktiken zielt das Projekt darauf ab, die tiefen Verflechtungen zwischen menschlichem und marinem Leben innerhalb umfassenderer ökologischer und wirtschaftlicher Systeme aufzudecken.
 artists: Ana Dana Beroš, Ana Jeinić, Ana Opalić
-layout: event.njk
+layout: blog.njk
 eventtype: Vernissage
 teaser_image: ["2025/komuna-maro/1962024_MUCILAZ_INA_NA_4009-1", "Bild: Ana Opalić"]
 image: ["2025/komuna-maro/1962024_MUCILAZ_INA_NA_4009-1", "Aus: Bild: Ana Opalić"]
 ---
 
+<head>
+ <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
+    <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">
+
+
+</head>
 
 (English version [below](#english_version))
 
-<br/>
-
-Am 10.12. um 18:00 eröffnen wir die Ausstellung
-<br/>
 
 <br/>
 
-**Komuna Maro:**
+**Ein künstlerisches Rechercheprojekt von Ana Dana Beroš, Ana Jeinić, Ana Opalić, Lucia Rebolino, Federica Pessotto und anderen**
+
+**Laufzeit: 11.12.2025-29.1.2026**
+
+**Research Essays & Kuratorischer Text: Ana Jeinić**
+
+**Fotografie & Video: Ana Opalić**
+
+**Kartografie: Federica Pessotto & Lucia Rebolino**
+
+**Kuratieren, Konzept der Portolanos und Ausstellungsdesign: Ana Dana Beroš**
+
+**Graphic Design: Oleg Šuran**
+
+**Web Application: Mihael Giba**
+
+**Kapitän der Expedition: Matija Kralj Štefanić**
+
+**Realisiert mit Unterstützung der Gastinstitutionen  TU Wien und TU Graz**
+**Finanzierung: Österreichischer Wissenschaftsfonds FWF**
+**Besonderer Dank für logistische Unterstützung an Inda Balagić**
+
+
 
 <br/>
 
-**ein künstlerisches Rechercheprojekt von Ana Dana Beroš, Ana Jeinić, Ana Opalić, Lucia Rebolino, Federica Pessotto und anderen**
 
-<br/>
-
-**(Geöffnet: 11.12.–23.12.2025, 13.1.-29.1.2025 Di, Mi und Do 15–18 Uhr und nach Vereinbarung)**
-
-<br/>
-
-„Komuna Maro“ (Esperanto für „gemeinsames Meer“) untersucht mit künstlerischen und wissenschaftlichen Methoden, wie in der nördlichen Adria soziale Räume und Wissen über diese Räume hergestellt und dargestellt werden. Durch die Zusammenführung von Erkenntnissen aus der experimentellen Geografie, Ozeanografie und visuellen Anthropologie mit kollaborativen künstlerischen Praktiken zielt das Projekt darauf ab, die tiefen Verflechtungen zwischen menschlichem und marinem Leben innerhalb umfassenderer ökologischer und wirtschaftlicher Systeme aufzudecken.
 
 <br/>
 
@@ -79,11 +94,7 @@ Das künstlerische Forschungsprojekt Komuna Maro wird vom Österreichischen Wiss
 <p id="english_version"><em>English version:</em></p>
 
 <br/>
-<br/>
 
-On **10 December at 6 p.m.**, we will open the exhibition
-
-<br/>
 
 **Komuna Maro:**
 
@@ -91,7 +102,24 @@ On **10 December at 6 p.m.**, we will open the exhibition
 
 **an artistic research project by Ana Dana Beroš, Ana Jeinić, Ana Opalić, Federica Pessotto, Lucia Rebolino and others**
 
-<br/>
+**Research Essays & Curatorial Text: Ana Jeinić**
+
+**Photography & Video: Ana Opalić**
+
+**Cartography: Federica Pessotto & Lucia Rebolino**
+
+**Curating, Portolano Concept & Exhibition Design: Ana Dana Beroš**
+
+**Graphic Design: Oleg Šuran**
+
+**Web Application: Mihael Giba**
+
+**Expedition Captain: Matija Kralj Štefanić**
+
+**Realised With the Support of Hosting Institutions: TU Wien, TU Graz**
+**Funding: Austrian Science Fund (FWF)**
+
+**Special Thanks for Logistical Support: Inda Balagić**
 
 (Open: **11–23 December 2025, 13 January–29 January 2025, Tuesdays, Wednesdays and Thursdays, 3–6 p.m. and by appointment**)
 
@@ -138,3 +166,12 @@ The artistic research project Komuna Maro is funded by the Austrian Science Fund
 <br/>
 
 Picture: (c) Ana Opalić
+
+{%- for komuna in collections.komuna-maro   reverse -%}
+<section id="{{ kumuna.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ komuna.data.title }}</summary>
+    {{ komuna.content }}
+  </details>
+</section>
+{%- endfor -%}

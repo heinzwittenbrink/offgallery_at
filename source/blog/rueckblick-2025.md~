@@ -1,0 +1,61 @@
+---
+title: |-
+  Globale Infrastrukturen und ästhetische Vorstellungsräume – ein Rückblick auf unsere Ausstellungen 2025
+author: Heinz Wittenbrink
+tags:
+- blog
+- featured
+- ausstellung2025
+date: "2026-03-30"
+teaser: |-
+   2025 konnten wir vier Ausstellungen zu unserem Jahresthema „Infrastrukturen“ verwirklichen. Dabei hat sich die Art und Weise, in der wir Ausstellungen machen, weiterentwickelt – dafür danken wir auch den Künstler:innen, die die Ausstellungen mit uns zusammen realisiert haben. Weiterentwickelt hat sich auch unser eigenes Verständnis von dem, was wir tun. Im Nachhinein ergeben sich Verbindungen zwischen den Ausstellungen, Parallelen und Unterschiede, an die wir bei der Planung nicht gedacht haben.
+layout: blog.njk
+teaser_image: ["2025/terminal/ansichten/MG_8097", "(c): Martin Grabner"]
+image:  ["2025/terminal/ansichten/MG_8097", "(c): Martin Grabner"]
+quote:
+
+---
+# Rückblick 2025
+
+In den vier Ausstellungen zum Thema „Infrastrukturen“, die wir 2025 gezeigt haben, ging es um Verkehrsinfrastruktur: um die Reinigung von Straßen in der ghanaischen Hauptstadt Akkra, um Material und Strukturen von Straßen und Brücken in der Steiermark, um einen aufgelassenen Athener Flughafen und um die Häfen der nördlichen Adria. Immer sind diese Verkehrsinfrastrukturen Teil eines globalen hyperurbanisierten Raums. Die Ausstellungen öffneten Vorstellungsräume, sie ermöglichten eine „verrückte“ (im Wortsinn), experimentierende Erfahrung von zugleich lokalen und planetaren, vertrauten und fremden Wirklichkeiten.
+
+Samira Saidi zeigt in ihrer Fotoserie lokalen Aktivismus in einem postkolonialen Raum: Freiwillige reinigen die Straßen in der ghanaischen Hauptstadt Accra. Sie kümmern sich um ihre Umwelt, während Institutionen versagen. Die Straße, die Samira Saidi zeigt und die von den Backstreet-Boys gepflegt wird, liegt dabei genau zwischen der Innenstadt von Accra, die durch ihren Flughafen mit den anderen globalen Metropolen verbunden ist, und den ärmeren Gebieten der Stadt, deren Lebensbedingungen eher denen des Umlands entsprechen. 
+
+ <div style="resize:both;overflow:auto;border:1px solid black;padding:16px;height:400px">
+      {% image "./assets/pics/2025/beyond-lost-roads/ansichten/_MG_5587_(c)_martin_grabner_(c)_martin_grabner.jpg", "alt", "(min-width: 840px) 720px, calc(93.08vw - 43px)", "Ansicht der Ausstellung  „Beyond lost Roads“ mit Bildern von Samira Saida. (c) Martin Grabner" %}
+    </div>
+
+In der Ausstellung wurden die Reportage-artigen Bilder mit einem erläuternden Text präsentiert. Porträts der agierenden und die vom Asphalt der Straße und den Feuern zum Verbrennen des Abfalls dominierten Szenerien sorgten für die Verbindung der Bilder untereinander.
+
+Während Samira Saidis Serie zeigt, dass die fremd wirkende Umgebung einer afrikanischen Stadt uns in vielem nah ist, verweisen Tom Bielas Arbeiten in der ihm gewidmeten Ausstellung auf die Fremdartigkeit einer uns scheinbar vertrauten Umgebung. Einige Exponate durchbrachen die Grenze zwischen Bild und Objekt: die Darstellungen steirischer Brücken dadurch, dass sie auf mit einer Photoemulsion präparierten Beton belichtet wurden, sowie Asphalt, der skulpturartig in den Ausstellungsraum integriert wurde. Weitere Elemente der Ausstellung waren Fotografien die Infrastrukturelemente in einer fast an Andachts- oder Meditationsbilder erinnernden Ästhetik zeigten. 
+
+Auch für die Ausstellung „Terminal“ wurde der Ausstellungsraum transformiert: Die meisten Bilder wurden auf hölzernen Stehern platziert, die in ähnlicher Weise eine Alternative zur üblichen Wandhängung bilden wie Markus Krottendorfers Bilder Alternativen zur gewohnten Wahrnehmung technischer Wirklichkeit zeigen. Die Aufnahmen der Ausstellung zeigen dabei bereits obsolet gewordene Infrastuktur. Im Mittelpunkt standen Fotos des aufgelassenen Athener Flughafens Ellenikon. Erfahrbar wird so der utopische Gehalt von Infrastruktur, und zwar auch in seiner Irrealität und Vergänglichkeit. 
+
+Komuna Maro thematisiert die Infrastrukturen der nördlichen Adria, vor allem Häfen und Schiffahrt. Die Elemente der Ausstellung sind so gestaltet, dass sie selbst leicht transportiert werden können. Drei große Bücher mit Fotos und Texten waren – nach dem Vorbild der Portolanbücher früherer Schiffe – auf leicht zusammenklappbaren Tripods aufgelegt. Bilder des Meers in der Nähe der Küste wurden nur bewusst provisorisch mit dünnen Nägeln an die Wand gesteckt. 
+
+<!--
+
+gehört, mit denen sie durch ihren Flughafen verbunden ist, und das taking care in einer Betonumgebung, die Accra mit dem system der Hyperstädte verbindet.
+
+Form: Story, Konzentration auf Personen in diesem Raum, die Qualitäten der Oberfläche wie des  Feuers
+
+Tom Biela: Materialität des Bildmaterials, Präsentation der Materialität der Infrastruktur. Konzentrierte Wahrnehmung dessen was ist, und zwar hier ist, fast mit Andachtsbild- Charakter.
+
+Markus Krottendorfer: Inszenierung der Oberfläche einer vergangenen Infrastruktur. Zeigt sie als etwas, das nicht unabhängig von Imagination ist, als etwas, das selbst zu einem Vorstellungsraum gehört.
+
+Komuna Maro: Zeigt die Vielfalt einer Region, vor allem das Verhältnis von Infrastruktur und Transport. -->
+
+## Anthropozän-Aspekt
+
+Die Infrastruktur, die in diesen vier Ausstellungen gezeigt wird, ist ein globales Phänomen, das die einzelnen Orte mit der durch dieselben Infrastrukturen geprägten Technosphäre verbindet. Sie ist immer massiv und übersteigt die Dimensionen der Akteure.
+
+
+
+## Stocks, Flows und Entropie
+
+Alle Ausstellungen thematisierten die enormen materiellen Stocks an, die wiederum enorme Materialflüsse erlauben bzw für sie nötig sind. Man kann sie und die in ihnen gezeigten Werke im Sinne einer Ästhetik des *planetaren Realismus* verstehen, der eine Realität wahrnehmbar macht, die für die Veränderung des Erdsystems und das Ende des Holozäns verantwortlich ist. Präsent gemacht wurden die Dimensionen einer auf der Extraktion von Mineralien beruhenden technischen Realität, die immer im Widerspruch zur organischen, menschlichen Wirklichkeit steht und zugleich selbst etwas Prekäres hat und sich immer wieder selbst zerstört.
+
+## Ausstellungs-Aspekt
+
+Die Ausstellungen ermöglichten eine räumliche Erfahrung der Räume, die gezeigt werden. Gestaltet wurden Vorstellungsräume, die reale Räume erfahrbar machen. Das kann durch eine reduzierte Erzählung erfolgen wie bei Samurai Saidi, durch Kontemplation und Verblüffung wie bei Tom Biela, durch Transformation und Imagination, die Selbstverständlichkeiten aufhebt, wie bei Markus Krottendorfer oder durch eine transitorische Inszenierung, die die spielerische Teilnahme an den Bewegungen in einem marinen Raum erlaubt wie bei Komuna Maro. Immer macht eine bestimmte „Verrücktheit“, eine Verschiebung von Perspektiven, Potenziale von Räumen erfahrbar. 
+

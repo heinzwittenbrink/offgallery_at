@@ -9,6 +9,45 @@ changeFreq: weekly
 </section>
 
 <details>
+<summary>2025: Infrastrukturen</summary>
+
+
+{%- for ausstellung in collections.ausstellung2025  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+<details>
+<summary>Zum Konzept unserer Ausstellungen 2025</summary>
+
+{%- for rueckblick in collections.rueckblick2025 -%}
+<section>
+{{ rueckblick.content | safe }}
+</section>
+{%- endfor -%}
+
+</details>
+
+</details>
+
+
+
+<details>
+<summary>2024: Sehnsucht nach Wildnis</summary>
+{%- for ausstellung in collections.ausstellung2024  | reverse -%}
+<section>
+{{ ausstellung.data.image | renderPicture() | safe }}
+<a href="{{ausstellung.url}}">{{ausstellung.data.title}}</a>
+<p>{{ ausstellung.data.teaser }} </p>
+</section>
+{%- endfor -%}
+</details>
+
+
+
+<details>
 <summary>2023: Material Flows</summary>
 <section>
 <p>Das Jahresprogramm 2023 war vor allem der fotografischen Darstellung von Räumen und Zonen gewidmet, in denen sich die gebaute Umwelt im Zusammenhang mit terrestrischen Prozesse (Erhöhung des Meeresspiegels, Auftauen des Permafrosts, Eintrag neuer Substanzen in ökologische Systeme) verändert. Diese Transformationen stellen – anders als die Modernisierungsprozesse der beiden letzten Jahrhunderte – die gewohnten Abgrenzungen von Kultur, Technik und Gesellschaft auf der einen Seite und Natur auf der anderen Seite in Frage.</p> 

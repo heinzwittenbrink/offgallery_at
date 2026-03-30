@@ -8,7 +8,7 @@ tags:
 - featured
 date: "2025-03-21"
 teaser: |-
-    Wir laden herzlich zur Präsentation des Buchs „Erika Petrić – Photographs, Writings, Interviews“ am 21. März um 19.00 Uhr in die off_gallery, Griesgasse 31, ein. Bei der Vorstellung des Buchs werden wir eine Ausstellung mit Fotos von Erika Petrić eröffnen, die bis zum 12.4. in der Galerie zu sehen sein wird.
+    Eric Petrić hat die off_gallery 2019 mit uns zusammen gegründet und sie dann kuratorisch geleitet. 2020 erlagt sie einer schweren Krebserkrankung. Mit einem von Paolo Rosselli besorgten Buch und einer Ausstellung erinnern wir an ihr Werk und an ihr Leben. 
 artists: Erika Petrić
 layout: event.njk
 eventtype: Buchpräsentation und Vernissage
@@ -19,71 +19,39 @@ quote:
 
 ---
 
-<br/>
 
-English version [below](#english_version)
 
-<br/>
+<!-- English version [below](#english_version) -->
 
-wir laden herzlich zur Präsentation des Buchs
 
-<br/>
+**Fotografin: Eric Petrić**
 
-**Erika Petrić – Photographs, Writings, Interviews**
+**Kuratierung: Paolo Rosselli, Martin Grabner**
 
-<br/>
+**Laufzeit: 22.3.-12.4.2025**
 
-am 
+Bei der Vernissage der Ausstellung am 21.3.2025 wurde das von Paolo Rosselli besorgte und von der off_gallery publizierte Buch **Erika Petrić - Photographs, Writings, Interviews** vorgestellt. Im Mittelpunkt dieses Buchs wie der Ausstellung stehen die fotografischen Arbeiten von Eric Petrić, die während ihrer Zeit in Graz ab 2009 entstanden. Außerdem enthält der Band autobiografische und essayistische Texte von Erika Petrić sowie vier Interviews mit Fotografen und Fotografen, die sie im Rahmen ihres Dissertationsprojekts über künstlerische Architekturfotografie durchführte.
 
-<br/>
+Eric Petrić war 2019 eine der drei Gründer:innen der off_gallery und hat sie dann kuratorisch geleitet. 2020 erlagt sie einer schweren Krebserkrankung. 
 
-**21. März um 19.00 Uhr**
+Bei der Vernissage der Ausstellung am 21.3.2025 ging Paolo Rosselli ausführlich auf die künstlerischen und die wissenschaftlichen Arbeiten von Erika Petrić ein.
 
-<br/>
-in die off_gallery, Griesgasse 31, ein.
+## Kurzbiografie Erika Petrić
 
-<br/>
-<br/>
+Erika Petrić (1967 Karlovac – Graz 2020) studierte Architektur an der Universität Ljubljana und war dann 15 Jahre als Architektin und Projektmanagerin in Wien tätig. Ab 2008 lehrte und forschte sie an der Architekturfakultät der TU Graz. 2009 absolvierte sie die Akademie für angewandte Fotografie in Graz und war seitdem künstlerisch als Fotografin und Kuratorin tätig. Thema ihrer Forschungsarbeit war die Phänomenologie der Fotografie im Kontext der Erfahrung und Nutzung von architektonischen Räumen.
 
-Bei der Vorstellung des Buchs werden wir eine Ausstellung mit Fotos von Erika Petrić eröffnen, die bis zum 12.4. in der Galerie zu sehen sein wird.
-
-<br/>
-Im Mittelpunkt des von Paolo Rosselli besorgten Buchs stehen die fotografischen Arbeiten von Eric Petrić, die während ihrer Zeit in Graz ab 2009 entstanden. Außerdem enthält der Band autobiografische und essayistische Texte von Erika Petrić sowie vier Interviews mit Fotografen und Fotografen, die sie im Rahmen ihres Dissertationsprojekts über künstlerische Architekturfotografie durchführte.
-
-<br/>
-<br/>
-
-Eric Petrić war 2019 eine der drei Gründer:innen der off_gallery und hat sie dann kuratorisch geleitet. 2020 erlagt sie einer schweren Krebserkrankung. Am 21. April möchten wir an ihr Werk und an ihr Leben erinnern.
-
-<br/>
-
-Die Ausstellung mit Fotografien von Erika Petrić ist **bis zum 12. April am 
-Dienstag, Mittwoch und Donnerstag von 15 bis 18 Uhr und nach Vereinbarung** geöffnet.
-
-<br/>
-
+<!--
 
 <p id="english_version"><em>English version:</em></p>
 
 <br/>
 
-We cordially invite you to the presentation of the book
-
-<br/>
 
 **Erika Petrić - Photographs, Writings, Interviews**
 
 <br/>
 
-on 
 
-<br/>
-
-**March 21 at 7.00 pm**
-
-<br/>
-
-at the off_gallery, Griesgasse 31.
 
 <br/>
 
@@ -100,10 +68,16 @@ Eric Petrić co-founded off_gallery in 2019 and then curated it. She died of can
 
 <br/>
 
-The exhibition with photographs by Erika Petrić is open **until April 12 on 
-Tuesday, Wednesday and Thursday from 3 to 6 pm and by appointment**.
-
-<br/>
-
+-->
 
 Bild/Picture: (c) Paolo Rosselli
+
+
+{%- for erika in collections.erika-petric   reverse -%}
+<section id="{{ erika.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ erika.data.title }}</summary>
+    {{ erika.content}}
+  </details>
+</section>
+{%- endfor -%}

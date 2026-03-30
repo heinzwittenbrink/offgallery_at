@@ -5,10 +5,10 @@ author: Heinz Wittenbrink
 tags:
 - ausstellung
 - ausstellung2025
-- featured
 date: "2025-04-17"
 teaser: |-
-    Wir laden herzlich zur Eröffnung der Ausstellung „Strukturen des Fließens“ mit Werken von Tom Biela am 7.6.2025 um 19:00 ein. 
+    Die Fotoausstellung „Strukturen des Fließens“ widmet sich der Infrastruktur als stillem Fundament unserer Zivilisation. Im Mittelpunkt stehen Asphalt, Beton und Stahl – die meistverwendeten Materialien unseres gesellschaftlichen Stoffwechsels. Sie formen Wege, verbinden Räume und tragen Lasten. Ihre Oberflächen belegen die Dynamik von Bewegung, Belastung, ständiger Veränderung, Wachstum und Entropie.
+	
 artists: Tom Biela
 layout: event.njk
 eventtype: Vernissage
@@ -23,28 +23,13 @@ quote:
 
 (English version [below](#english_version))
 
-<br/>
+**Fotograf: Tom Biela**
 
-Am 7.6. um 19:00 eröffnen wir die Ausstellung
-<br/>
+**Laufzeit: 30.10-4.12.2025**
 
-<br/>
+**Kurator: Martin Grabner**
 
-**Tom Biela**
-<br/>
 
-<br/>
-
-**Strukturen des Fließens**
-<br/>
-
-<br/>
-
-**(Geöffnet: 8.6.–4.7.2025 Di, Mi und Do 15–18 Uhr und nach Vereinbarung**
-<br/>
-
-<br/>
-Die Fotoausstellung „Strukturen des Fließens“ widmet sich der Infrastruktur als stillem Fundament unserer Zivilisation. Im Mittelpunkt stehen Asphalt, Beton und Stahl – die meistverwendeten Materialien unseres gesellschaftlichen Stoffwechsels. Sie formen Wege, verbinden Räume und tragen Lasten. Ihre Oberflächen belegen die Dynamik von Bewegung, Belastung, ständiger Veränderung, Wachstum und Entropie.
 <br/>
 
 <br/>
@@ -59,23 +44,15 @@ Ein weiterer Fokus liegt auf der Wechselwirkung zwischen Infrastruktur und Lands
 
 **Tom Biela** arbeitet als spartenübergreifender Bricoleur in den Feldern: Kunst, Fotografie und Architektur. Sammlungen bilden die Grundlage für seine Arbeiten. Beobachtungen aus dem Alltag liefern die Impulse. Aus Material-Experimenten und Analysen entstehen konzeptuelle Serien.
 
-<br/>
-
-<br/>
 Bild: (c) Tom Biela
-<br/>
 
-<br/>
-<br/>
+**Veranstaltungen** im Rahmen der Ausstellung: Vernissage 7.6.2025, Midissage am 18.6.2025, Finissage am 17.7.2025
+
 
 <p id="english_version"><em>English version:</em></p>
 
 <br/>
-<br/>
 
-On 7.6. at 19:00 we open the exhibition
-
-<br/>
 <br/>
 
 **Tom Biela**
@@ -86,11 +63,7 @@ On 7.6. at 19:00 we open the exhibition
 **Structures of Flow**
 
 <br/>
-<br/>
 
-**(Open: 8.6.-4.7.2025 Tue, Wed and Thu 3-6 pm and by appointment)**
-
-<br/>
 <br/>
 
 The photo exhibition “Structures of Flow” is dedicated to infrastructure as the silent foundation of our civilization. The focus is on asphalt, concrete and steel – the most frequently used materials in our social metabolism. They form paths, connect spaces and carry loads. Their surfaces demonstrate the dynamics of movement, stress, constant change, growth and entropy.
@@ -114,3 +87,12 @@ Another focus is on the interaction between infrastructure and landscape. The wo
 <br/>
 
 Picture: (c) Tom Biela
+
+{%- for strukturen in collections.strukturen-des-fliessens   reverse -%}
+<section id="{{ strukturen.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ strukturen.data.title }}</summary>
+    {{ strukturen.content }}
+  </details>
+</section>
+{%- endfor -%}

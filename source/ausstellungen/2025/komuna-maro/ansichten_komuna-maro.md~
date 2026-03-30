@@ -1,0 +1,8 @@
+---
+permalink: false
+id: ansichten_kumuna-maro
+tags: kumuna-maro
+title: "Ansichten der Ausstellung"
+date: 2025-12-11
+---
+<div>{% gallery "source/ausstellungen/2025/kumuna-maro/ansichten.json", "(min-width: 840px) 720px, calc(93.08vw - 43px)" %}</div>

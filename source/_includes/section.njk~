@@ -1,7 +1,0 @@
-<section>
-<detail>
-<summary>{{title}}</summary>
-{{content | safe }}
-
-</detail>
-</section>

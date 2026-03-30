@@ -20,11 +20,6 @@ quote:
 ---
 
 
-**Fotograf: Michael Goldgruber**
-
-**Laufzeit: 13.05.–19.7.2023**
-
-**Gestaltung Michael Goldgruber**
 
 
 „Festland“ war eine Installation zu Veränderungen des Erdsystems. Ihre Ursachen – fossile Brennstoffe und Intensivlandwirtschaft – bleiben meist verborgen. Die Veränderungen vollziehen sich scheinbar langsam und weit entfernt von uns. In Michael Goldgrubers Installation kamen sie uns nah – als Meer, dass sich auf unaufhaltsam auf uns zubewegt, sowie als topografisches Bildmaterial über die Gletscherschmelze. Sie wurden als Prozesse spürbar, die sich auch in uns und mit uns abspielen. 

@@ -5,13 +5,12 @@ author: Heinz Wittenbrink
 tags:
 - ausstellung
 - ausstellung2025
-- featured
+
 date: "2025-04-17"
 teaser: |-
-    Wir laden herzlich zur Eröffnung der Ausstellung „beyond lost roads“ mit Bildern von Samira Saidi am 17.4.2025 um 19:00 ein. 
-artists: Erika Petrić
-layout: event.njk
-eventtype: Vernissage
+    Die Fotografin, Schriftstellerin und Menschenrechtsexpertin Samira Saidi untersucht in ihren essayistisch angelegten Fotoarbeiten soziologische Strukturen von Zugehörigkeit, Ethnie und intersektionalen Identitäten. Ausgehend vom Körper sucht sie auch nach Möglichkeiten, diese zu verändern.
+artists: Samira Saidi	
+layout: blog.njk
 teaser_image: ["2025/beyond-lost-roads/70-50-7", "Aus: beyond-lost-roads. Bild: Samira Saidi"]
 image: ["2025/beyond-lost-roads/70-50-7", "Aus: beyond-lost-roads. Bild: Samira Saidi"]
 
@@ -19,80 +18,38 @@ quote:
 
 ---
 
-<br/>
-
 (English version [below](#english_version))
 
-<br/>
+**Fotografin: Samira Saidi**
 
-Wir laden herzlich zur Eröffnung der Ausstellung
+**Laufzeit: 18.4.–18.5.2025**
 
-<br/>
+**Kurator: Martin Grabner**
 
-**Samira Saidi – beyond lost roads**
-
-<br/>
-
-am 
-
-<br/>
-
-**17. April um 19.00 Uhr**
-
-<br/>
-in die off_gallery, Griesgasse 31, ein.
-<br/>
-<br/>
-
-Die Ausstellung ist **bis zum 18. Mai am 
-Dienstag, Mittwoch und Donnerstag von 15 bis 18 Uhr und nach Vereinbarung** geöffnet.
-<br/>
-<br/>
 „Ghana wächst. Mit einer der am schnellsten wachsenden Volkswirtschaften Afrikas entwickelt sich das Land zu einem zentralen Knotenpunkt für Handel, Innovation und Kultur. Die Hauptstadt Accra pulsiert: Märkte sind voller Leben, neue Architektur prägt das Stadtbild, und eine junge, kreative Szene macht sich international einen Namen. Doch mit dem Wachstum verändert sich
 auch das Stadtbild auf andere Weise – Müll wird zum ständigen Begleiter des Alltags.
-<br/>
-<br/>
+
 Öffentliche Abfallbehälter sind selten, eine systematische Müllentsorgung bleibt für viele unerreichbar. Ohne Alternativen landet der Abfall in Straßen, Wasserwegen oder wird verbrannt – mit weitreichenden Folgen. Verstopfte Kanäle lassen Regenwasser nicht mehr abfließen, Überschwemmungen werden zur Gefahr. Überquellende Straßenränder beeinträchtigen die Sicherheit, während die Umwelt unter der unkontrollierten Anhäufung von Abfall leidet.
-<br/>
-<br/>
+
 Doch aus dieser Realität heraus entsteht Bewegung. Wo offizielle Strukturen versagen, übernehmen Menschen selbst Verantwortung. Sie kehren Straßen frei, räumen Wasserwege, schaffen Bewusstsein. Inmitten von Herausforderungen wachsen neue Wege – geformt von denen, die sich nicht mit dem Bestehenden abfinden.
-<br/>
-<br/>
+
 In jedem Handgriff, in jeder Geste liegt die Spur des Wandels – sichtbar für jene, die jenseits verlorener Wege blicken.“ (Samira Saidi)
-<br/>
-<br/>
+
 
 **Samira Saidi** ist eine ghanaisch-österreichische Künstlerin. Ihre transmediale Praxis verbindet kreativen Ausdruck und Arbeit für soziale Gerechtigkeit. Dabei baut sie toxische Stereotype im visuellen Geschichtenerzählen ab und bietet alternative Perspektiven, um Unterrepräsentiertes zu verstärken. Samira Saidi studierte an der Königlichen Kunstakademie in Den Haag und an der Universität für Angewandte Kunst Wien. Website: <https://samirasaidi.com>
-<br/>
 
-<br/>
+**Veranstaltungen im Rahmen der Ausstellung:** Vernissage am 17.4.2025; Finissage am 17.5. im Rahmen der Galerientage. Der ORF-Steiermark berichtete über diese Ausstellung und die off_gallery in seinem Fernsehbericht über die Galerientage. Einen Audiobericht über die Vernissage brachte Radio Helsinki; er ist [hier](https://helsinki.at/podcast/709235/) nachzuhören (ab Minute 32). 
+
+[Einladungskarte (PDF) herunterladen](/assets/pdfs/karte_beyond_lost_roads.pdf "Link zur Einladungskarte")
+
+
 
 <p id="english_version"><em>English version:</em></p>
-
-<br/><br/>
-
-We cordially invite you to the opening of the exhibition
 
 <br/>
 
 **Samira Saidi - beyond lost roads**
 
-<br/>
-
-on 
-
-<br/>
-
-**April 17 at 7.00 pm**
-
-<br/>
-at off_gallery, Griesgasse 31.
-
-<br/>
-<br/>
-
-The exhibition is open **until May 18 on 
-Tuesday, Wednesday and Thursday from 3 to 6 pm and by appointment**.
 
 <br/>
 “Ghana is growing. With one of the fastest growing economies in Africa, the country is developing into a central hub for trade, innovation and culture. The capital Accra is buzzing: Markets are full of life, new architecture characterizes the cityscape and a young, creative scene is making a name for itself internationally. But as the city grows,
@@ -115,3 +72,14 @@ In every movement, in every gesture lies the trace of change – visible to thos
 
 
 Bild/Picture: (c) Samira Saidi
+
+
+  
+{%- for beyond in collections.beyond-lost-roads  | reverse -%}
+<section id="{{beyond.data.id}}" class="ausstellungs_details">
+<details>
+<summary>{{beyond.data.title}}</summary>
+{{beyond.content}}
+</details>
+</section>
+{%- endfor -%}
