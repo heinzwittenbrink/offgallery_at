@@ -19,8 +19,6 @@ image: ["2026/from-one-side-to-another/ankuendigung_split3", "Bild: Julia Gaisba
 
 (English version [below](#english_version))
 
-<br/>
-
 Am **24.4. um 16:00** eröffnen wir die Ausstellung
 
 **Julia Gaisbacher:  From One Side to Another**
@@ -38,9 +36,6 @@ Julia Gaisbacher geht dem heutigen Leben in Split 3 nach. Ihre Bilder zeigen den
 
 
 Bild: (c) Julia Gaisbacher
-
-
-<br/>
 
 <p id="english_version"><em>English version:</em></p>
 
@@ -60,9 +55,6 @@ Julia Gaisbacher examines contemporary life in Split 3. Her images depict the de
 
 **Julia Gaisbacher** was born in Graz in 1983 and lives in Vienna. Her work focuses on extensive research and long-term observations, concentrating on architecture and urban landscapes as human environments. Her work has been widely exhibited in Austria and internationally. She has published three photobooks. Website: [juliagaisbacher.com](https://juliagaisbacher.com/)
 
-
-<br/>
-<br/>
 Picture: (c) Julia Gaisbacher
 
 
