@@ -4,7 +4,6 @@ permalink: /ausstellungen/2025/terminal/finissage/
 author: Heinz Wittenbrink
 tags:
   - artist_talk
-  - featured
 date: "2025-12-04"
 teaser: |-
 

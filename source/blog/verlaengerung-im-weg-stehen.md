@@ -5,7 +5,6 @@ author: Heinz Wittenbrink
 eventtype: "Finissage"
 tags:
 - blog
-- featured
 date: "2025-02-13"
 teaser: |-
   Wir verlängern die Ausstellung „Im Weg stehen“ bis zum 13. Februar 2025 und beenden sie mit einer kleinen Finissage. 

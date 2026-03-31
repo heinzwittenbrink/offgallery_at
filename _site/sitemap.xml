@@ -991,4 +991,10 @@
             <changefreq></changefreq>
         </url>
     
+        <url>
+            <loc>https://offgallery.at/ausstellungen/2026/from-one-side-to-another/</loc>
+            <lastmod>2026-04-24T00:00:00.000Z</lastmod>
+            <changefreq>weekly</changefreq>
+        </url>
+    
 </urlset>

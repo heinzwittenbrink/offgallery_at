@@ -1,0 +1,69 @@
+---
+title: "From One Side to Another"
+permalink: /ausstellungen/2026/from-one-side-to-another/
+author: Heinz Wittenbrink
+tags:
+- ausstellung
+- ausstellung2026
+- featured
+date: "2026-04-24"
+teaser: |-
+    Am 24.4. eröffnen wir unsere nächste Ausstellung: „From one Side to Another“ – ein Projekt von Julia Gaisbacher. Am 25.4. um 16:00 findet ein Künstlerinnengespräch mit Julia Gaisbacher statt.
+artists: Julia Gaisbacher
+layout: event.njk
+eventtype: Vernissage
+teaser_image: ["2026/from-one-side-to-another/ankuendigung_split3", "Bild: Julia Gaisbacher"]
+image: ["2026/from-one-side-to-another/ankuendigung_split3", "Bild: Julia Gaisbacher"]
+---
+
+
+(English version [below](#english_version))
+
+<br/>
+
+Am **24.4. um 16:00** eröffnen wir die Ausstellung
+
+**Julia Gaisbacher:  From One Side to Another**
+
+(**Geöffnet während der Galerientage am 24.4.2026 von 15:00-20:00, am 25.4.2026 von 10:00-18:00, am 26.4.2026 von 10:00-17:00, danach 14.2.–19.3.2026: Di, Mi, Do 15–18 Uhr und nach Vereinbarung**)
+
+Wir laden herzlich zu einem **Künstlerinnengespräch mit Julia Gaisbacher am 
+25.4. um 13:30** ein. 
+
+„From one Side to Another“ ist eine fotografische Recherche zu Trstenik in Split, einem Teil des modernistischen Stadtviertels Split 3. Split 3 wurde in den 60er und 70er Jahre als beispielhafte urbanistische Lösung konzipiert und vor allem in den 80er Jahren gebaut, aber nicht fertiggestellt. Ziel der Planung war es, in dem neuen Stadtteil ein möglichst wenig entfremdetes Leben zu ermöglichen und private und öffentliche Räume miteinander zu verbinden. Neue Eigentumsverhältnisse nach dem Ende des Sozialismus und neue Nutzungen veränderten und verändern den Stadtteil. Darunter leiden die Bewohnbarkeit und die ästhetischen Qualitäten des Viertels. 
+
+Julia Gaisbacher geht dem heutigen Leben in Split 3 nach. Ihre Bilder zeigen den Verfall einer sozialistischen Utopie durch eine von unregulierten Marktverhältnissen dominierte Baupraxis und Raumnutzung, zu der außer Einkaufszentren auch ein ausufernder Autoverkehr gehört. Bei der Wahl der fotografischen Perspektiven orientiert sich Julia Gaisbacher an den Perspektiven der Bewohner:innen. Mit diesem Projekt setzt sie ihre Recherchen zu utopischen und dystopischen urbanistischen Projekten fort.
+
+**Julia Gaisbacher** wurde 1983 in Graz geboren und lebt in Wien. Im Mittelpunkt ihrer Arbeitsweise stehen umfangreiche Recherchen und Langzeitbeobachtungen, die sich auf Architektur und Stadtlandschaft als menschliches Lebensumfeld konzentrieren. Ihre Arbeiten wurden in Österreich und international vielfach ausgestellt. Sie publizierte drei Fotobücher. Website: https://juliagaisbacher.com/
+
+
+Bild: (c) Julia Gaisbacher
+
+
+<br/>
+
+<p id="english_version"><em>English version:</em></p>
+
+
+
+On **24 April at 16:00**, we open the exhibition
+
+**Julia Gaisbacher: From One Side to Another**
+
+(**Open during gallery days on 24.4.2026 from 15:00–20:00, on 25.4.2026 from 10:00–18:00, on 26.4.2026 from 10:00–17:00; thereafter 14.2.–19.3.2026: Tue, Wed, Thu 15:00–18:00 and by appointment**)
+
+We warmly invite you to an **artist talk with Julia Gaisbacher on 25 April at 13:30**.
+
+“From one Side to Another” is a photographic exploration of Trstenik in Split, part of the modernist district Split 3. Split 3 was designed in the 1960s and 1970s as an exemplary urban solution and built mainly in the 1980s, but was never completed. The aim of the planning was to enable a life as free from alienation as possible in the new district and to connect private and public spaces. New ownership structures after the end of socialism and new uses have changed—and continue to change—the district. This has affected both its habitability and its aesthetic qualities.
+
+Julia Gaisbacher examines contemporary life in Split 3. Her images depict the decline of a socialist utopia through building practices and spatial usage dominated by unregulated market conditions, which also include sprawling shopping centres and excessive car traffic. In choosing her photographic perspectives, Julia Gaisbacher orients herself towards the perspectives of the residents. With this project, she continues her research into utopian and dystopian urban planning projects.
+
+**Julia Gaisbacher** was born in Graz in 1983 and lives in Vienna. Her work focuses on extensive research and long-term observations, concentrating on architecture and urban landscapes as human environments. Her work has been widely exhibited in Austria and internationally. She has published three photobooks. Website: [juliagaisbacher.com](https://juliagaisbacher.com/)
+
+
+<br/>
+<br/>
+Picture: (c) Julia Gaisbacher
+
+
+ 

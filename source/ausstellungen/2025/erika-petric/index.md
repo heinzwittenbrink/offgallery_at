@@ -5,7 +5,6 @@ author: Heinz Wittenbrink
 tags:
 - ausstellung
 - ausstellung2025
-- featured
 date: "2025-03-21"
 teaser: |-
     Eric Petrić hat die off_gallery 2019 mit uns zusammen gegründet und sie dann kuratorisch geleitet. 2020 erlagt sie einer schweren Krebserkrankung. Mit einem von Paolo Rosselli besorgten Buch und einer Ausstellung erinnern wir an ihr Werk und an ihr Leben. 
