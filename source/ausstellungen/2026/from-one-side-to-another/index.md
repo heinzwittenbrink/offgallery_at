@@ -8,7 +8,7 @@ tags:
 - featured
 date: "2026-04-24"
 teaser: |-
-    Am 24.4. eröffnen wir unsere nächste Ausstellung: „From one Side to Another“ – ein Projekt von Julia Gaisbacher. Am 25.4. um 16:00 findet ein Künstlerinnengespräch mit Julia Gaisbacher statt.
+    Am 24.4. eröffnen wir unsere nächste Ausstellung: „From one Side to Another“ – ein Projekt von Julia Gaisbacher. Am 25.4. um 13:30 findet ein Künstlerinnengespräch mit Julia Gaisbacher statt.
 artists: Julia Gaisbacher
 layout: event.njk
 eventtype: Vernissage
