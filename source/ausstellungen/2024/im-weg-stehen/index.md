@@ -8,6 +8,7 @@ tags:
 date: "2024-12-17"
 teaser: |-
      Am 6. November um 19:00 eröffnen wir die Ausstellung „Im Weg stehen“ von Leonhard Rabensteiner. Sie ist ein gemeinsames Projekt mit dem Verein Werbefrei. 
+artists: Leonhard Rabensteiner
 layout: ausstellung.njk
 teaser_image: ["2024/im-weg-stehen/im-weg-stehen-1", "(c): Leonhard Rabensteiner"]
 image:  ["2024/im-weg-stehen/im-weg-stehen-1", "(c): Leonhard Rabensteiner"]
@@ -51,3 +52,13 @@ Am 21.1. fand anlässlich der Ausstellung die Diskussion: „Wie viel Werbung br
 Moderation: Heinz Wittenbrink, off_gallery graz.
 
 Eine Aufzeichnung der Diskussion findet sich hier: <https://cba.media/695431>. Danke [Radio Helsinki](https://helsinki.at/ "Radio Helsinki")!
+
+
+{%- for weg in collections.im-weg-stehen   reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ weg.data.title }}</summary>
+    {{ weg.content }}
+  </details>
+</section>
+{%- endfor -%}

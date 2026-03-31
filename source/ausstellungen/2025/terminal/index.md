@@ -10,13 +10,13 @@ teaser: |-
     Markus Krottendorfer interessiert sich in seinen Projekten für die Spuren in sich widersprüchlicher Weltentwürfe, die sich in unsere Räume einschreiben und aus ihnen heraus auf die Gesellschaft wirken.
 artists: Markus Krottendorfer
 layout: blog.njk
-eventtype: Vernissage
+eventtype: 
 teaser_image: ["2025/terminal/decke3_TER", "Aus: Terminal. Bild: Markus Krottendorefer"]
 image: ["2025/terminal/decke3_TER", "Aus: Terminal. Bild: Markus Krottendorefer"]
 ---
 
 
-(English version [below](#english_version))
+<!-- (English version [below](#english_version))-->
 
 
 **Fotograf: Markus Krottendorfer**
@@ -28,28 +28,22 @@ image: ["2025/terminal/decke3_TER", "Aus: Terminal. Bild: Markus Krottendorefer"
 
 Am stillgelegten Athener Flughafen Ellinikon setzt er sich in „Terminal“ mit den der Architektur der 1960er-Jahre immanenten Ideologien der Moderne auseinander: einem ungebrochenen Glauben an die technische Entwicklung, Fortschritt und Wachstum. Die Ikonen der damals noch jungen Globalisierung wurden zu „Nicht-Orten“, wie sie Marc Augé beschreibt, und schließlich zu Zeugen einer Vergangenheit, die immer noch unsere Gegenwart bestimmt. Auch die sich noch in Betrieb befindenden Kraftwerke der Serie „Power Plant Stories“ vermitteln diese Dichotomien von Rationalität und Fiktion, Vergangenheit und Gegenwart.
 
-<br/>
-
 Krottendorfers Arbeiten sind im Kern dokumentarisch. Durch die präzise, fast theatralische fotografische Inszenierung mit ausschließlich analogen Mitteln erschließen sie aber auch das utopische Potenzial der von ihm gefundenen Orte und verwandeln sie in gleichermaßen verführerische wie melancholische illusionistische Räume.
-
-<br/>
 
 Zu den gezeigten Arbeiten erschienen die beiden Künstlerbücher „Terminal“ (Fotohof Edition, 2024) und „Eyes of the Night“ mit Scott Clifford Evans (VfmK, 2025).
 
-<br/>
 
 **Markus Krottendorfer** (geb. 1976 in Wien), lebt und arbeitet in Wien. Nach der Ausbildung an der Schule Friedl Kubelka für künstlerische Fotografie Wien schloss er sein Diplomstudium an der Akademie der bildenden Künste Wien bei Eva Schlegel und Josephine Pryde ab. Seit 2001 wurden seine Arbeiten in Österreich und international in zahlreichen Einzel- und Gruppenausstellungen gezeigt und in mehreren Künstlerbüchern publiziert.
 
 
 [Einladungskarte (PDF) herunterladen](/assets/pdfs/karte_terminal.pdf "Link zur Einladungskarte")
 
-<br/>
+**Veranstaltungen im Rahmen der Ausstellung:** Vernissage am 29.10.2025, Finissage am 4.12.2025
+
+
 Bild: (c) Markus Krottendorfer
-<br/>
 
-<br/>
-<br/>
-
+<!--
 <p id="english_version"><em>English version:</em></p>
 
 <br/>
@@ -95,6 +89,7 @@ The two artist books ‘Terminal’ (Fotohof Edition, 2024) and ‘Eyes of the N
 <br/>
 
 Picture: (c) Markus Krottendorfer
+-->
 
 {%- for terminal in collections.terminal   reverse -%}
 <section id="{{ terminal.data.id }}" class="ausstellungs_details">

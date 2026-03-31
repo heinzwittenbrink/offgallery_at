@@ -32,3 +32,13 @@ Die Fotografien und Cyanotypien  der Ausstellung dokumentierten das bedrohte Ök
 > Es gibt viele Gründe, sich draußen in der Lagune aufzuhalten. Sie wird von Menschen jeden Alters besucht, in Booten aller Art, vom lächerlich großen Kreuzfahrtschiff bis zu traditionellen venezianischen Ruderbooten. Vögel rufen, Fische sind zu sehen, Krebse huschen vorbei, während sich Quallen von der Strömung treiben lassen. Der Lärm landender und startender Flugzeuge unterbricht jede Serenissima-Stimmung, während die Blicke der Menschen die Lagunenlandschaft erkunden, eine flüchtige Umgebung. Wir sind nicht allein.“
 
 Liz Nicol lebt und arbeitet als Fotografin in Exeter und Venedig. Zu ihren neueren Projekten gehört – außer der fotografischen Langzeitbeobachtung der bedrohten Umwelt der Lagune von Venedig – die Erforschung von Stätten der Erinnerung an den Ersten Weltkrieg.  Liz Nicol war lange als Professorin für Fotografie an der Universität von Plymouth und als Leiterin der dortigen School of Art & Media und des Masterprogramms für Fotografie tätig. Ihre Arbeiten wurden bisher in Großbritannien, Italien, Dänemark und Norwegen ausgestellt. Liz Nicols Website: <https://www.liznicol.co.uk/>
+
+
+{%- for close in collections.getting-close reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ close.data.title }}</summary>
+    {{ close.content }}
+  </details>
+</section>
+{%- endfor -%}

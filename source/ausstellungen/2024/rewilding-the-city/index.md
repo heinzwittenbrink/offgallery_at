@@ -9,7 +9,7 @@ date: "2024-07-17"
 teaser: |-
   Am 17.7.2024 um 19:00 eröffnen wir unsere nächste Ausstellung: „Rewilding the City". Die Bilder der Ausstellung dokumentieren fotografische Recherchen zur Wildnis in städtischen Räumen.
 
-artists:
+artists: Open Call
 layout: ausstellung.njk
 teaser_image: ["_MG_1763_(c)_martin_grabner-klein", "(c): Martin Grabner 2024"]
 image: ["_MG_1763_(c)_martin_grabner-klein", "(C): Martin Grabner 2024"]
@@ -34,3 +34,13 @@ Es ging um menschliche wie um nichtmenschliche Beteiligte, um langfristige Entwi
 <article style="padding: 0">
 <div style="--slide-show-slide-height: 80dvh;">{% gallery "source/ausstellungen/2024/rewilding-the-city/rewilding-the-city-slideshow-collection.json", "(min-width: 840px) 1280px, calc(93.08vw - 43px)" %}</div>
 </article>
+
+
+{%- for rewilding in collections.rewilding-the-city   reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ rewilding.data.title }}</summary>
+    {{ rewilding.content }}
+  </details>
+</section>
+{%- endfor -%}

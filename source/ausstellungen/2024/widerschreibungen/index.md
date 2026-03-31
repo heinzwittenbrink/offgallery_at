@@ -29,3 +29,12 @@ Alfred Resch-Díaz beschäftigt sich in seiner Arbeit oft mit den Beziehungen vo
 Wir fragten nach dem Zugang zu einer „wilden“ Realität, die ein zivilisatorisches Konstrukt ist. Die Kontinuität der Natur steht im Gegensatz zur Diskontinuität von kulturellen Codes, die uns auf der Tastatur als schwer zu entziffernde zweite Natur begegnen. Dabei ist es von unserer Situation abhängig, wie wir die Intervention interpretieren. Sie bekommt unkontrollierbare Kontexte – durch Eingriffe von Menschen, die sie vorgefunden haben, aber auch durch spätere Werke ihres Urhebers und Veränderungen unserer Beziehungen zur Natur in der Epoche der Klimakrise.
 
 Bei der Eröffnung am 16.4.2024 führte Tanja Gurke in die Ausstellung ein. Matthias Forenbacher spielte eigene Kompositionen. Am 4.5. fand ein Künstlergespräch statt. 
+
+{%- for widerschreibung in collections.widerschreibungen   reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ widerschreibung.data.title }}</summary>
+    {{ widerschreibung.content }}
+  </details>
+</section>
+{%- endfor -%}

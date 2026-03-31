@@ -10,22 +10,16 @@ teaser: |-
     „Komuna Maro“ (Esperanto für „gemeinsames Meer“) untersucht mit künstlerischen und wissenschaftlichen Methoden, wie in der nördlichen Adria soziale Räume und Wissen über diese Räume hergestellt und dargestellt werden. Durch die Zusammenführung von Erkenntnissen aus der experimentellen Geografie, Ozeanografie und visuellen Anthropologie mit kollaborativen künstlerischen Praktiken zielt das Projekt darauf ab, die tiefen Verflechtungen zwischen menschlichem und marinem Leben innerhalb umfassenderer ökologischer und wirtschaftlicher Systeme aufzudecken.
 artists: Ana Dana Beroš, Ana Jeinić, Ana Opalić
 layout: blog.njk
-eventtype: Vernissage
+eventtype: 
 teaser_image: ["2025/komuna-maro/1962024_MUCILAZ_INA_NA_4009-1", "Bild: Ana Opalić"]
 image: ["2025/komuna-maro/1962024_MUCILAZ_INA_NA_4009-1", "Aus: Bild: Ana Opalić"]
 ---
 
-<head>
- <link rel="stylesheet" type="text/css" href="/assets/css/base.css">
-    <link rel="stylesheet" type="text/css" media="print" href="/assets/css/print.css">
-
-
-</head>
-
+<!--
 (English version [below](#english_version))
 
+-->
 
-<br/>
 
 **Ein künstlerisches Rechercheprojekt von Ana Dana Beroš, Ana Jeinić, Ana Opalić, Lucia Rebolino, Federica Pessotto und anderen**
 
@@ -83,12 +77,13 @@ Die Ausstellung präsentiert Aufnahmen der kroatischen Fotografin Ana Opalić un
 
 **Federica Pessotto** ist Architektin und Art Directorin und lebt in Turin/Mailand. Sie nutzt die Überschneidung verschiedener Disziplinen als treibende Kraft und definiert ihre Praxis als Untersuchung visueller Codes, Sprachen und Methoden, um sich dem zeitgenössischen Projekt im weitesten Sinne zu nähern. Website: <https://federicapessotto.com/>
 
-<br/>
+**Veranstaltungen im Rahmen der Ausstellung:** Vernissage am 10.12.2025, Kuratorinnenführung am 28.1.2026
 
 Das künstlerische Forschungsprojekt Komuna Maro wird vom Österreichischen Wissenschaftsfonds (FWF) finanziert und vom IZK – Institut für zeitgenössische Kunst an der Technischen Universität Graz (Oktober 2023 – März 2025) sowie vom Institut für Architektur und Entwerfen an der TU Wien (April 2025 – September 2027) durchgeführt.
 
 ![](/assets/svg/FWF.svg)
 
+<!--
 <br/>
 
 <p id="english_version"><em>English version:</em></p>
@@ -166,6 +161,7 @@ The artistic research project Komuna Maro is funded by the Austrian Science Fund
 <br/>
 
 Picture: (c) Ana Opalić
+-->
 
 {%- for komuna in collections.komuna-maro   reverse -%}
 <section id="{{ kumuna.data.id }}" class="ausstellungs_details">

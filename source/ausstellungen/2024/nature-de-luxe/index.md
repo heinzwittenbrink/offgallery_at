@@ -8,6 +8,7 @@ tags:
 date: "2024-09-16"
 teaser: |-
     Am 16.9. um 19:00 eröffnen wir „Nature de Luxe“ mit Bildern von Andrew Phelps, darunter einigen aus seiner neueren Serie „Over Land“. Phelps' Blick ist darauf gerichtet, „... wie die Menschen die Natur gebrauchen, sie zähmen und sich erschließen, und inwieweit die Fotografie der Natur beziehungsweise dem Erlebten gerecht werden kann“ (Ruth Horak). 
+artists: Andrew Phelps
 layout: ausstellung.njk
 eventtype: Vernissage
 teaser_image: ["2024/nature-de-luxe/werke/phelps_8074", "(c): Andrew Phelps"]
@@ -37,3 +38,13 @@ Zur Eröffnung dieser Ausstellung konnten wir auch eine Klasse der Ortweinschule
 Im Rahmen einer Finissage am 17.10. blickte Andrew Phelps in einem Vortrag auf 30 Jahre Arbeit als Fotograf zurück und stellte dabei seine wichtigsten Projekte vor. Danach war Gelegenheit zum Gespräch.
 
 Der Vortrag fand aus Platzgründen im raum, Griesgasse 26, statt. Wir danken unseren Freundinnen und Freunden vom raum für die Unterstützung.
+
+
+{%- for nature in collections.nature-de-luxe   reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ nature.data.title }}</summary>
+    {{ nature.content }}
+  </details>
+</section>
+{%- endfor -%}

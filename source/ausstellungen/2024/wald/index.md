@@ -6,6 +6,7 @@ tags:
 - ausstellung
 - ausstellung2024
 date: "2024-11-06"
+artists: Heinz Pöschko
 teaser: |-
      Am 6. November um 19:00 eröffnen wir die Ausstellung „Wald“ mit neuen Arbeiten von Heinz Pöschko. Damit setzen wir unseren Zyklus „Sehnsucht nach Wildnis“ fort.
 layout: ausstellung.njk
@@ -31,5 +32,15 @@ Pöschko entwickelt Verfahren, um die nicht an der Oberfläche sichtbaren Aspekt
 <strong>Heinz Pöschko</strong> arbeitete als Sonderpädagoge in Graz und begann schon in den 1990er Jahren, sich intensiv mit dem Medium Fotografie auseinanderzusetzen. Er analysiert und hinterfragt den Wirklichkeitsbezug der Fotografie und entwickelt so Strategien, das fotografische Bild von der Realität zu emanzipieren. Seine Bilder wurden in Einzel- und Gruppenausstellungen in Graz, Innsbruck, Leibnitz, Neumarkt, Pischelsdorf; Wien, Radkersburg und Gleisdorf gezeigt. Er erhielt den Landesförderungspreises des Landes Steiermark für Fotografie 1992 (3.) und 1993 (1.) und das Österreichische Staatsstipendium für Fotografie 1993. Website: https://www.heinz-poeschko.at/
 
 Bei der Finissage der Ausstellung am 6.12. war Gelegenheit zu einem ausführlichen Künstlergespräch. 
+
+
+{%- for wald in collections.wald   reverse -%}
+<section id="{{ terminal.data.id }}" class="ausstellungs_details">
+  <details>
+    <summary>{{ wald.data.title }}</summary>
+    {{ wald.content }}
+  </details>
+</section>
+{%- endfor -%}
 
 
