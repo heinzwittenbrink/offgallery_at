@@ -12,8 +12,8 @@ teaser: |-
 artists: Julia Gaisbacher
 layout: event.njk
 eventtype: Vernissage
-teaser_image: ["2026/from-one-side-to-another/ankuendigung_split3", "Bild: Julia Gaisbacher"]
-image: ["2026/from-one-side-to-another/ankuendigung_split3", "Bild: Julia Gaisbacher"]
+teaser_image: ["2026/from-one-side-to-another/ankuendigung_trstenik", "Bild: Julia Gaisbacher"]
+image: ["2026/from-one-side-to-another/ankuendigung_trstenik", "Bild: Julia Gaisbacher"]
 ---
 
 
@@ -23,7 +23,7 @@ Am **24.4. um 16:00** eröffnen wir die Ausstellung
 
 **Julia Gaisbacher:  From One Side to Another**
 
-(**Geöffnet während der Galerientage am 24.4.2026 von 15:00-20:00, am 25.4.2026 von 10:00-18:00, am 26.4.2026 von 10:00-17:00, danach 14.2.–19.3.2026: Di, Mi, Do 15–18 Uhr und nach Vereinbarung**)
+(**Geöffnet während der Galerientage am 24.4.2026 von 15:00-20:00, am 25.4.2026 von 10:00-18:00, am 26.4.2026 von 10:00-17:00, danach 28.4.–22.5.2026: Di, Mi, Do 15–18 Uhr und nach Vereinbarung**)
 
 Wir laden herzlich zu einem **Künstlerinnengespräch mit Julia Gaisbacher am 
 25.4. um 13:30** ein. 
@@ -45,7 +45,7 @@ On **24 April at 16:00**, we open the exhibition
 
 **Julia Gaisbacher: From One Side to Another**
 
-(**Open during gallery days on 24.4.2026 from 15:00–20:00, on 25.4.2026 from 10:00–18:00, on 26.4.2026 from 10:00–17:00; thereafter 14.2.–19.3.2026: Tue, Wed, Thu 15:00–18:00 and by appointment**)
+(**Open during gallery days on 24.4.2026 from 15:00–20:00, on 25.4.2026 from 10:00–18:00, on 26.4.2026 from 10:00–17:00; thereafter 28.4.–22.5.2026: Tue, Wed, Thu 15:00–18:00 and by appointment**)
 
 We warmly invite you to an **artist talk with Julia Gaisbacher on 25 April at 13:30**.
 
